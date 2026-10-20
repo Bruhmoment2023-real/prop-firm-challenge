@@ -43,6 +43,8 @@ python code/03_figures_and_tables.py              # figures and T1..T5 (seconds)
 
 `--quick` runs blocks A-C at 2,000 paths as a smoke test and writes `results/QUICK_*.csv`. Some scripts and notes contain the original absolute project path (`D:\Research-Publishing\01-prop-firm-challenge`); run from the repository root and adjust that path if a script reports a missing file. The literature-map steps need R 4.5 with `bibliometrix` and are described in `bibliometrics/README.md`.
 
+Two later checks (standard library plus numpy, run from the repository root with the root as `<repo>`): `python -I code/headline_pass_intervals.py <repo> <out.csv>` gives the 95% Wilson intervals in Table 2 (saved output `results/headline_pass_intervals.csv`), and `python -I code/daily_limit_off.py <repo> <out.csv>` reruns the FTMO headline cells of Section 3.3 with the daily loss limit on and off (saved output `results/daily_limit_off_results.csv`, log `results/daily_limit_off_log.txt`). The second uses `code/sim_copy_nonumba.py`, a copy of `code/propsim/sim.py` whose numba decorator is a no-op so it runs without numba; its bootstrap cells need `data/market/` (see `fetch_market_data.py`).
+
 ## Data sources and licences
 
 | Data | Source | Terms |
