@@ -1,0 +1,5 @@
+2026-10-17: .\rerun.ps1 -Quick -Root E:\Research-Staging\01-prop-firm-challenge\rerun-test
+Steps run: build_rule_tables.py, then 02_run_experiments.py --quick (blocks A-C, 2,000 paths per cell). Exit code 0; wall time 767 s on a laptop shared with other jobs.
+Outputs written only on the E: copy: results\QUICK_A_zero_edge_grid.csv (296,681 bytes), QUICK_B_economics.csv (168,419), QUICK_C_edge_sensitivity.csv (70,877), parts_quick\.
+-Full (validation, blocks A-E at 20,000 paths, figures) was NOT run: heavy; the pack's own README gives measured times.
+Not compared: the quick tables were not diffed against the real tables (different path counts by design).

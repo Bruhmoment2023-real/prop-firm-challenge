@@ -1,0 +1,16 @@
+"name","group","label","slice","color","id","sum","freq"
+"financial education","1953-2012","financial education--1953-2012","1","#FF7F0080",0,0.00954198473282443,21
+"option pricing","1953-2012","option pricing--1953-2012","1","#E41A1C80",1,0.307251908396947,341
+"portfolio optimization","1953-2012","portfolio optimization--1953-2012","1","#A6562880",2,0.219465648854962,209
+"retail investors","1953-2012","retail investors--1953-2012","1","#377EB880",3,0.316793893129771,387
+"risk-taking","1953-2012","risk-taking--1953-2012","1","#4DAF4A80",4,0.146946564885496,273
+"day trading","2013-2021","day trading--2013-2021","2","#F781BF80",5,0.0976,151
+"kelly criterion","2013-2021","kelly criterion--2013-2021","2","#984EA380",6,0.256,396
+"option pricing","2013-2021","option pricing--2013-2021","2","#E41A1C80",7,0.2576,257
+"performance fees","2013-2021","performance fees--2013-2021","2","#4DAF4A80",8,0.1232,147
+"retail investors","2013-2021","retail investors--2013-2021","2","#377EB880",9,0.2656,303
+"algorithmic trading","2022-2026","algorithmic trading--2022-2026","3","#66C2A580",10,0.0266666666666667,72
+"kelly criterion","2022-2026","kelly criterion--2022-2026","3","#984EA380",11,0.355555555555556,297
+"retail investors","2022-2026","retail investors--2022-2026","3","#377EB880",12,0.337777777777778,309
+"transaction costs","2022-2026","transaction costs--2022-2026","3","#FC8D6280",13,0.0555555555555556,112
+"option pricing","2022-2026","option pricing--2022-2026","3","#E41A1C80",14,0.224444444444444,202

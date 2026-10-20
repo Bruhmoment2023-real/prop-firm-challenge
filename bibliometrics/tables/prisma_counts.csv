@@ -1,0 +1,27 @@
+﻿stage,n
+Records identified through database searching (all query hits),17670
+   of which from arxiv,390
+   of which from crossref,9600
+   of which from s2,7636
+   of which from seed,5
+   of which from seed_title,39
+Duplicates removed (same DOI / id / title across queries and databases),2276
+Unique records screened on title (+ abstract where the database supplied one),15394
+Removed at title pre-screen (off-topic),13907
+Records looked up in OpenAlex,1487
+Duplicates removed after OpenAlex matching (same work / same title),59
+Excluded at full screen: unresolved in OpenAlex (not in corpus),68
+Included after search screening,1073
+Snowball: central papers used,25
+Snowball: backward-reference candidates,664
+Snowball: forward-citation candidates (OpenCitations),6116
+Snowball: duplicates of corpus records,78
+Snowball: included (backward),14
+Snowball: included (forward),61
+Corpus before hand-screening,910
+Removed at hand-screening (see tables/hand_screen_removed.csv),0
+FINAL CORPUS,910
+   with abstract,687
+   with DOI,839
+   with a reference list in OpenAlex,691
+Distinct cited references / resolved to metadata,12048 / 2020

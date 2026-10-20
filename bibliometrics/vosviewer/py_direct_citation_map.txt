@@ -1,0 +1,604 @@
+id	label	description	url	cluster	weight<Local citations>	weight<Global citations>	score<Pub. year>
+1	barber (2000)	Trading Is Hazardous to Your Wealth: The Common Stock Investment Performance of Individual Investors	https://doi.org/10.1111/0022-1082.00226	1	98	3940	2000
+2	grossman (1993)	OPTIMAL INVESTMENT STRATEGIES FOR CONTROLLING DRAWDOWNS	https://doi.org/10.1111/j.1467-9965.1993.tb00044.x	2	67	381	1993
+3	geman (1996)	PRICING AND HEDGING DOUBLE‐BARRIER OPTIONS: A PROBABILISTIC APPROACH	https://doi.org/10.1111/j.1467-9965.1996.tb00122.x	2	58	229	1996
+4	chekhlov (2005)	DRAWDOWN MEASURE IN PORTFOLIO OPTIMIZATION	https://doi.org/10.1142/s0219024905002767	2	52	343	2005
+5	barber (2008)	Just How Much Do Individual Investors Lose by Trading?	https://doi.org/10.1093/rfs/hhn046	1	46	950	2008
+6	brown (1996)	Of Tournaments and Temptations: An Analysis of Managerial Incentives in the Mutual Fund Industry	https://doi.org/10.1111/j.1540-6261.1996.tb05203.x	3	42	1485	1996
+7	chevalier (1997)	Risk Taking by Mutual Funds as a Response to Incentives	https://doi.org/10.1086/516389	3	39	2289	1997
+8	pelsser (2000)	Pricing double barrier options using Laplace transforms	https://doi.org/10.1007/s007800050005	2	39	136	2000
+9	kumar (2009)	Who Gambles in the Stock Market?	https://doi.org/10.1111/j.1540-6261.2009.01483.x	1	38	1798	2009
+10	cvitanić (1995)	On Portfolio Optimization under “Drawdown” Constraints	https://doi.org/10.1007/978-1-4757-2435-6_3	2	39	158	1995
+11	feng (2005)	Do Investor Sophistication and Trading Experience Eliminate Behavioral Biases in Financial Markets?	https://doi.org/10.1007/s10679-005-2262-0	1	32	788	2005
+12	carpenter (2000)	Does Option Compensation Increase Managerial Risk Appetite?	https://doi.org/10.1111/0022-1082.00288	3	28	926	2000
+13	seru (2009)	Learning by Trading	https://doi.org/10.1093/rfs/hhp060	1	27	543	2009
+14	busse (2001)	Another Look at Mutual Fund Tournaments	https://doi.org/10.2307/2676197	3	27	330	2001
+15	magdon‐ismail (2004)	On the maximum drawdown of a Brownian motion	https://doi.org/10.1239/jap/1077134674	2	31	168	2004
+16	goetzmann (2003)	High‐Water Marks and Hedge Fund Management Contracts	https://doi.org/10.1111/1540-6261.00581	3	27	595	2003
+17	barber (2013)	The cross-section of speculator skill: Evidence from day trading	https://doi.org/10.1016/j.finmar.2013.05.006	1	22	112	2013
+18	élie (2008)	Optimal lifetime consumption and investment under a drawdown constraint	https://doi.org/10.1007/s00780-008-0066-8	2	22	97	2008
+19	barber (2013)	The Behavior of Individual Investors	https://doi.org/10.1016/b978-0-44-459406-8.00022-6	1	21	702	2013
+20	jordan (2003)	The Profitability of Day Traders	https://doi.org/10.2469/faj.v59.n6.2578	1	21	88	2003
+21	thorp (2008)	The kelly criterion in blackjack sports betting, and the stock market	https://doi.org/10.1016/b978-044453248-0.50015-0	2	19	155	2008
+22	alexander (2006)	Portfolio selection with a drawdown constraint	https://doi.org/10.1016/j.jbankfin.2005.12.006	2	19	64	2006
+23	kaminski (2013)	When do stop-loss rules stop losses?	https://doi.org/10.1016/j.finmar.2013.07.001	2	18	67	2013
+24	nicolosi (2008)	Do individual investors learn from their trading experience?	https://doi.org/10.1016/j.finmar.2008.07.001	1	17	252	2008
+25	harris (1998)	The trading profits of SOES bandits	https://doi.org/10.1016/s0304-405x(98)00031-2	1	17	112	1998
+26	locke (2005)	Professional trader discipline and trade disposition	https://doi.org/10.1016/j.jfineco.2004.01.004	3	16	374	2005
+27	starks (1987)	Performance Incentive Fees: An Agency Theoretic Approach	https://doi.org/10.2307/2330867	3	16	287	1987
+28	rotando (1992)	The Kelly Criterion and the Stock Market	https://doi.org/10.1080/00029890.1992.11995955	2	16	88	1992
+29	milev (2009)	Numerical valuation of discrete double barrier options	https://doi.org/10.1016/j.cam.2009.10.029	2	16	37	2009
+30	gao (2014)	Do Individual Investors Treat Trading as a Fun and Exciting Gambling Activity? Evidence from Repeated Natural Experiments	https://doi.org/10.1093/rfs/hhu075	1	15	226	2014
+31	cherny (2013)	Portfolio optimisation under non-linear drawdown constraints in a semimartingale financial model	https://doi.org/10.1007/s00780-013-0209-4	2	15	43	2013
+32	coval (2005)	Do Behavioral Biases Affect Prices?	https://doi.org/10.1111/j.1540-6261.2005.00723.x	3	14	582	2005
+33	sepp (2004)	ANALYTICAL PRICING OF DOUBLE-BARRIER OPTIONS UNDER A DOUBLE-EXPONENTIAL JUMP DIFFUSION PROCESS: APPLICATIONS OF LAPLACE TRANSFORM	https://doi.org/10.1142/s0219024904002402	2	14	98	2004
+34	thorp (2006)	Chapter 9 The Kelly Criterion in Blackjack Sports Betting, and the Stock Market	https://doi.org/10.1016/s1872-0978(06)01009-x	2	14	85	2006
+35	buchen (2009)	A New Approach to Pricing Double-Barrier Options with Arbitrary Payoffs and Exponential Boundaries	https://doi.org/10.1080/13504860903075480	2	14	35	2009
+36	golbabai (2013)	A Highly Accurate Finite Element Method to Price Discrete Double Barrier Options	https://doi.org/10.1007/s10614-013-9388-5	2	14	34	2013
+37	ivković (2008)	Portfolio Concentration and the Performance of Individual Investors	https://doi.org/10.1017/s0022109000004233	1	13	362	2008
+38	kuo (2013)	Overconfident individual day traders: Evidence from the Taiwan futures market	https://doi.org/10.1016/j.jbankfin.2013.04.036	1	13	47	2013
+39	sidenius (1998)	Double barrier options: valuation by path counting	https://doi.org/10.21314/jcf.1998.012	2	13	31	1998
+40	huang (2011)	Risk Shifting and Mutual Fund Performance	https://doi.org/10.1093/rfs/hhr001	3	12	444	2011
+41	taylor (2003)	Risk-taking behavior in mutual fund tournaments	https://doi.org/10.1016/s0167-2681(02)00028-8	3	12	171	2003
+42	qiu (2003)	Termination Risk, Multiple Managers and Mutual Fund Tournaments	https://doi.org/10.1023/a:1024533132105	3	12	98	2003
+43	boyarchenko (2009)	VALUATION OF CONTINUOUSLY MONITORED DOUBLE BARRIER OPTIONS AND RELATED SECURITIES	https://doi.org/10.1111/j.1467-9965.2010.00469.x	2	12	60	2009
+44	hui (1996)	One-touch double barrier binary option values	https://doi.org/10.1080/096031096334141	2	12	43	1996
+45	chen (2007)	Trading Performance, Disposition Effect, Overconfidence, Representativeness Bias, and Experience of Emerging Market Investors	https://doi.org/10.1002/bdm.561	1	11	626	2007
+46	barber (2022)	Attention‐Induced Trading and Returns: Evidence from Robinhood Users	https://doi.org/10.1111/jofi.13183	1	11	568	2022
+47	hvidkjaer (2008)	Small Trades and the Cross-Section of Stock Returns	https://doi.org/10.1093/rfs/hhn049	1	11	391	2008
+48	bauer (2008)	Option trading and individual investor performance	https://doi.org/10.1016/j.jbankfin.2008.11.005	1	11	170	2008
+49	schwarz (2011)	Mutual Fund Tournaments: The Sorting Bias and New Evidence	https://doi.org/10.1093/rfs/hhr091	3	11	115	2011
+50	aragon (2011)	Tournament Behavior in Hedge Funds: High-water Marks, Fund Liquidation, and Managerial Stake	https://doi.org/10.1093/rfs/hhr111	3	11	97	2011
+51	chekhlov (2000)	Portfolio Optimization with Drawdown Constraints	https://doi.org/10.2139/ssrn.223323	2	11	82	2000
+52	pospisil (2009)	Portfolio sensitivity to changes in the maximum and the maximum drawdown	https://doi.org/10.1080/14697680903008751	2	11	54	2009
+53	barberis (2009)	What Drives the Disposition Effect? An Analysis of a Long‐Standing Preference‐Based Explanation	https://doi.org/10.1111/j.1540-6261.2009.01448.x	1	10	685	2009
+54	zabarankin (2013)	Capital Asset Pricing Model (CAPM) with drawdown measure	https://doi.org/10.1016/j.ejor.2013.03.024	2	11	97	2013
+55	boyle (1998)	An explicit finite difference approach to the pricing of barrier options	https://doi.org/10.1080/135048698334718	2	10	88	1998
+56	schlarbaum (1978)	THE COMMON‐STOCK‐PORTFOLIO PERFORMANCE RECORD OF INDIVIDUAL INVESTORS: 1964–70	https://doi.org/10.1111/j.1540-6261.1978.tb04859.x	1	10	82	1978
+57	cai (2009)	Pricing double-barrier options under a flexible jump diffusion model	https://doi.org/10.1016/j.orl.2009.02.006	2	10	56	2009
+58	hsieh (2017)	On Drawdown-Modulated Feedback Control in Stock Trading	https://doi.org/10.1016/j.ifacol.2017.08.167	2	10	18	2017
+59	thorp (1975)	Portfolio Choice and the Kelly Criterion**This research was supported in part by the Air Force Office of Scientific Research under Grant AF-AFOSR 1870A. An expanded version of this paper will be submitted for publication elsewhere.	https://doi.org/10.1016/b978-0-12-780850-5.50051-4	2	9	144	1975
+60	chen (2015)	Analytically pricing double barrier options based on a time-fractional Black–Scholes equation	https://doi.org/10.1016/j.camwa.2015.03.025	2	9	137	2015
+61	zhang (2011)	Drawdowns and the Speed of Market Crash	https://doi.org/10.1007/s11009-011-9262-7	2	9	48	2011
+62	guillaume (2010)	Step Double Barrier Options	https://doi.org/10.3905/jod.2010.18.1.059	2	9	22	2010
+63	schröder (2000)	On the valuation of double-barrier options: computational aspects	https://doi.org/10.21314/jcf.2000.050	2	9	20	2000
+64	arthur (2016)	Day Traders in South Australia: Similarities and Differences with Traditional Gamblers	https://doi.org/10.1007/s10899-016-9659-x	1	8	39	2016
+65	luo (2001)	Various types of double-barrier options	https://doi.org/10.21314/jcf.2001.070	2	8	24	2001
+66	garvey (2005)	Entry, exit and trading profits: A look at the trading strategies of a proprietary trading team	https://doi.org/10.1016/j.jempfin.2004.10.002	3	8	18	2005
+67	hsieh (2015)	On Kelly betting: Some limitations	https://doi.org/10.1109/allerton.2015.7447000	2	8	17	2015
+68	lei (2009)	value of stop loss strategies	https://doi.org/10.61190/fsr.v18i1.4933	2	8	15	2009
+69	hsieh (2016)	Kelly betting can be too conservative	https://doi.org/10.1109/cdc.2016.7798825	2	8	15	2016
+70	lee (2021)	Multi-step double barrier options	https://doi.org/10.1016/j.frl.2021.102587	2	8	10	2021
+71	garvey (2004)	Are Professional Traders Too Slow to Realize Their Losses?	https://doi.org/10.2469/faj.v60.n4.2635	3	7	151	2004
+72	browne (1996)	Portfolio choice and the Bayesian Kelly criterion	https://doi.org/10.1017/s0001867800027592	2	7	122	1996
+73	golec (2004)	Performance fee contract change and mutual fund risk	https://doi.org/10.1016/j.jfineco.2002.05.001	3	7	91	2004
+74	davydov (2001)	Structuring, pricing and hedging double-barrier step options	https://doi.org/10.21314/jcf.2001.090	2	7	60	2001
+75	lin (1998)	Double barrier hitting time distributions with applications to exotic options	https://doi.org/10.1016/s0167-6687(98)00021-3	2	7	50	1998
+76	guasoni (2013)	THE INCENTIVES OF HEDGE FUND FEES AND HIGH‐WATER MARKS	https://doi.org/10.1111/mafi.12057	3	7	43	2013
+77	carraro (2012)	On Azéma–Yor processes, their optimal properties and the Bachelier–drawdown equation	https://doi.org/10.1214/10-aop614	2	7	26	2012
+78	carraro (2009)	On Az\'ema-Yor processes, their optimal properties and the Bachelier-drawdown equation	https://doi.org/10.1214/10-aop614	2	7	26	2009
+79	farnoosh (2015)	Numerical method for discrete double barrier option pricing with time-dependent parameters	https://doi.org/10.1016/j.camwa.2015.08.016	2	7	23	2015
+80	browne (1999)	Reaching goals by a deadline: digital options and continuous-time active portfolio management	https://doi.org/10.1239/aap/1029955147	2	6	124	1999
+81	linnainmaa (2003)	The Anatomy of Day Traders	https://doi.org/10.2139/ssrn.472182	1	6	28	2003
+82	wu (2018)	A Novel Approach of Option Portfolio Construction Using the Kelly Criterion	https://doi.org/10.1109/access.2018.2869282	2	6	28	2018
+83	hui (2000)	Comment on 'Pricing double barrier options using Laplace transforms' by Antoon Pelsser	https://doi.org/10.1007/s007800050006	2	6	26	2000
+84	baker (2013)	Optimal Betting Under Parameter Uncertainty: Improving the Kelly Criterion	https://doi.org/10.1287/deca.2013.0271	2	6	25	2013
+85	sekine (2006)	A note on long-term optimal portfolios under drawdown constraints	https://doi.org/10.1017/s0001867800001221	2	6	21	2006
+86	james (2010)	Stop-losses, maximum drawdown-at-risk and replicating financial time series with the stationary bootstrap	https://doi.org/10.1080/14697680903545596	2	6	20	2010
+87	gollier (1997)	On the Inefficiency of Bang-Bang and Stop-Loss Portfolio Strategies	https://doi.org/10.1023/a:1007725428360	2	6	16	1997
+88	sobhani (2017)	A numerical method for pricing discrete double barrier option by Legendre multiwavelet	https://doi.org/10.1016/j.cam.2017.07.033	2	6	15	2017
+89	farnoosh (2017)	Efficient and fast numerical method for pricing discrete double barrier option by projection method	https://doi.org/10.1016/j.camwa.2017.01.019	2	6	15	2017
+90	klement (2013)	Assessing Stop-Loss and Re-Entry Strategies	https://doi.org/10.3905/jot.2013.8.4.044	2	6	10	2013
+91	choe (2014)	Probability of multiple crossings and pricing of double barrier options	https://doi.org/10.1016/j.najef.2014.05.007	2	6	7	2014
+92	heimer (2016)	Peer Pressure: Social Interaction and the Disposition Effect	https://doi.org/10.1093/rfs/hhw063	1	5	323	2016
+93	browne (1997)	Survival and Growth with a Liability: Optimal Portfolio Strategies in Continuous Time	https://doi.org/10.1287/moor.22.2.468	2	5	155	1997
+94	choe (2009)	The disposition effect and investment performance in the futures market	https://doi.org/10.1002/fut.20398	1	5	121	2009
+95	carr (1990)	The Stop-Loss Start-Gain Paradox and Option Valuation: A New Decomposition into Intrinsic and Time Value	https://doi.org/10.1093/rfs/3.3.469	2	5	92	1990
+96	richards (2015)	Stock market investors' use of stop losses and the disposition effect	https://doi.org/10.1080/1351847x.2015.1048375	1	5	64	2015
+97	barber (2004)	Do Individual Day Traders Make Money? Evidence from Taiwan	https://openalex.org/W2405630229	1	5	60	2004
+98	dacorogna (2001)	Effective return, risk aversion and drawdowns	https://doi.org/10.1016/s0378-4371(00)00462-3	2	5	55	2001
+99	lo (2017)	The growth of relative wealth and the Kelly criterion	https://doi.org/10.1007/s10818-017-9253-z	2	5	39	2017
+100	chen (2015)	On minimizing drawdown risks of lifetime investments	https://doi.org/10.1016/j.insmatheco.2015.08.007	2	5	37	2015
+101	zhang (2015)	Occupation Times, Drawdowns, and Drawups for One-Dimensional Regular Diffusions	https://doi.org/10.1239/aap/1427814588	2	5	31	2015
+102	kolkiewicz (2002)	Pricing and hedging more general double-barrier options	https://doi.org/10.21314/jcf.2002.086	2	5	29	2002
+103	kyrolainen (2007)	Day trading and stock price volatility	https://doi.org/10.1007/s12197-007-9006-2	1	5	27	2007
+104	li (2006)	On the Consequences of Mutual Fund Tournaments	https://doi.org/10.2139/ssrn.687123	3	5	27	2006
+105	li (2005)	The Pricing of Double Barrier Options and Their Variations	https://openalex.org/W2252508560	2	5	23	2005
+106	håkansson (2021)	Gambling-Like Day Trading During the COVID-19 Pandemic – Need for Research on a Pandemic-Related Risk of Indebtedness and Mental Health Impact	https://doi.org/10.3389/fpsyt.2021.715946	1	5	20	2021
+107	hayes (2006)	Maximum Drawdowns of Hedge Funds with Serial Correlation	https://doi.org/10.3905/jai.2006.627848	2	6	19	2006
+108	nekrasov (2013)	Kelly Criterion for Multivariate Portfolios: A Model-Free Approach	https://doi.org/10.2139/ssrn.2259133	2	5	16	2013
+109	lo (2007)	Valuing double barrier options with time-dependent parameters by Fourier series expansion ∗	https://openalex.org/W37519735	2	5	12	2007
+110	jun (2012)	Continuity correction for discrete barrier options with two barriers	https://doi.org/10.1016/j.cam.2012.06.021	2	5	11	2012
+111	wu (2015)	An Adaptive Kelly Betting Strategy for Finite Repeated Games	https://doi.org/10.1007/978-3-319-23207-2_5	2	5	9	2015
+112	rising (2012)	Partial Kelly portfolios and shrinkage estimators	https://doi.org/10.1109/isit.2012.6283549	2	5	9	2012
+113	lo (2005)	Fear and Greed in Financial Markets: A Clinical Study of Day-Traders	https://doi.org/10.1257/000282805774670095	1	4	307	2005
+114	shu (2012)	Local Religious Beliefs and Mutual Fund Risk-Taking Behaviors	https://doi.org/10.1287/mnsc.1120.1525	3	4	236	2012
+115	staelen (2017)	Numerically pricing double barrier options in a time-fractional Black–Scholes model	https://doi.org/10.1016/j.camwa.2017.06.005	2	4	96	2017
+116	jordan (2004)	Day Traders and the Disposition Effect	https://doi.org/10.1207/s15427579jpfm0504_2	1	4	81	2004
+117	shu (2004)	Are Taiwanese individual investors reluctant to realize their losses?	https://doi.org/10.1016/j.pacfin.2004.08.001	1	4	66	2004
+118	koestner (2012)	Do Individual Investors Learn from Their Mistakes?	https://doi.org/10.1007/s11573-017-0855-7	1	4	59	2012
+119	thorp (2011)	PORTFOLIO CHOICE AND THE KELLY CRITERION	https://doi.org/10.1142/9789814293501_0007	2	4	58	2011
+120	elton (2001)	Incentive Fees and Mutual Funds	https://doi.org/10.2139/ssrn.275912	3	4	58	2001
+121	goriaev (2001)	Mutual Fund Tournament: Risk Taking Incentives Induced by Ranking Objectives	https://doi.org/10.2139/ssrn.249022	3	4	44	2001
+122	clare (2013)	Breaking into the blackbox: Trend following, stop losses and the frequency of trading – The case of the S&P500	https://doi.org/10.1057/jam.2013.11	2	4	38	2013
+123	ryu (2012)	The profitability of day trading: An empirical study using high-quality data	https://doi.org/10.1080/10293523.2012.11082543	1	4	36	2012
+124	busseti (2016)	Risk-Constrained Kelly Gambling	https://doi.org/10.3905/joi.2016.25.3.118	2	4	28	2016
+125	angoshtari (2016)	Optimal investment to minimize the probability of drawdown	https://doi.org/10.1080/17442508.2016.1155590	2	4	25	2016
+126	guillaume (2003)	Window Double Barrier Options	https://doi.org/10.1023/a:1022874005113	2	4	19	2003
+127	ballestra (2011)	A boundary element method to price time-dependent double barrier options	https://doi.org/10.1016/j.amc.2011.09.050	2	4	18	2011
+128	jeon (2016)	An analytic expansion method for the valuation of double-barrier options under a stochastic volatility model	https://doi.org/10.1016/j.jmaa.2016.11.061	2	4	17	2016
+129	hamelink (2003)	The Maximum Drawdown as a Risk Measure: The Role of Real Estate in the Optimal Portfolio Revisited	https://doi.org/10.2139/ssrn.423181	2	4	7	2003
+130	lee (2021)	Piecewise linear double barrier options	https://doi.org/10.1002/fut.22279	2	4	7	2021
+131	wu (2018)	A Framework of Option Buy-Side Strategy with Simple Index Futures Trading Based on Kelly Criterion	https://doi.org/10.1109/besc.2018.8697308	2	4	7	2018
+132	lazear (1981)	Rank-Order Tournaments as Optimum Labor Contracts	https://doi.org/10.1086/261010	3	3	4560	1981
+133	browne (1995)	Optimal Investment Policies for a Firm With a Random Risk Process: Exponential Utility and Minimizing the Probability of Ruin	https://doi.org/10.1287/moor.20.4.937	2	3	605	1995
+134	liang (1999)	On the Performance of Hedge Funds	https://doi.org/10.2469/faj.v55.n4.2287	3	3	479	1999
+135	døskeland (2011)	Do Individual Investors Have Asymmetric Information Based on Work Experience?	https://doi.org/10.1111/j.1540-6261.2011.01658.x	1	3	159	2011
+136	barber (2000)	The Courage of Misguided Convictions: The Trading Behavior of Individual Investors	https://doi.org/10.2139/ssrn.219175	1	3	86	2000
+137	zhang (2016)	The numerical simulation of the tempered fractional Black–Scholes equation for European double barrier option	https://doi.org/10.1016/j.apm.2016.01.027	2	3	86	2016
+138	locke (2001)	Do Professional Traders Exhibit Loss Realization Aversion	https://doi.org/10.2139/ssrn.251942	3	3	84	2001
+139	golbabai (2019)	A Computational Method Based on the Moving Least-Squares Approach for Pricing Double Barrier Options in a Time-Fractional Black–Scholes Model	https://doi.org/10.1007/s10614-019-09880-4	2	3	75	2019
+140	buraschi (2014)	Incentives and Endogenous Risk Taking: A Structural View on Hedge Fund Alphas	https://doi.org/10.1111/jofi.12167	3	3	71	2014
+141	vezeris (2018)	Take Profit and Stop Loss Trading Strategies Comparison in Combination with an MACD Trading System	https://doi.org/10.3390/jrfm11030056	2	3	35	2018
+142	li (2015)	Discretely monitored first passage problems and barrier options: an eigenfunction expansion approach	https://doi.org/10.1007/s00780-015-0271-1	2	3	35	2015
+143	chou (2014)	The Impacts of Individual Day Trading Strategies on Market Liquidity and Volatility: Evidence from the Taiwan Index Futures Market	https://doi.org/10.1002/fut.21665	1	3	30	2014
+144	rezaei (2021)	Numerical pricing based on fractional Black–Scholes equation with time-dependent parameters under the CEV model: Double barrier options	https://doi.org/10.1016/j.camwa.2021.02.021	2	3	30	2021
+145	zhang (2021)	Pricing American drawdown options under Markov models	https://doi.org/10.1016/j.ejor.2021.01.033	2	3	26	2021
+146	wood (1992)	The Stock Market Game: Classroom Use and Strategy	https://doi.org/10.1080/00220485.1992.10844758	3	3	24	1992
+147	maslov (1999)	Probability distribution of drawdowns in risky investments	https://doi.org/10.1016/s0378-4371(98)00416-6	2	3	22	1999
+148	wang (2021)	On pricing of vulnerable barrier options and vulnerable double barrier options	https://doi.org/10.1016/j.frl.2021.102100	2	3	20	2021
+149	faulhaber (2002)	ANALYTIC METHODS FOR PRICING DOUBLE BARRIER OPTIONS IN THE PRESENCE OF STOCHASTIC VOLATILITY	https://openalex.org/W2154311662	2	3	19	2002
+150	davis (2011)	Fractional Kelly Strategies for Benchmarked Asset Management	https://doi.org/10.1142/9789814293501_0027	2	3	14	2011
+151	chague (2019)	Day Trading for a Living?	https://doi.org/10.2139/ssrn.3423101	1	3	12	2019
+152	guasoni (2011)	The Incentives of Hedge Fund Fees and High-Water Marks	https://doi.org/10.2139/ssrn.1784429	3	3	12	2011
+153	agarwal (2018)	Portfolio Benchmarking Under Drawdown Constraint and Stochastic Sharpe Ratio	https://doi.org/10.1137/16m1100861	2	3	10	2018
+154	ahmadian (2014)	A numerical method to price discrete double Barrier options under a constant elasticity of variance model with jump diffusion	https://doi.org/10.1080/00207160.2014.986114	2	3	10	2014
+155	baghdadabad (2013)	MEAN-DRAWDOWN RISK BEHAVIOR: DRAWDOWN RISK AND CAPITAL ASSET PRICING	https://doi.org/10.3846/16111699.2012.720593	2	3	7	2013
+156	kim (2010)	Relevance of Maximum Drawdown in the Investment Fund Selection Problem When Utility is Non-Additive	https://doi.org/10.2139/ssrn.1576998	2	3	5	2010
+157	lee (2023)	Pricing multi-step double barrier options by the efficient non-crossing probability	https://doi.org/10.1016/j.frl.2023.103772	2	3	4	2023
+158	lee (2025)	Multi-step double barrier options under time-varying interest rates	https://doi.org/10.1016/j.najef.2025.102372	2	3	3	2025
+159	kramer (2012)	Financial Advice and Individual Investor Portfolio Performance	https://doi.org/10.1111/j.1755-053x.2012.01185.x	1	2	156	2012
+160	chen (2011)	Derivatives Use and Risk Taking: Evidence from the Hedge Fund Industry	https://doi.org/10.1017/s0022109011000238	3	2	129	2011
+161	leung (2015)	OPTIMAL MEAN REVERSION TRADING WITH TRANSACTION COSTS AND STOP-LOSS EXIT	https://doi.org/10.1142/s021902491550020x	2	2	113	2015
+162	heimer (2018)	Should retail investors’ leverage be limited?	https://doi.org/10.1016/j.jfineco.2018.10.017	1	2	109	2018
+163	dahlquist (2016)	Individual Investor Activity and Performance	https://doi.org/10.1093/rfs/hhw093	1	2	90	2016
+164	bhattacharya (2017)	Do Superstitious Traders Lose Money?	https://doi.org/10.1287/mnsc.2016.2701	1	2	82	2017
+165	anson (2001)	Hedge Fund Incentive Fees and the “Free Option”	https://doi.org/10.3905/jai.2001.319009	3	2	60	2001
+166	nystrup (2018)	Multi-period portfolio selection with drawdown control	https://doi.org/10.1007/s10479-018-2947-3	2	2	58	2018
+167	entrop (2014)	The performance of individual investors in structured financial products	https://doi.org/10.1007/s11156-014-0479-8	1	2	53	2014
+168	bialkowski (2019)	Cryptocurrencies in institutional investors’ portfolios: Evidence from industry stop-loss rules	https://doi.org/10.1016/j.econlet.2019.108834	2	2	46	2019
+169	sonkurt (2021)	Cryptocurrency investment: A safe venture or a new type of gambling?	https://doi.org/10.4309/jgi.2021.47.8	1	2	41	2021
+170	boyarchenko (2011)	DOUBLE BARRIER OPTIONS IN REGIME-SWITCHING HYPER-EXPONENTIAL JUMP-DIFFUSION MODELS	https://doi.org/10.1142/s0219024911006620	2	2	36	2011
+171	cheridito (2012)	Processes of Class Sigma, Last Passage Times, and Drawdowns	https://doi.org/10.1137/09077878x	2	2	30	2012
+172	geboers (2022)	A review on drawdown risk measures and their implications for risk management	https://doi.org/10.1111/joes.12520	2	2	24	2022
+173	meyer (2014)	(Un)skilled leveraged trading of retail investors	https://doi.org/10.1007/s11408-014-0225-1	1	3	23	2014
+174	heidorn (2009)	The Risk of Funds of Hedge Funds: An Empirical Analysis of the Maximum Drawdown	https://doi.org/10.3905/jwm.2009.12.2.089	2	2	21	2009
+175	weber (2007)	The Follow-on Purchase and Repurchase Behavior of Individual Investors : An Experimental Investigation	https://openalex.org/W1516623030	1	2	20	2007
+176	gao (2011)	Do Individual Investors Trade Stocks as Gambling? Evidence from Repeated Natural Experiments	https://doi.org/10.2139/ssrn.1622184	1	2	19	2011
+177	drago (2010)	Mutual Fund Incentive Fees: Determinants and Effects	https://doi.org/10.1111/j.1755-053x.2010.01076.x	3	2	18	2010
+178	malekpour (2013)	A drawdown formula for stock trading via linear feedback in a market governed by Brownian Motion	https://doi.org/10.23919/ecc.2013.6669705	2	2	17	2013
+179	haigh (2000)	The Kelly Criterion and Bet Comparisons in Spread Betting	https://doi.org/10.1111/1467-9884.00251	2	2	17	2000
+180	allie (2016)	The value of financial advice: An analysis of the investment performance of advised and non-advised individual investors	https://doi.org/10.1080/10293523.2016.1201292	1	2	15	2016
+181	shen (2001)	On stop-loss strategies for stock investments	https://doi.org/10.1016/s0096-3003(99)00229-5	2	2	15	2001
+182	sekine (2013)	Long-Term Optimal Investment with a Generalized Drawdown Constraint	https://doi.org/10.1137/110830101	2	2	14	2013
+183	ethier (2002)	Bounds on Gambler's Ruin Probabilities in Terms of Moments	https://doi.org/10.1023/a:1015705430513	2	2	13	2002
+184	baghdadabad (2013)	Evaluation of Malaysian mutual funds in the maximum drawdown risk measure framework	https://doi.org/10.1108/ijmf-07-2011-0056	2	2	13	2013
+185	linnainmaa (2005)	The Individual Day Trader	https://openalex.org/W2132517966	1	2	10	2005
+186	baghdadabad (2012)	Optimized drawdown risk in evaluating the performance of Malaysian mutual funds	https://doi.org/10.1108/17590811211265957	2	2	10	2012
+187	aragon (2009)	On Tournament Behavior in Hedge Funds: High Water Marks, Managerial Horizon, and the Backfilling Bias	https://doi.org/10.2139/ssrn.1361846	3	2	9	2009
+188	yamamoto (2010)	PROBABILITY DISTRIBUTION AND OPTION PRICING FOR DRAWDOWN IN A STOCHASTIC VOLATILITY ENVIRONMENT	https://doi.org/10.1142/s0219024910005796	2	2	9	2010
+189	karoui (2015)	Fund performance and subsequent risk: a study of mutual fund tournaments using holdings-based measures	https://doi.org/10.1007/s11408-014-0241-1	3	2	9	2015
+190	appolloni (2014)	THE BINOMIAL INTERPOLATED LATTICE METHOD FOR STEP DOUBLE BARRIER OPTIONS	https://doi.org/10.1142/s0219024914500356	2	2	8	2014
+191	maier‐paape (2018)	Risk averse fractional trading using the current drawdown	https://doi.org/10.21314/jor.2018.388	2	2	7	2018
+192	wu (2018)	Empirical Evaluations on Momentum Effects of Taiwan Index Futures via Stop-Loss and Stop-Profit Mechanisms	https://doi.org/10.1142/s0219622019500056	2	2	7	2018
+193	schweinsberg (2005)	Improving on bold play when the gambler is restricted	https://doi.org/10.1239/jap/1118777173	2	2	6	2005
+194	maier (2002)	A Critical Review ofLearning from the Market: IntegratingThe Stock Market Gameacross the Curriculum	https://doi.org/10.1080/00220480209596127	3	2	6	2002
+195	davison (2016)	The Retail FX Trader: Random Trading and the Negative Sum Game	https://doi.org/10.2139/ssrn.2711214	1	2	5	2016
+196	yang (2013)	Towards optimal portfolio strategy to control maximum drawdown	https://doi.org/10.1108/20441391311330582	2	2	5	2013
+197	김대환 (2011)	Relevance of Maximum Drawdown in the Investment Fund Selection Problem When Utility is Nonadditive	https://doi.org/10.17256/jer.2011.16.3.002	2	2	5	2011
+198	möller (2018)	DRAWDOWN MEASURES AND RETURN MOMENTS	https://doi.org/10.1142/s0219024918500425	2	2	5	2018
+199	ballestra (2021)	Enhancing finite difference approximations for double barrier options: mesh optimization and repeated Richardson extrapolation	https://doi.org/10.1007/s10287-021-00394-9	2	2	5	2021
+200	kim (2017)	A Comparison of the Kelly Criterion and a Mean-Variance Model to Portfolio Selection with KOSPI 200	https://doi.org/10.7232/iems.2017.16.3.392	2	2	5	2017
+201	d’amico (2021)	A SEMI-MARKOVIAN APPROACH TO DRAWDOWN-BASED MEASURES	https://doi.org/10.1142/s0219525920500204	2	2	4	2021
+202	lee (2023)	The pricing and static hedging of multi-step double barrier options	https://doi.org/10.1016/j.frl.2023.103890	2	2	3	2023
+203	kim (2024)	Kelly Criterion Extension: Advanced Gambling Strategy	https://doi.org/10.3390/math12111725	2	2	3	2024
+204	phatarfod (2007)	Some aspects of gambling with the Kelly criterion	https://openalex.org/W2974822867	2	2	3	2007
+205	jackson (2004)	The Aggregate Behaviour of Individual Investors	https://doi.org/10.2139/ssrn.536942	1	1	91	2004
+206	barber (2021)	Resolving a Paradox: Retail Trades Positively Predict Returns but Are Not Profitable	https://doi.org/10.1017/s0022109023000601	1	1	65	2021
+207	bae (2011)	Trading Behavior, Performance, and Stock Preference of Foreigners, Local Institutions, and Individual Investors: Evidence from the Korean Stock Market*	https://doi.org/10.1111/j.2041-6156.2011.01037.x	1	1	64	2011
+208	dierick (2018)	Financial Attention and the Disposition Effect	https://doi.org/10.1016/j.jebo.2019.04.019	1	1	59	2018
+209	kansal (2018)	Determinants of overconfidence bias in Indian stock market	https://doi.org/10.1108/qrfm-03-2017-0015	1	1	58	2018
+210	aragon (2010)	High-Water Marks and Hedge Fund Compensation	https://doi.org/10.2139/ssrn.1540205	3	1	52	2010
+211	foster (2010)	Gaming Performance Fees By Portfolio Managers	https://doi.org/10.1162/qjec.2010.125.4.1435	3	1	47	2010
+212	osler (2006)	Stop-Loss Orders and Price Cascades in Currency Markets	https://doi.org/10.2139/ssrn.920687	2	1	45	2006
+213	guardasoni (2018)	A Mellin transform approach to barrier option pricing	https://doi.org/10.1093/imaman/dpy016	2	1	35	2018
+214	ben‐david (2018)	Uninformative Feedback and Risk Taking: Evidence from Retail Forex Trading	https://doi.org/10.1093/rof/rfy022	1	1	28	2018
+215	koski (2004)	Noise Trading and Volatility: Evidence from Day Trading and Message Boards	https://doi.org/10.2139/ssrn.533943	1	1	26	2004
+216	shu (2004)	Does Trading Improve Individual Investor Performance?	https://doi.org/10.1023/b:requ.0000025760.91840.8d	1	1	26	2004
+217	jaiyeoba (2019)	Institutional investors vs retail investors	https://doi.org/10.1108/ijbm-07-2019-0242	1	1	25	2019
+218	drenovak (2021)	Mean-Maximum Drawdown Optimization of Buy-and-Hold Portfolios Using a Multi-objective Evolutionary Algorithm	https://doi.org/10.1016/j.frl.2021.102328	2	1	25	2021
+219	刘 (2016)	Do Emotions Expressed Online Correlate with Actual Changes in Decision-Making?: The Case of Stock Day Traders	https://doi.org/10.1371/journal.pone.0144945	1	1	23	2016
+220	ahmed (2014)	The trading patterns and performance of individual vis-à-vis institutional investors in the Qatar Exchange	https://doi.org/10.1108/raf-09-2012-0089	1	1	21	2014
+221	glaser (2005)	Individual Investor Sentiment and Stock Returns - What Do We Learn from Warrant Traders?	https://doi.org/10.2139/ssrn.923526	1	1	21	2005
+222	brooks (2007)	The Gross Truth About Hedge Fund Performance and Risk: The Impact of Incentive Fees	https://doi.org/10.2139/ssrn.1031096	3	1	21	2007
+223	lorek (2016)	Generalized Gambler’s Ruin Problem: Explicit Formulas via Siegmund Duality	https://doi.org/10.1007/s11009-016-9507-6	2	1	18	2016
+224	dias (2014)	Pricing and static hedging of European-style double barrier options under the jump to default extended CEV model	https://doi.org/10.1080/14697688.2014.971049	2	1	17	2014
+225	bogousslavsky (2024)	An Anatomy of Retail Option Trading	https://doi.org/10.2139/ssrn.4682388	1	1	16	2024
+226	ding (2022)	Drawdown beta and portfolio optimization	https://doi.org/10.1080/14697688.2022.2037698	2	1	16	2022
+227	che (2008)	Performance Persistence of Individual Investors	https://doi.org/10.2139/ssrn.1107795	1	1	14	2008
+228	eaton (2022)	Retail Option Traders and the Implied Volatility Surface	https://doi.org/10.2139/ssrn.4104788	1	1	14	2022
+229	ji (2022)	Barrier Option Pricing in the Sub-Mixed Fractional Brownian Motion with Jump Environment	https://doi.org/10.3390/fractalfract6050244	2	1	14	2022
+230	yener (2014)	Maximizing survival, growth and goal reaching under borrowing constraints	https://doi.org/10.1080/14697688.2014.972435	2	1	14	2014
+231	eloe (2009)	Double barrier option under regime-switching exponential mean-reverting process	https://doi.org/10.1080/00207160802545874	2	1	14	2009
+232	rodrigo (2020)	Pricing of Barrier Options on Underlying Assets with Jump-Diffusion Dynamics: A Mellin Transform Approach	https://doi.org/10.3390/math8081271	2	1	14	2020
+233	d’hondt (2021)	Do retail investors bite off more than they can chew? A close look at their return objectives	https://doi.org/10.1016/j.jebo.2021.06.009	1	1	13	2021
+234	nouri (2015)	Implementation of the modified Monte Carlo simulation for evaluate the barrier option prices	https://doi.org/10.1016/j.jtusci.2015.02.010	2	1	13	2015
+235	wu (2020)	Analysis of Kelly betting on finite repeated games	https://doi.org/10.1016/j.amc.2019.125028	2	1	13	2020
+236	carta (2020)	Practical Implementation of the Kelly Criterion: Optimal Growth Rate, Number of Trades, and Rebalancing Frequency for Equity Portfolios	https://doi.org/10.3389/fams.2020.577050	2	1	13	2020
+237	choi (2021)	Maximum Drawdown, Recovery, and Momentum	https://doi.org/10.3390/jrfm14110542	2	1	13	2021
+238	kagan (1995)	Risk-Adjusted Returns and Stock Market Games	https://doi.org/10.1080/00220485.1995.10844855	3	1	13	1995
+239	h�rlimann (2005)	Improved Analytical Bounds for Gambler?s Ruin Probabilities	https://doi.org/10.1007/s11009-005-6656-4	2	1	12	2005
+240	boyarchenko (2008)	User's Guide to Pricing Double Barrier Options. Part I: Kou's Model and Generalizations	https://doi.org/10.2139/ssrn.1272081	2	1	12	2008
+241	hayley (2016)	What do retail FX traders learn?	https://doi.org/10.1016/j.jimonfin.2016.02.001	1	1	11	2016
+242	molyboga (2016)	Portfolio Management with Drawdown-Based Measures	https://doi.org/10.3905/jai.2017.19.3.075	2	1	11	2016
+243	maier‐paape (2018)	A General Framework for Portfolio Theory. Part II: Drawdown Risk Measures	https://doi.org/10.3390/risks6030076	2	1	11	2018
+244	yin (2022)	Risking or Derisking: How Management Fees Affect Hedge Fund Risk-Taking Choices	https://doi.org/10.1093/rfs/hhac046	3	1	11	2022
+245	schmitz (2005)	Individual Investor Sentiment and Stock Returns - What Do We Learn from Individual Warrant Traders?	https://doi.org/10.2139/ssrn.676844	1	1	10	2005
+246	itkin (2021)	Semi-analytic pricing of double barrier options with time-dependent barriers and rebates at hit	https://doi.org/10.3934/fmf.2021002	2	1	10	2021
+247	zhang (2019)	Design of green bonds by double-barrier options	https://doi.org/10.3934/dcdss.2020110	2	1	10	2019
+248	jin (2021)	Could social interaction reduce the disposition effect? Evidence from retail investors in a directed social trading network	https://doi.org/10.1371/journal.pone.0246759	1	1	9	2021
+249	kamolsareeratana (2023)	Compulsive Gambling in the Stock Market: Evidence from an Emerging Market	https://doi.org/10.3390/economies11010028	1	1	9	2023
+250	cheng (2016)	Day Trader Behavior and Performance: Evidence from Taiwan Futures Market	https://doi.org/10.1080/1540496x.2016.1172205	1	1	9	2016
+251	kardaras (2014)	THE NUMÉRAIRE PROPERTY AND LONG‐TERM GROWTH OPTIMALITY FOR DRAWDOWN‐CONSTRAINED INVESTMENTS	https://doi.org/10.1111/mafi.12081	2	1	8	2014
+252	nouri (2021)	Numerical method for pricing discretely monitored double barrier option by orthogonal projection method	https://doi.org/10.3934/math.2021339	2	1	8	2021
+253	song (2017)	Pricing double barrier options under a volatility regime-switching model with psychological barriers	https://doi.org/10.1007/s11147-017-9130-x	2	1	8	2017
+254	sun (2014)	An integro-differential parabolic variational inequality arising from the valuation of double barrier American option	https://doi.org/10.1007/s11424-014-2218-6	2	1	8	2014
+255	rodosthenous (2020)	When to sell an asset amid anxiety about drawdowns	https://doi.org/10.1111/mafi.12278	2	1	8	2020
+256	li (2024)	Speed and duration of drawdown under general Markov models	https://doi.org/10.1080/14697688.2024.2336154	2	1	8	2024
+257	fung (2021)	The price discovery role of day traders in futures market: Evidence from different types of day traders	https://doi.org/10.1016/j.jempfin.2021.08.001	1	1	7	2021
+258	leslie (2024)	Correlates of Gambling Behaviours Among Day Traders: Evidence from a National Study	https://doi.org/10.1007/s10899-024-10314-6	1	1	7	2024
+259	katriel (2013)	Gambler’s ruin probability—A general formula	https://doi.org/10.1016/j.spl.2013.06.005	2	1	7	2013
+260	baghdadabad (2013)	The effects of drawdown risk reduction on the US hedge funds	https://doi.org/10.1057/jdhf.2013.2	2	1	7	2013
+261	nuugulu (2023)	An Efficient Numerical Method for Pricing Double-Barrier Options on an Underlying Stock Governed by a Fractal Stochastic Process	https://doi.org/10.3390/fractalfract7050389	2	1	7	2023
+262	bellafiore (2010)	One Good Trade: Inside the Highly Competitive World of Proprietary Trading	https://openalex.org/W618408097	3	1	7	2010
+263	liu (2024)	Hedging lookback-barrier option by Malliavin calculus in a mixed fractional Brownian motion environment	https://doi.org/10.1016/j.cnsns.2024.107955	2	1	6	2024
+264	león (2009)	Efficient Portfolio Optimization in the Wealth Creation and Maximum Drawdown Space	https://doi.org/10.2139/ssrn.1473595	2	1	6	2009
+265	yao (2007)	On Optimality of Bold Play for Discounted Dubins-Savage Gambling Problems with Limited Playing Times	https://doi.org/10.1017/s0021900200002813	2	1	6	2007
+266	li (2017)	Mutual Fund Tournaments and Fund Active Share	https://doi.org/10.1016/j.jfs.2022.101083	3	1	6	2017
+267	eom (2019)	Intraday disposition effect of day traders and its relationship with investment performance: evidence from the KOSPI 200 futures market	https://doi.org/10.1080/13504851.2019.1676374	1	1	5	2019
+268	lee (2013)	Contracts for dummies? The performance of investors in contracts for difference	https://doi.org/10.1111/acfi.12018	1	1	5	2013
+269	sobhani (2022)	A numerical method for pricing discrete double barrier option by Lagrange interpolation on Jacobi nodes	https://doi.org/10.1002/mma.8888	2	1	5	2022
+270	costabile (2001)	A discrete-time algorithm for pricing double barrier options	https://doi.org/10.1007/s102030170009	2	1	5	2001
+271	dassios (2017)	An Efficient Algorithm for Simulating the Drawdown Stopping Time and the Running Maximum of a Brownian Motion	https://doi.org/10.1007/s11009-017-9542-y	2	1	5	2017
+272	yang (2012)	Optimal Portfolio Strategy to Control Maximum Drawdown - The Case of Risk Based Dynamic Asset Allocation	https://doi.org/10.2139/ssrn.2053854	2	2	5	2012
+273	yu (2014)	Optimal Portfolio Strategy under Rolling Economic Maximum Drawdown Constraints	https://doi.org/10.1155/2014/787943	2	1	5	2014
+274	hsieh (2021)	Generalization of affine feedback stock trading results to include stop-loss orders	https://doi.org/10.1016/j.automatica.2021.110051	2	1	5	2021
+275	bak (2001)	The Anxious Gambler's Ruin	https://doi.org/10.1080/0025570x.2001.11953062	2	1	5	2001
+276	taranto (2020)	Drawdown and Drawup of Bi-Directional Grid Constrained Stochastic Processes	https://doi.org/10.3844/jmssp.2020.182.197	2	1	5	2020
+277	breitner (2002)	Optimization of European Double-Barrier Options via Optimal Control of the Black-Scholes-Equation	https://doi.org/10.1007/978-3-642-50282-8_21	2	1	5	2002
+278	goldberg (2022)	Sustainable investing and the cross-section of returns and maximum drawdown	https://doi.org/10.1016/j.jfds.2022.11.002	2	1	5	2022
+279	kubińska (2018)	Technical analysis gives you courage, but not money-von the relationship between technical analisys usage, overconfidence and investment performance	https://doi.org/10.15611/aoe.2018.1.14	3	1	5	2018
+280	zarattini (2023)	Can Day Trading Really Be Profitable?	https://doi.org/10.2139/ssrn.4416622	1	1	4	2023
+281	zhang (2022)	On pricing double-barrier options with Markov regime switching	https://doi.org/10.1016/j.frl.2022.103413	2	1	4	2022
+282	jacot (2023)	Kelly criterion and fractional Kelly strategy for non-mutually exclusive bets	https://doi.org/10.1515/jqas-2020-0122	2	1	4	2023
+283	byrnes (2018)	GENERALIZED FRAMEWORK FOR APPLYING THE KELLY CRITERION TO STOCK MARKETS	https://doi.org/10.1142/s0219024918500334	2	1	4	2018
+284	rej (2018)	You Are in a Drawdown. When Should You Start Worrying?	https://doi.org/10.1002/wilm.10646	2	1	4	2018
+285	pelsser (1997)	Pricing Double Barrier Options: An Analytical Approach	https://openalex.org/W2123372235	2	1	4	1997
+286	xiao (2016)	Pricing discrete double barrier options under Lévy processes: An extension of the method by Milev and Tagliani	https://doi.org/10.1016/j.frl.2016.06.004	2	1	4	2016
+287	grudsky (2006)	Double Barrier Options Under Lévy Processes	https://doi.org/10.1007/978-3-7643-7737-3_8	2	1	4	2006
+288	kudryavtsev (2021)	A Simple Wiener-Hopf Factorization Approach for Pricing Double-Barrier Options	https://doi.org/10.1007/978-3-030-76829-4_15	2	1	4	2021
+289	grégoire (2023)	Gambling on the stock market: the behavior of at-risk online traders	https://doi.org/10.1108/rbf-05-2022-0143	1	1	4	2023
+290	liew (2020)	Does proprietary day trading provide liquidity at a cost to investors?	https://doi.org/10.1016/j.irfa.2020.101455	1	1	4	2020
+291	chen (2018)	A Sophisticated Optimization Algorithm for Obtaining a Group Trading Strategy Portfolio and Its Stop-Loss and Take-Profit Points	https://doi.org/10.1109/smc.2018.00579	2	1	3	2018
+292	peterson (2018)	The Kelly criterion in portfolio optimization: a decoupled problem	https://doi.org/10.21314/jois.2017.097	2	1	3	2018
+293	arratia (2019)	On the efficacy of stop-loss rules in the presence of overnight gaps	https://doi.org/10.1080/14697688.2019.1605188	2	1	3	2019
+294	taranto (2020)	Bi-directional grid absorption barrier constrained stochastic processes with applications in finance & investment	https://doi.org/10.22495/rgcv10i3p2	2	1	3	2020
+295	hsieh (2017)	On inefficiency of markowitz-style investment strategies when drawdown is important	https://doi.org/10.1109/cdc.2017.8264108	2	1	3	2017
+296	dassios (2019)	A variation of the Azéma martingale and drawdown options	https://doi.org/10.1111/mafi.12202	2	1	3	2019
+297	masala (2022)	Drawdown risk measures for asset portfolios with high frequency data	https://doi.org/10.1007/s10436-022-00421-y	2	1	3	2022
+298	hoppe (2011)	Optimal control of European double barrier basket options	https://doi.org/10.1515/jnum.2011.006	2	1	3	2011
+299	hsiao (2015)	A Hybrid Finite Difference Method for Pricing Two-Asset Double Barrier Options	https://doi.org/10.1155/2015/692695	2	1	3	2015
+300	burtnyak (2017)	The evaluation of derivatives of double barrier options of the Bessel processes by methods of spectral analysis	https://doi.org/10.21511/imfi.14(3).2017.12	2	1	3	2017
+301	acar (2000)	Stop-loss and Investment Returns	https://openalex.org/W2563939931	2	1	3	2000
+302	li (2007)	Compensation Option, Managerial Incentives and Risk-Shifting in Hedge Funds	https://doi.org/10.2139/ssrn.1000939	3	1	3	2007
+303	cheng (2023)	The impact and profitability of day trading following the relaxation of day trading restrictions in Taiwan	https://doi.org/10.1016/j.heliyon.2023.e14939	1	1	2	2023
+304	zarattini (2024)	A Profitable Day Trading Strategy For The U.S. Equity Market	https://doi.org/10.2139/ssrn.4729284	1	1	2	2024
+305	dalvi (2023)	Day Traders, Noise, and Cost of Immediacy	https://doi.org/10.3386/w31127	1	1	2	2023
+306	kabaivanov (2017)	Efficient option valuation of single and double barrier options	https://doi.org/10.1063/1.5013939	2	1	2	2017
+307	chan (2014)	A Framework for Stop-Loss Analysis on Trading Strategies	https://doi.org/10.3905/jot.2014.10.1.087	2	1	2	2014
+308	valle (2019)	A nonlinear optimisation model for constructing minimal drawdown portfolios	https://doi.org/10.48550/arxiv.1908.08684	2	1	2	2019
+309	galekwa (2026)	Toward Sports Betting as a Financial Asset: An Investigative Analysis of Risk, Investment Potential, and Future Perspectives	https://doi.org/10.1109/access.2026.3669489	2	1	2	2026
+310	rostan (2015)	Pricing discrete double barrier options with a numerical method	https://doi.org/10.1057/jam.2015.6	2	1	2	2015
+311	cao (2017)	Multivariate Volatility Regulated Kelly Strategy: A Superior Choice in Low Correlated Portfolios	https://doi.org/10.4236/tel.2017.75098	2	1	2	2017
+312	wu (2018)	A Novel Approach for Option Trading Based on Kelly Criterion	https://doi.org/10.1007/978-3-319-75417-8_49	2	1	2	2018
+313	uem (2013)	Extended gambler's ruin problem	https://doi.org/10.48550/arxiv.1301.2702	2	1	2	2013
+314	bergman (2026)	Do proprietary traders provide liquidity?	https://doi.org/10.1016/j.jfineco.2026.104325	3	1	2	2026
+315	han (2018)	Shrinkage estimation of Kelly portfolios	https://doi.org/10.1080/14697688.2018.1483583	2	1	2	2018
+316	pitkäjärvi (2024)	Striking Out: Biases and Losses of Retail Option Traders	https://doi.org/10.2139/ssrn.4848713	1	1	1	2024
+317	kamalzadeh (2020)	A numerical method for pricing discrete double barrier option by Chebyshev polynomials	https://doi.org/10.1007/s40096-020-00319-8	2	1	1	2020
+318	lee (2016)	Expected Drawdown Management: An Ex-Ante, Long-Term Approach to Portfolio Construction	https://doi.org/10.3905/jwm.2016.18.4.065	2	1	1	2016
+319	kang (2026)	Optimal and Non-Optimal MACD Parameter Ranges with Stop-Loss and Take-Profit Rules: Evidence from the Gold Market	https://doi.org/10.3390/jrfm19030192	2	1	1	2026
+320	kong (2023)	Kelly Criterion and its Application	https://doi.org/10.54097/hbem.v9i.9240	2	1	1	2023
+321	klass (2010)	ON THE CONSUMPTION/DISTRIBUTION THEOREM UNDER THE LONG-RUN GROWTH CRITERION SUBJECT TO A DRAWDOWN CONSTRAINT	https://doi.org/10.1142/s0219024910006054	2	1	1	2010
+322	mackay (2015)	Comparing the Results of the Kelly Criterion and Risk Aversion: Quick Look Practical Alternatives to Portfolio Optimization	https://openalex.org/W2290908493	2	1	1	2015
+323	atteson (2022)	Carr Memorial: Maximum Drawdown Derivatives to a Hitting Time	https://doi.org/10.3905/jod.2022.30.2.016	2	1	1	2022
+324	luo (2022)	Continuity correction: on the pricing of discrete double barrier options	https://doi.org/10.1007/s11147-022-09193-z	2	1	1	2022
+325	lee (2025)	Double-barrier lookback options	https://doi.org/10.1016/j.irfa.2025.104673	2	1	1	2025
+326	chen (2021)	Path Integral Method for Proportional Step and Proportional Double-Barrier Step Option Pricing	https://doi.org/10.48550/arxiv.2112.09534	2	1	1	2021
+327	phatarfod (2011)	Further aspects of gambling with the Kelly criterion	https://openalex.org/W2979636363	2	1	1	2011
+328	bolina (2001)	The gambler's ruin problem in path representation form	https://doi.org/10.48550/arxiv.math/0111242	2	1	1	2001
+329	karoui (2014)	A note on sorting bias correction in regression-based mutual fund tournament tests	https://doi.org/10.1007/s11408-014-0240-2	3	1	1	2014
+330	wittlinger (2011)	Terminal wealth problems in illiquid markets under a drawdown constraint	https://doi.org/10.18725/oparu-1806	2	1	1	2011
+331	ngoc (2013)	Behavior Pattern of Individual Investors in Stock Market	https://doi.org/10.5539/ijbm.v9n1p1	1	0	126	2013
+332	jones (2024)	Retail Trading and Return Predictability in China	https://doi.org/10.1017/s0022109024000085	1	0	115	2024
+333	browne (2000)	Stochastic differential portfolio games	https://doi.org/10.1239/jap/1014842273	3	0	94	2000
+334	zahera (2019)	A study of prominence for disposition effect: a systematic review	https://doi.org/10.1108/qrfm-07-2018-0081	1	0	53	2019
+335	gaba (2022)	Prior Experience of Managers and Maladaptive Responses to Performance Feedback: Evidence from Mutual Funds	https://doi.org/10.1287/orsc.2022.1605	3	0	50	2022
+336	zhang (2008)	Are day traders bias free?—evidence from internet stock message boards	https://doi.org/10.1007/s12197-008-9063-1	1	0	49	2008
+337	ho (2011)	Does Overconfidence Harm Individual Investors? An Empirical Analysis of the Taiwanese Market	https://doi.org/10.1111/j.2041-6156.2011.01053.x	1	0	30	2011
+338	badía (2020)	The performance of social responsible investing from retail investors' perspective: international evidence	https://doi.org/10.1002/ijfe.2109	1	0	30	2020
+339	anderson (2005)	Limit Order Trading Behavior and Individual Investor Performance	https://doi.org/10.1207/s15427579jpfm0602_3	1	0	28	2005
+340	foltice (2015)	Profitable momentum trading strategies for individual investors	https://doi.org/10.1007/s11408-015-0246-4	1	0	25	2015
+341	abreu (2020)	Do individual investors trade differently in different financial markets?	https://doi.org/10.1080/1351847x.2019.1709524	1	0	21	2020
+342	sotes-paladino (2018)	Riding the Bubble with Convex Incentives	https://doi.org/10.1093/rfs/hhy074	3	0	21	2018
+343	singh (2024)	Overconfidence bias among retail investors: A systematic review and future research directions	https://doi.org/10.21511/imfi.21(1).2024.23	1	0	19	2024
+344	barber (1998)	The Common Stock Investment Performance of Individual Investors	https://doi.org/10.2139/ssrn.94140	1	0	18	1998
+345	havakhor (2024)	Tech-Enabled Financial Data Access, Retail Investors, and Gambling-Like Behavior in the Stock Market	https://doi.org/10.1287/mnsc.2021.01379	1	0	17	2024
+346	park (2014)	Investment Performance of Individual Investors: Evidence from the Korean Stock Market	https://doi.org/10.2753/ree1540-496x5001s113	1	0	16	2014
+347	oreng (2021)	Disposition effect, demographics and risk taking	https://doi.org/10.1108/rausp-08-2019-0164	1	0	16	2021
+348	han (2021)	Mutual Fund Risk Shifting and Risk Anomalies	https://doi.org/10.2139/ssrn.3931449	3	0	16	2021
+349	benson (2007)	Do Derivatives Have a Role in the Risk-Shifting Behaviour of Fund Managers?	https://doi.org/10.1177/031289620703200206	3	0	16	2007
+350	parhi (2021)	Impact of overconfidence bias in stock trading approach: a study of high net worth individual (HNI) stock investors in India	https://doi.org/10.1108/bij-07-2020-0389	1	0	15	2021
+351	shantha (2018)	A conceptual framework on individual investors’ learning behavior in the context of stock trading: An integrated perspective	https://doi.org/10.1080/23322039.2018.1544062	1	0	15	2018
+352	richards (2017)	Who trades profusely? The characteristics of individual investors who trade frequently	https://doi.org/10.1016/j.gfj.2017.03.006	1	0	15	2017
+353	lee (2023)	Association between gambling and financial trading: A systemic review.	https://doi.org/10.12688/f1000research.129754.1	1	0	14	2023
+354	cui (2020)	Pricing Discretely Monitored Barrier Options under Markov Processes through Markov Chain Approximation	https://doi.org/10.3905/jod.2020.1.116	2	0	14	2020
+355	andraszewicz (2023)	The influence of upward social comparison on retail trading behaviour	https://doi.org/10.1038/s41598-023-49648-3	1	0	13	2023
+356	aghdam (2021)	The Convergence Investigation of a Numerical Scheme for the Tempered Fractional Black-Scholes Model Arising European Double Barrier Option	https://doi.org/10.1007/s10614-021-10216-4	2	0	13	2021
+357	hao (2024)	Culture imprint and gambling preference: Evidence from individual investors' trading in the Chinese stock market	https://doi.org/10.1016/j.ememar.2024.101136	1	0	12	2024
+358	liang (2024)	The Effect of Gambling Preference on Stock Volatility: From the Evidence of Looser Price Limits Regulation	https://doi.org/10.1080/1540496x.2024.2308181	1	0	12	2024
+359	zhang (2021)	Lottery preference and stock market participation: evidence from China	https://doi.org/10.1108/cfri-01-2021-0008	1	0	12	2021
+360	rudin (2016)	Investor Views, Drawdown-Based Risk Parity, and Hedge Fund Portfolio Construction	https://doi.org/10.3905/jai.2016.19.2.063	2	0	12	2016
+361	baviera (2018)	Stop-loss and leverage in optimal statistical arbitrage with an application to energy market	https://doi.org/10.1016/j.eneco.2018.03.024	2	0	12	2018
+362	jiang (2020)	On implied volatility recovery of a time-fractional Black-Scholes equation for double barrier options	https://doi.org/10.1080/00036811.2020.1712369	2	0	12	2020
+363	list (2010)	Investment Under Uncertainty: Testing the Options Model with Professional Traders	https://doi.org/10.1162/rest_a_00041	3	0	12	2010
+364	servaes (2022)	The Costs and Benefits of Performance Fees in Mutual Funds	https://doi.org/10.1016/j.jfi.2022.100959	3	0	12	2022
+365	bui (2022)	Income, trading, and performance: Evidence from retail investors	https://doi.org/10.1016/j.jempfin.2022.01.006	1	0	11	2022
+366	oehler (2022)	Gambling with lottery stocks?	https://doi.org/10.1057/s41260-022-00268-y	1	0	11	2022
+367	fung (2024)	Information acquisition and processing skills of institutions and retail investors around information shocks	https://doi.org/10.1016/j.jempfin.2024.101495	1	0	11	2024
+368	luo (2022)	Economic Policy Uncertainty and Mutual Fund Risk Shifting	https://doi.org/10.1016/j.pacfin.2022.101921	3	0	11	2022
+369	garay (2021)	The performance of retail investors, trading intensity and time in the market: evidence from an emerging stock market	https://doi.org/10.1016/j.heliyon.2021.e08583	1	0	10	2021
+370	hussain (2020)	A game based on successive events	https://doi.org/10.1002/sta4.274	2	0	10	2020
+371	chen (2012)	Strategic Mutual Fund Tournaments	https://doi.org/10.2139/ssrn.2023805	3	0	10	2012
+372	dolinsky (2010)	Binomial Approximations for Barrier Options of Israeli Style	https://doi.org/10.1007/978-0-8176-8089-3_22	2	0	10	2010
+373	warburton (2004)	A simple computational model for analyzing the properties of stop-loss, take-profit, and price breakout trading strategies	https://doi.org/10.1016/j.cor.2004.06.001	2	0	9	2004
+374	roul (2024)	A high-order numerical scheme and its analysis for Caputo temporal-fractional Black-Scholes model: European double barrier knock-out option	https://doi.org/10.1007/s11075-024-01802-2	2	0	9	2024
+375	villalobos (2007)	The Stock Portfolio Game	https://doi.org/10.1287/ited.8.1.41	3	0	9	2007
+376	sancetta (2004)	Calculating hedge fund risk: the draw down and the maximum draw down	https://doi.org/10.1080/1350486042000220553	2	0	9	2004
+377	meyer (2012)	Just Unlucky? – A Bootstrapping Simulation to Measure Skill in Individual Investors’ Investment Performance	https://doi.org/10.2139/ssrn.2023588	1	0	9	2012
+378	özerol (2011)	DETERMINING THE PERFORMANCE OF INDIVIDUAL INVESTORS: THE PREDICTIVE ROLES of DEMOGRAPHIC VARIABLES and TRADING STRATEGIES	https://openalex.org/W2187255057	1	0	8	2011
+379	bauer (2007)	The Performance and Persistence of Individual Investors: Rational Agents or Tulip Maniacs?	https://openalex.org/W2186902732	1	0	8	2007
+380	fallah (2018)	A fractional version of the Cox–Ingersoll–Ross interest rate model and pricing double barrier option with Hurst index H∈(23,1)	https://doi.org/10.1080/03610926.2018.1464580	2	0	8	2018
+381	goldberg (2019)	Sustainable Investing and the Cross-Section of Maximum Drawdown	https://doi.org/10.2139/ssrn.3387615	2	0	8	2019
+382	vezeris (2020)	Automated trading systems’ evaluation using d-Backtest PS method and WM ranking in financial markets	https://doi.org/10.21511/imfi.17(2).2020.16	2	0	8	2020
+383	boyarchenko (2024)	EFFICIENT EVALUATION OF DOUBLE-BARRIER OPTIONS	https://doi.org/10.1142/s0219024924500079	2	0	8	2024
+384	popescu (2017)	Market states and mutual fund risk shifting	https://doi.org/10.1108/mf-09-2016-0278	3	0	8	2017
+385	lane (2021)	Biased Information Transmission in Investor Social Networks: Evidence From Professional Traders	https://doi.org/10.2139/ssrn.3956040	3	0	8	2021
+386	kunwar (2021)	The Relationship of Behavioral Factors with Investment Performance of Individual Investors in the Nepali Stock Market	https://doi.org/10.3126/paj.v4i0.37016	1	0	7	2021
+387	kontosakos (2020)	Pricing discretely-monitored double barrier options with small probabilities of execution	https://doi.org/10.1016/j.ejor.2020.07.044	2	0	7	2020
+388	song (2012)	High-Water Marks and Hedge Fund Management Contracts with Partial Information	https://doi.org/10.1007/s10614-012-9338-7	3	0	7	2012
+389	oehler (2022)	Social trading: do signal providers trigger gambling?	https://doi.org/10.1007/s11846-022-00560-6	3	0	7	2022
+390	yao (2008)	Strong Optimality of Bold Play for Discounted Dubins-Savage Gambling Problems with Time-Dependent Parameters	https://doi.org/10.1017/s0021900200004319	2	0	6	2008
+391	avram (2021)	General drawdown of general tax model in a time-homogeneous Markov framework	https://doi.org/10.1017/jpr.2021.22	2	0	6	2021
+392	lee (2004)	An Equitable Structure for Hedge Fund Incentive Fees	https://doi.org/10.3905/joi.2004.434549	3	0	6	2004
+393	baghdadabad (2013)	Average Drawdown Risk and Capital Asset Pricing	https://doi.org/10.1142/s0219091513500288	2	0	6	2013
+394	packin (2025)	Hooked and Hustled: The Predatory Allure of Gamblified Finance	https://doi.org/10.52214/cblr.v2025i1.14252	1	0	5	2025
+395	hsu (2022)	Double-barrier option pricing equations under extended geometric Brownian motion with bankruptcy risk	https://doi.org/10.1016/j.spl.2022.109383	2	0	5	2022
+396	rieder (2014)	On Optimal Terminal Wealth Problems with Random Trading Times and Drawdown Constraints	https://doi.org/10.1017/s0001867800006960	2	0	5	2014
+397	wu (2021)	Informative index for investment based on Kelly criterion	https://doi.org/10.1080/17517575.2021.1939425	2	0	5	2021
+398	jeon (2016)	PRICING EXTERNAL-CHAINED BARRIER OPTIONS WITH EXPONENTIAL BARRIERS	https://doi.org/10.4134/bkms.b150789	2	0	5	2016
+399	dewally (2010)	Determinants of Trading Profits of Individual Traders: Risk Premia or Information?	https://doi.org/10.2139/ssrn.1535543	1	0	5	2010
+400	mateus (2022)	Does equity mutual fund factor-risk-shifting pay off? Evidence from the US	https://doi.org/10.1080/1351847x.2022.2071629	3	0	5	2022
+401	li (2018)	Duration of poor performance and risk shifting by hedge fund managers	https://doi.org/10.1016/j.gfj.2018.11.001	3	0	5	2018
+402	jeannin (2010)	PRICING AND HEDGING BARRIER OPTIONS IN A HYPER-EXPONENTIAL ADDITIVE MODEL	https://doi.org/10.1142/s0219024910005954	2	0	5	2010
+403	lin (2015)	Trading patterns in the TAIEX futures markets: Information- or behavioral-based trades?	https://doi.org/10.1016/j.apmrv.2014.10.002	1	0	5	2015
+404	villatoro (2022)	Mislearning and (poor) performance of individual investors	https://doi.org/10.1017/s147474722200018x	1	0	5	2022
+405	o'brien (2020)	A Generalization of the Classical Kelly Betting Formula to the Case of Temporal Correlation	https://doi.org/10.1109/lcsys.2020.3004029	2	0	5	2020
+406	filho (2020)	Sensation Seeking and Overconfidence in day traders: evidence from Brazil	https://doi.org/10.1108/rbf-05-2020-0104	1	0	4	2020
+407	saranj (2025)	Trading behavior-stock market volatility nexus among institutional and individual investors	https://doi.org/10.1186/s40854-024-00717-0	1	0	4	2025
+408	rezaei (2022)	Pricing European Double Barrier Option with Moving Barriers Under a Fractional Black–Scholes Model	https://doi.org/10.1007/s00009-022-02104-4	2	0	4	2022
+409	boyarchenko (2023)	Alternative models for FX, arbitrage opportunities and efficient pricing of double barrier options in L'evy models	https://doi.org/10.2139/ssrn.4656451	2	0	4	2023
+410	roche (2018)	Asset management with endogenous withdrawals under a drawdown constraint	https://doi.org/10.1080/14697688.2018.1469785	2	0	4	2018
+411	mei (2023)	Bayesian nonparametric portfolio selection with rolling maximum drawdown control	https://doi.org/10.1080/14697688.2023.2250386	2	0	4	2023
+412	dai (2022)	Lottery stocks and stop-loss rules	https://doi.org/10.1016/j.gfj.2022.100748	2	0	4	2022
+413	ma (2008)	Flow-performance relationship and tournament behavior in the mutual fund industry	https://openalex.org/W2026218855	3	0	4	2008
+414	atlan (2005)	Options on Hedge Funds under the High Water Mark Rule	https://doi.org/10.48550/arxiv.math/0510497	3	0	4	2005
+415	giambona (2005)	Incentive Fees and Mutual Fund Volatility Timing	https://doi.org/10.2139/ssrn.820264	3	0	4	2005
+416	dai (2020)	On the Valuation of Performance Fees and Their Impact on Asset Managers’ Incentives	https://doi.org/10.2139/ssrn.3686987	3	0	4	2020
+417	kansara (2020)	Towards a better understanding of the full impact of the left digit effect on individual trading behaviour: unearthing a trading profit effect	https://doi.org/10.1080/1351847x.2020.1717976	1	0	4	2020
+418	weiss‐cohen (2024)	When Vegas Comes to Wall Street: Associations Between Stock Price Volatility and Trading Frequency Amongst Gamblers	https://doi.org/10.1007/s11469-023-01229-1	1	0	4	2024
+419	coloma‐carmona (2025)	Not all traders gamble, but some gamblers trade: a latent class analysis of trading and gambling behaviors among retail investors	https://doi.org/10.1016/j.puhe.2025.105742	1	0	3	2025
+420	broihanne (2008)	Are French Individual Investors Reluctant to Realize Their Losses?	https://doi.org/10.2139/ssrn.1282119	1	0	3	2008
+421	ettinger (2020)	The inverse first passage time problem for killed Brownian motion	https://doi.org/10.1214/19-aap1529	2	0	3	2020
+422	leduc (2024)	The Boyle–Romberg Trinomial Tree, a Highly Efficient Method for Double Barrier Option Pricing	https://doi.org/10.3390/math12070964	2	0	3	2024
+423	bustos (2022)	Portfolio management under drawdown constraint in discrete-time financial markets	https://doi.org/10.1017/jpr.2022.31	2	0	3	2022
+424	sadaqat (2023)	Stop-loss rules and momentum payoffs in cryptocurrencies	https://doi.org/10.1016/j.jbef.2023.100833	2	0	3	2023
+425	hong (2022)	Stop-loss early termination clause and hedge fund performance	https://doi.org/10.1016/j.pacfin.2022.101860	2	0	3	2022
+426	uslu (2018)	Liquidity flows, drawdowns and trading networks in order driven markets: An application to Borsa Istanbul	https://doi.org/10.1016/j.bir.2017.12.002	2	0	3	2018
+427	d’amico (2024)	Drawdown-based risk indicators for high-frequency financial volumes	https://doi.org/10.1186/s40854-023-00593-0	2	0	3	2024
+428	choi (2022)	A Valuation Formula for Chained Options with n‐Barriers	https://doi.org/10.1155/2022/9563019	2	0	3	2022
+429	wesselhöfft (2019)	Risk-Constrained Kelly Portfolios Under Alpha-Stable Laws	https://doi.org/10.1007/s10614-019-09913-y	2	0	3	2019
+430	teixeira (2014)	Pair trading in Bovespa with a quantitative approach: cointegration, Ornstein-Uhlenbeck equation and Kelly criterion.	https://openalex.org/W2274867547	2	0	3	2014
+431	ahmadpour (2021)	The role of gender for the risk-shifting behavior of hedge fund and CTA managers	https://doi.org/10.1016/j.frl.2021.102635	3	0	3	2021
+432	locke (2015)	Learning by aspiring professional traders: Learning to take risk	https://doi.org/10.1016/j.jbef.2015.09.001	3	0	3	2015
+433	mitchell (2019)	Hedge Fund Compensation: Incentive Fees and Performance Intervals	https://doi.org/10.2139/ssrn.3318622	3	0	3	2019
+434	ramezani (2022)	How Do Financial Market Outcomes Affect Gambling?	https://doi.org/10.2139/ssrn.4104887	1	0	3	2022
+435	clare (2014)	Heads We Win, Tails You Lose. Why Don't More Fund Managers Offer Symmetric Performance Fees?	https://doi.org/10.2139/ssrn.2525545	3	0	3	2014
+436	santamaría (2017)	Timid performance fees in mutual funds	https://doi.org/10.1057/s41260-017-0061-8	3	0	3	2017
+437	bondt (2024)	Measuring speculation beyond day trading and bets on lottery-like stocks	https://doi.org/10.1016/j.irfa.2024.103632	1	0	3	2024
+438	metel (2018)	Kelly Betting on Horse Races with Uncertainty in Probability Estimates	https://doi.org/10.1287/deca.2017.0359	2	0	3	2018
+439	whybrow (2025)	‘Are you struggling to keep it up?’: problematic content in day-trading adverts targeted at men on Instagram	https://doi.org/10.1080/16066359.2025.2579019	1	0	3	2025
+440	lin (2011)	Overconfident Individual Day Traders: Evidence from a Natural Experiment	https://doi.org/10.2139/ssrn.1944059	1	0	2	2011
+441	zhang (2021)	Pricing double-barrier option with processes depending on various states of the economy	https://doi.org/10.1080/03610926.2021.1891439	2	0	2	2021
+442	pacelli (2009)	Pricing Double-Barrier Options Using the Boundary Element Method	https://doi.org/10.2139/ssrn.1492653	2	0	2	2009
+443	banerjee (2003)	Close Form Pricing of Plain and Partial Outside Double Barrier Options	https://doi.org/10.2139/ssrn.379121	2	0	2	2003
+444	yuan (2021)	Maximizing the goal-reaching probability before drawdown with borrowing constraint	https://doi.org/10.3934/math.2021514	2	0	2	2021
+445	sinclair (2014)	Confidence intervals for the Kelly criterion	https://doi.org/10.21314/jois.2014.045	2	0	2	2014
+446	osorio (2008)	A Prospect-Theory Approach to the Kelly Criterion for Fat-Tail Portfolios: The Case of the Student T-Distribution	https://doi.org/10.2139/ssrn.1271373	2	0	2	2008
+447	çetinkaya (1997)	Optimal nonmyopic gambling strategy for the generalized Kelly criterion	https://doi.org/10.1002/(sici)1520-6750(199710)44:7<639::aid-nav3>3.0.co;2-d	2	0	2	1997
+448	lototsky (2021)	Kelly Criterion: From a Simple Random Walk to Lévy Processes	https://doi.org/10.1137/20m1330488	2	0	2	2021
+449	shelton (2016)	The value of stop-loss, stop-gain strategies in dynamic asset allocation	https://doi.org/10.1057/s41260-016-0010-y	2	0	2	2016
+450	bayat (2024)	Drawdown minimization in asset portfolio selection: MINLP models and efficient cross‐entropy algorithm	https://doi.org/10.1111/itor.13588	2	0	2	2024
+451	poddar (2024)	Employing behavioural portfolio theory for sustainable investment: Examining drawdown risks and ESG factors	https://doi.org/10.1080/10293523.2024.2375818	2	0	2	2024
+452	casati (2012)	About the Statistics of the Maximum Drawdown in Financial Time Series	https://doi.org/10.2139/ssrn.2049584	2	0	2	2012
+453	eriksson (2008)	A method of moments approach to pricing double barrier contracts driven by a general class of jump diffusions	https://doi.org/10.48550/arxiv.0812.4548	2	0	2	2008
+454	silalahi (2023)	DETERMINING THE VALUE OF DOUBLE BARRIER OPTION USING STANDARD MONTE CARLO, ANTITHETIC VARIATE, AND CONTROL VARIATE METHODS	https://doi.org/10.30598/barekengvol17iss2pp1017-1026	2	0	2	2023
+455	dvořáčková (2021)	How Do Limit Orders Affect the Disposition Effect on Highly Liquid Markets – Experimental Finance Evidence	https://doi.org/10.1080/15427560.2021.1973006	2	0	2	2021
+456	wu (2021)	Determination of Profit Quantification on Kelly Betting Based on Relative Entropy	https://doi.org/10.1080/16843703.2021.1903668	2	0	2	2021
+457	afik (2024)	Winners and losers in investment competition – Experimental study	https://doi.org/10.1016/j.frl.2024.105019	3	0	2	2024
+458	day (2014)	"The Stock Market Game Taught Me to Be More Careful with My Money": A Closer Look	https://openalex.org/W2899591446	3	0	2	2014
+459	gao (2020)	The Barrier Binary Options	https://doi.org/10.4236/jmf.2020.101010	2	0	2	2020
+460	kramer (2009)	The Impact of Financial Advisors on Individual Investor Portfolio Performance	https://doi.org/10.2139/ssrn.1342690	1	0	2	2009
+461	peters (2023)	Analysis of option-like fund performance fees in asset management via Monte Carlo actuarial distortion pricing	https://doi.org/10.1017/s1748499522000203	3	0	2	2023
+462	lindblom (2017)	The Financial Behavior of Individual Investors	https://doi.org/10.1007/978-3-319-54762-6_5	1	0	2	2017
+463	lundström (2018)	Optimal Leverage in Day Trading	https://doi.org/10.3905/jot.2018.13.2.057	1	0	1	2018
+464	šimović (2007)	Specialized Day Trading - A New View of an Old Game	https://doi.org/10.2139/ssrn.957172	1	0	1	2007
+465	woo (2024)	Day Trading Performance in High Frequency Trading	https://doi.org/10.26845/kjfs.2024.02.53.1.191	1	0	1	2024
+466	lü (2015)	'Other People’s Money': The Trading Performance of Household Investors vs. Delegated Money Managers	https://doi.org/10.2139/ssrn.2571761	1	0	1	2015
+467	li (2011)	Institutional Trading Performance in a Retail Investor Dominated Emerging Market	https://doi.org/10.2139/ssrn.1781036	1	0	1	2011
+468	stålnacke (2024)	Do individual investors gamble to recoup losses?	https://doi.org/10.1080/13504851.2024.2371511	1	0	1	2024
+469	mwakabumbe (2023)	Individual Investors’ Risk Behaviour and Share Trading Frequency: Evidence from Dar es Salaam Stock Exchange	https://doi.org/10.24815/jaroe.v5i3.26811	1	0	1	2023
+470	quang (2025)	Sleep quality and trading behavior of individual investors on the stock market	https://doi.org/10.3846/jbem.2025.23629	1	0	1	2025
+471	bradrania (2015)	Fool's Mate: What Does CHESS Tell Us About Individual Investor Trading Performance?	https://doi.org/10.2139/ssrn.2670341	1	0	1	2015
+472	li (2017)	Numerical Methods for Discrete Double Barrier Option Pricing Based on Merton Jump Diffusion Model	https://doi.org/10.4236/ojs.2017.73032	2	0	1	2017
+473	yue (2024)	Fractal barrier option pricing under sub-mixed fractional Brownian motion with jump processes	https://doi.org/10.3934/math.20241496	2	0	1	2024
+474	boyarchenko (2024)	Alternative Models for FX: Pricing Double Barrier Options in Regime-switching Lévy Models With Memory	https://doi.org/10.2139/ssrn.4738420	2	0	1	2024
+475	tchoudi (2022)	Optimal Trading Portfolio Allocation Enhancement with Maximum Drawdown Using Triple Penance Rule	https://doi.org/10.31730/osf.io/uef3y	2	0	1	2022
+476	biswas (2020)	MULTI-ASSET PORTFOLIO OPTIMIZATION WITH STOCHASTIC SHARPE RATIO UNDER DRAWDOWN CONSTRAINT	https://doi.org/10.1142/s2010495220800019	2	0	1	2020
+477	zabarankin (2024)	Benchmark-based deviation and drawdown measures in portfolio optimization	https://doi.org/10.1007/s11590-024-02124-x	2	0	1	2024
+478	vedernikov (2024)	PORTFOLIO MODELS FOR OPTIMIZING DRAWDOWN DURATION	https://doi.org/10.1142/s0219024924500146	2	0	1	2024
+479	hsieh (2023)	On Data-Driven Drawdown Control with Restart Mechanism in Trading	https://doi.org/10.1016/j.ifacol.2023.10.219	2	0	1	2023
+480	xiang (2024)	Optimal stop-loss rules in markets with long-range dependence	https://doi.org/10.1080/14697688.2024.2306830	2	0	1	2024
+481	leoni (2008)	Stop-loss strategies and derivatives portfolios	https://doi.org/10.1504/ijbfmi.2008.020816	2	0	1	2008
+482	kim (2017)	Some thoughts on the kelly criterion associated with a real investment perspective	https://doi.org/10.1109/ieem.2017.8290171	2	0	1	2017
+483	mackay (2016)	Comparing the Results of an Exploration Portfolio Optimized Using Utility Theory Versus the Kelly Criterion	https://doi.org/10.2118/179972-ms	2	0	1	2016
+484	syu (2025)	Trapezoid and trapezoidal prism for the maximum relative drawdown: Probability, crash options pricing, and risk	https://doi.org/10.1016/j.amc.2025.129708	2	0	1	2025
+485	thomakos (2018)	Dynamic stop-loss rules as universal performance enhancers	https://doi.org/10.21511/imfi.15(2).2018.01	2	0	1	2018
+486	yang (2009)	Downside and Drawdown Risk Characteristics of Optimal Portfolios in Continuous Time	https://doi.org/10.1016/s1570-8659(08)00005-7	2	0	1	2009
+487	jondeau (2024)	Large Drawdowns and Long-Term Asset Management	https://doi.org/10.3390/jrfm17120552	2	0	1	2024
+488	kim (2018)	Are Value At Risk And Maximum Drawdown Different From Volatility In Stock Market?	https://doi.org/10.19030/jabr.v34i2.10121	2	0	1	2018
+489	geboers (2023)	A Rational Risk Policy? Why Path Dependence Matters	https://doi.org/10.3390/e25020202	2	0	1	2023
+490	altay (2013)	DIGITAL DOUBLE BARRIER OPTIONS: SEVERAL BARRIER PERIODS AND STRUCTURE FLOORS	https://doi.org/10.1142/s0219024913500441	2	0	1	2013
+491	kudryavtsev (2024)	A simplified Wiener–Hopf factorization method for pricing double barrier options under Lévy processes	https://doi.org/10.1007/s10287-024-00519-w	2	0	1	2024
+492	li (2011)	Hedging with European double barrier basket options as a control constrained optimal control problem	https://openalex.org/W2519019604	2	0	1	2011
+493	lee (2024)	Two-Asset Double Barrier Options	https://doi.org/10.1007/s10614-024-10695-1	2	0	1	2024
+494	palazzi (2025)	Trading Games: Beating Passive Strategies in the Bullish Crypto Market	https://doi.org/10.1002/fut.70018	3	0	1	2025
+495	davison (2016)	Retail FX Trader Survey Results	https://doi.org/10.2139/ssrn.2795927	1	0	1	2016
+496	velegol (2024)	Analyzing Sequential Betting with a Kelly-Inspired Convective-Diffusion Equation	https://doi.org/10.3390/e26070600	2	0	1	2024
+497	angoshtari (2015)	Minimizing the Expected Lifetime Spent in Drawdown under Proportional Consumption	https://doi.org/10.48550/arxiv.1508.01914	2	0	1	2015
+498	temnov (2015)	Analysis of Ornstein-Uhlenbeck process stopped at maximum drawdown and application to trading strategies with trailing stops	https://doi.org/10.48550/arxiv.1507.01610	2	0	1	2015
+499	uem (2013)	Stopping strategies and gambler's ruin problem	https://doi.org/10.48550/arxiv.1302.7247	2	0	1	2013
+500	pikulina (2020)	Contractual and Tournament Incentives in the Mutual Fund Industry	https://doi.org/10.2139/ssrn.3521041	3	0	1	2020
+501	djampou (2026)	Mutual fund tournaments: a network DEA model using interim rankings to forecast risk-taking and fund inflows	https://doi.org/10.1080/01605682.2026.2619030	3	0	1	2026
+502	song (2018)	CHARACTERISTICS AND STRATEGIES OF A CONSISTENTLY PROFITABLE PROPRIETORY DAY TRADER AT BURSA MALAYSIA	https://doi.org/10.24191/mar.v17i3.818	1	0	1	2018
+503	arthur (2015)	Mutual Fund Tournaments: Do Mid-Year Winners Still Compete?	https://doi.org/10.3905/joi.2015.24.4.039	3	0	1	2015
+504	li (2006)	Path dependent options: the case of high water mark provision for hedge funds	https://doi.org/10.2495/cf060381	3	0	1	2006
+505	darolles (2015)	Performance fees and hedge fund return dynamics	https://doi.org/10.1016/j.ijar.2015.03.006	3	0	1	2015
+506	ghijben (2010)	The Incentive Fee Hypothesis: Do Large Incentive Fees Provide a Disincentive for Asset Hoarding Amongst Fund Managers?	https://doi.org/10.2139/ssrn.1480994	3	0	1	2010
+507	guasoni (2012)	Hedge and Mutual Funds' Fees and the Separation of Private Investments	https://doi.org/10.48550/arxiv.1208.4799	3	0	1	2012
+508	гапеев (2019)	On the Laplace Transforms of the First Hitting Times for Drawdowns and Drawups of Diffusion-Type Processes	https://doi.org/10.3390/risks7030087	2	0	1	2019
+509	hsu (2026)	The impact of the new day-trading alert system on the Taiwan stock market	https://doi.org/10.1016/j.iref.2026.104905	1	0	1	2026
+510	he-ying (2010)	The impact of day trading on traders' profitability and market quality: Results from agent-based simulations of China's stock market	https://doi.org/10.1109/icsess.2010.5552263	1	0	0	2010
+511	chen (2008)	Market Conditions and Profitability of Proprietary Trading by Futures Floor Traders	https://doi.org/10.3905/jot.2008.3.4.14	3	0	0	2008
+512	erazo (2024)	"The Myth of Profitable Day Trading: What Separates the Winners from the Losers?"	https://doi.org/10.2139/ssrn.4977485	1	0	0	2024
+513	park (2015)	Overnight Inventory Strategy of Day-Traders: An Empirical Study from the Korea Stock Exchange	https://doi.org/10.2139/ssrn.2633397	1	0	0	2015
+514	gupta (2025)	Barriers Among Novice Day Traders in the Gulf and AI-Driven Pathways to Success	https://doi.org/10.1109/icpct64145.2025.10939130	1	0	0	2025
+515	fong (2008)	Do Institutions Really Exploit Individuals? The Intraday Losses and Offsetting Returns of Discount and Premium Retail Investors	https://doi.org/10.2139/ssrn.1246890	1	0	0	2008
+516	kuo (2024)	The correlated trading and investment performance of individual investors	https://doi.org/10.1016/j.jempfin.2024.101522	1	0	0	2024
+517	elhichou (2022)	Do Stock Retail Investors Show Better Portfolio Performance When They Hold Passive ETFs?	https://doi.org/10.2139/ssrn.4145537	1	0	0	2022
+518	farkas (2017)	Do Individual Investors Consciously Speculate on Reversals? Evidence from Leveraged Warrant Trading	https://doi.org/10.2139/ssrn.3090559	1	0	0	2017
+519	han (2026)	How trading shocks shape risk preferences: nonlinear evidence from retail forex traders	https://doi.org/10.1108/rbf-06-2025-0229	1	0	0	2026
+520	barrot (2011)	Households Learning in the Dark: New Evidence from Retail Traders	https://doi.org/10.2139/ssrn.1944061	1	0	0	2011
+521	hayley (2015)	Do Retail FX Traders Learn?	https://doi.org/10.2139/ssrn.2659293	1	0	0	2015
+522	garcia-ares (2026)	The Rise of Algorithmic Retail Option Traders	https://doi.org/10.2139/ssrn.6480379	1	0	0	2026
+523	han (2025)	Does home bias amplify the disposition effect? Evidence from retail forex trading	https://doi.org/10.1016/j.frl.2025.108263	1	0	0	2025
+524	flynn (2026)	Do retail traders gamble on stock options?	https://doi.org/10.1016/j.finmar.2026.101062	1	0	0	2026
+525	hřebačka (2021)	The impact of provider-specific factors on the profitability of contract for difference traders	https://doi.org/10.1016/j.frl.2021.102201	1	0	0	2021
+526	godina (2020)	Learning (Not) to Trade: Lindy's Law in Retail Traders	https://doi.org/10.2139/ssrn.3732319	1	0	0	2020
+527	oesch (2025)	Corporate Voluntary Disclosure and Retail Option Trading	https://doi.org/10.2139/ssrn.5067087	1	0	0	2025
+528	rezaei (2023)	The valuation of double barrier options under mixed fractional Brownian motion model with transaction costs	https://doi.org/10.21203/rs.3.rs-3719661/v1	2	0	0	2023
+529	liao (2023)	The Research on the Pricing of Double Barrier Option Based on the Black-Scholes Model	https://doi.org/10.54691/bcpbm.v37i.3582	2	0	0	2023
+530	venkiteswaran (2023)	On the Problem of Pricing a Double Barrier Option in a Modified Black-Scholes Environment	https://doi.org/10.1007/978-981-19-7014-6_5	2	0	0	2023
+531	grudsky (2021)	Double-Barrier Option Pricing Under the Hyper-Exponential Jump Diffusion Model	https://doi.org/10.1007/978-3-030-76829-4_10	2	0	0	2021
+532	detemple (2025)	On the Pricing of Double Barrier Options under Stochastic Volatility Models: Probabilistic Approach	https://doi.org/10.2139/ssrn.5499419	2	0	0	2025
+533	jana (2022)	Variety of double knock out barrier option for sustainable financial management	https://doi.org/10.3934/environsci.2022040	2	0	0	2022
+534	bonelli (2017)	Portfolio Management with Drawdown Constraint: An Analysis of Optimal Investment	https://doi.org/10.2139/ssrn.2959955	2	0	0	2017
+535	vedernikov (2023)	Optimal Portfolio Choice Based on Drawdown Stochastic Dominance	https://doi.org/10.2139/ssrn.4659985	2	0	0	2023
+536	pereira (2025)	NEW APPROACHES TO PORTFOLIO OPTIMIZATION USING DRAWDOWN TO MEASURE RISK AVERSION	https://doi.org/10.1142/s021902492550013x	2	0	0	2025
+537	battle (2025)	A Simple Trading Strategy with a Stop-Loss and Take-Profit Order	https://doi.org/10.2139/ssrn.5859402	2	0	0	2025
+538	boa (2025)	HEDGING versus STOP-LOSS: Which is the best protection for your trading account?	https://doi.org/10.2139/ssrn.5489358	2	0	0	2025
+539	chao (2021)	A Quantitative Model for Option Sell-Side Trading with Stop-Loss Mechanism by Using Random Forest	https://doi.org/10.21203/rs.3.rs-769898/v1	2	0	0	2021
+540	hirano (2023)	On the Kelly Criterion in Stock Investment	https://doi.org/10.2139/ssrn.4625295	2	0	0	2023
+541	liu (2026)	Kelly criterion for optimizing choices in stock and portfolio markets	https://doi.org/10.54097/6m5bkv43	2	0	0	2026
+542	radeeshani (2018)	Order Book and Kelly Criterion Based Decision Support Model for Traders	https://doi.org/10.1109/nitc.2018.8550047	2	0	0	2018
+543	huo (2024)	Optimizing Betting Strategies with the Kelly Criterion for Economic	https://doi.org/10.54254/2754-1169/80/20241524	2	0	0	2024
+544	andersen (2020)	In-game betting and the Kelly criterion	https://doi.org/10.13164/ma.2020.06	2	0	0	2020
+545	dai (2020)	Do Stop-loss Rules Add Value in International Equity Market Allocation?	https://doi.org/10.1080/00036846.2021.1980201	2	0	0	2020
+546	hwang (2023)	Predicting Price Movement with Stop-Loss Adjusted Labels	https://doi.org/10.2139/ssrn.4478403	2	0	0	2023
+547	sarnecki (2026)	Comparison of the effectiveness of roulette betting strategies using Monte Carlo simulation	https://doi.org/10.35784/jcsi.9728	2	0	0	2026
+548	zhang (2009)	Formulas for the Laplace Transform of Stopping Times based on Drawdowns and Drawups	https://doi.org/10.48550/arxiv.0911.1575	2	0	0	2009
+549	davidsson (2012)	DrawDown Constraints and Portfolio Optimization	https://openalex.org/W2145377813	2	0	0	2012
+550	kravchenko (2019)	PRICING DOUBLE BARRIER OPTIONS ON HOMOGENEOUS DIFFUSIONS: A NEUMANN SERIES OF BESSEL FUNCTIONS REPRESENTATION	https://doi.org/10.1142/s0219024919500304	2	0	0	2019
+551	dai (2007)	Pricing Double Barrier Options by Combinatorial Approaches	https://doi.org/10.1007/3-540-32391-0_116	2	0	0	2007
+552	sidogi (2014)	Pricing of double barrier options from a symmetry group approach	https://openalex.org/W2563147144	2	0	0	2014
+553	lee (2026)	Valuation of multi-step double-barrier options with time-varying rates and jumps: Semi–closed approach	https://doi.org/10.1016/j.irfa.2026.105341	2	0	0	2026
+554	kotzé (2013)	Double Barrier Cash or Nothing Options: A Short Note	https://doi.org/10.2139/ssrn.2198426	2	0	0	2013
+555	chang (2020)	Analytical Valuation of Exotic Double Barrier Options	https://doi.org/10.3905/jod.2020.1.118	2	0	0	2020
+556	lee (2025)	Multi-piecewise linear double barrier options	https://doi.org/10.1016/j.frl.2025.106898	2	0	0	2025
+557	lee (2026)	Valuing American strangle options via double barrier first-touch digitals	https://doi.org/10.1080/00036846.2026.2648112	2	0	0	2026
+558	shelton (2013)	The Value of Stop-Losses and Stop-Gains in Enhancing Risk-Adjusted Return	https://doi.org/10.2139/ssrn.2285222	2	0	0	2013
+559	kang (2026)	Conditional Effectiveness of Volatility-Adaptive Exit Rules in Algorithmic Trading Systems: Evidence from the USD/JPY Market	https://doi.org/10.3390/jrfm19080554	2	0	0	2026
+560	hsieh (2020)	On Feedback Control in Kelly Betting: An Approximation Approach	https://doi.org/10.1109/ccta41146.2020.9206338	2	0	0	2020
+561	zhou (2013)	Methodology Using Nonlinear Regression Models with Kelly Criterion to Determine Optimal ETF Investment Strategies: An Application to the S&P 500 Index	https://doi.org/10.3905/jii.2013.3.4.049	2	0	0	2013
+562	galekwa (2026)	Risk Parity vs. Kelly Criterion: An Empirical Evaluation of Bankroll Allocation Strategies in Football Value Betting	https://doi.org/10.1007/978-3-032-27272-0_19	2	0	0	2026
+563	palmowski (2025)	Pricing American options time-capped by a drawdown event	https://doi.org/10.1007/s11579-025-00408-z	2	0	0	2025
+564	kardaras (2012)	The Numeraire Property and Long-Term Growth Optimality for Drawdown-Constrained Investments	https://doi.org/10.2139/ssrn.2168519	2	0	0	2012
+565	vladimir (2013)	Optimal portfolios of a long-term investor with floor or drawdown constraints	https://doi.org/10.48550/arxiv.1305.6831	2	0	0	2013
+566	mijatović (2008)	Local time and the pricing of time-dependent barrier options	https://doi.org/10.48550/arxiv.0809.1747	2	0	0	2008
+567	mads (2013)	The Kelly growth optimal strategy with a stop-loss rule	https://doi.org/10.48550/arxiv.1311.2550	2	0	0	2013
+568	anshuman (2025)	Intraday proprietary traders and short-term mispricing	https://doi.org/10.1016/j.finmar.2025.101028	3	0	0	2025
+569	luo (2022)	Mutual Fund Tournaments: Time-Varying Risk Taking with Transaction Costs	https://doi.org/10.2139/ssrn.4191968	3	0	0	2022
+570	tacon (2011)	Portfolio Rebalancing and Mutual Fund Tournament Behavior	https://doi.org/10.2139/ssrn.1873948	3	0	0	2011
+571	zhao (2024)	Mutual fund tournaments: State-dependent risk taking with transaction costs	https://doi.org/10.1016/j.ememar.2024.101119	3	0	0	2024
+572	andrews (2024)	The Who and How of Hedge Fund Risk Shifting	https://doi.org/10.67236/noty6886	3	0	0	2024
+573	mosenhauer (2024)	National differences in gambling-driven stock trading behavior: evidence from a simulated trading game	https://doi.org/10.1007/s11408-024-00460-7	1	0	0	2024
+574	kaminski (2019)	The Impact of Performance Fees on Multi-Manager CTA Portfolios	https://doi.org/10.3905/jai.2019.22.2.024	3	0	0	2019
+575	scheel (2015)	Managerial Risk Profile in Hedge Funds with Multiple High-Water Marks - Numerical Modelling and Fund Structure Analysis	https://openalex.org/W2512439168	3	0	0	2015
+576	gong (2017)	Hedge Funds' Performance Fees and Investments	https://openalex.org/W2922468728	3	0	0	2017
+577	lee (2019)	Lifetime Ruin under High-watermark Fees and Drift Uncertainty	https://doi.org/10.48550/arxiv.1909.01121	3	0	0	2019
+578	rossello (2019)	A Refined Measure of Conditional Maximum Drawdown	https://doi.org/10.1057/s41283-021-00081-8	2	0	0	2019
+579	jondeau (2021)	Disasters, Large Drawdowns, and Long-term Asset Management	https://doi.org/10.2139/ssrn.3864263	2	0	0	2021
+580	giribone (2024)	First and second generation lookback and barrier options: enhancing pricing accuracy through Conditional Monte Carlo	https://doi.org/10.47473/2020rmm0145	2	0	0	2024
+581	aoudia (2016)	A Note on First Passage Functionals for Lévy Processes with Jumps of Rational Laplace Transforms	https://doi.org/10.1155/2016/5914657	2	0	0	2016
+582	pozniak (2017)	Understanding Belgian Individual Investors: Complementarity of Qualitative and Quantitative Methodologies in a Grounded Theory Approach	https://doi.org/10.5430/ijba.v8n7p154	1	0	0	2017
+583	chaisurote (2011)	Do Local Individual Investors Learn from Foreign Fund Flows?	https://doi.org/10.2139/ssrn.1917730	1	0	0	2011
+584	moore (2017)	Stock Loan Lotteries and Individual Investor Performance	https://doi.org/10.2139/ssrn.3043951	1	0	0	2017
+585	moneta (2026)	Mutual Fund Tournaments and ESG Rating	https://doi.org/10.1007/s10551-026-06416-3	3	0	0	2026
+586	chrétien (2025)	Tournament effects in equity mutual funds: Impact of economic conditions and investment styles	https://doi.org/10.1111/jfir.12466	3	0	0	2025
+587	ko (2011)	Mutual Fund Tournaments and Structural Changes in an Emerging Fund Market: The Case of Korea	https://doi.org/10.35152/snusjb.2011.17.1.002	3	0	0	2011
+588	melton (2011)	Mutual Fund Tournaments: Evidence From Global And International Funds	https://doi.org/10.19030/iber.v3i6.3696	3	0	0	2011
+589	sabbaghi (2020)	Is there persistence among non-professionals? Evidence from the Chicago Mercantile Exchange Group Trading Challenges	https://doi.org/10.1108/rbf-09-2019-0122	3	0	0	2020
+590	lian (2017)	Optimal Hedge Fund Performance Fees	https://doi.org/10.21102/jbpr.2017.07.121.02	3	0	0	2017
+591	garivaltis (2019)	Nash Bargaining Over Margin Loans to Kelly Gamblers	https://doi.org/10.48550/arxiv.1904.06628	2	0	0	2019
+592	milev (2025)	Discrete monitoring and valuation of path-dependent options under nonstandard hypothesis: Barrier options	https://doi.org/10.1063/5.0246015	2	0	0	2025
+593	zhang (2009)	Drawdowns and Rallies in a Finite Time-horizon	https://doi.org/10.1007/s11009-009-9139-1	2	7	32	2009
+594	pospisil (2009)	Formulas for stopped diffusion processes with stopping times based on drawdowns and drawups	https://doi.org/10.1016/j.spa.2009.01.002	2	13	59	2009
+595	hadjiliadis (2006)	Drawdowns preceding rallies in the Brownian motion model	https://doi.org/10.1080/14697680600764227	2	6	42	2006
+596	goetzmann (2007)	Portfolio Performance Manipulation and Manipulation-proof Performance Measures	https://doi.org/10.1093/rfs/hhm025	3	2	136	2007
+597	broadie (1997)	A Continuity Correction for Discrete Barrier Options	https://doi.org/10.1111/1467-9965.00035	2	20	348	1997
+598	gabaix (2006)	Shrouded Attributes, Consumer Myopia, and Information Suppression in Competitive Markets	https://doi.org/10.1162/qjec.2006.121.2.505	3	1	1424	2006
+599	darling (1953)	The First Passage Problem for a Continuous Markov Process	https://doi.org/10.1214/aoms/1177728918	2	3	459	1953
+600	lehoczky (1977)	Formulas for Stopped Diffusion Processes with Stopping Times Based on the Maximum	https://doi.org/10.1214/aop/1176995770	2	10	93	1977
+601	taylor (1975)	A Stopped Brownian Motion Formula	https://doi.org/10.1214/aop/1176996395	2	14	149	1975
+602	bailey (2015)	Stop-outs under serial correlation and the triple penance rule	https://doi.org/10.21314/jor.2015.317	2	3	14	2015
+603	degroot (1966)	How to Gamble If You Must: Inequalities for Stochastic Processes.	https://doi.org/10.2307/2282848	2	4	229	1966

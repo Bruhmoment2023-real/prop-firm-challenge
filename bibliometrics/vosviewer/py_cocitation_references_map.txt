@@ -1,0 +1,151 @@
+id	label	description	url	cluster	weight<Citations in corpus>	score<Pub. year>
+1	barber (2000.0)	Trading Is Hazardous to Your Wealth: The Common Stock Investment Performance of Individual Investors	https://doi.org/10.1111/0022-1082.00226	1	98	2000.0
+2	grossman (1993.0)	OPTIMAL INVESTMENT STRATEGIES FOR CONTROLLING DRAWDOWNS	https://doi.org/10.1111/j.1467-9965.1993.tb00044.x	3	67	1993.0
+3	geman (1996.0)	PRICING AND HEDGING DOUBLE‐BARRIER OPTIONS: A PROBABILISTIC APPROACH	https://doi.org/10.1111/j.1467-9965.1996.tb00122.x	4	58	1996.0
+4	chekhlov (2005.0)	DRAWDOWN MEASURE IN PORTFOLIO OPTIMIZATION	https://doi.org/10.1142/s0219024905002767	3	52	2005.0
+5	barber (2008.0)	Just How Much Do Individual Investors Lose by Trading?	https://doi.org/10.1093/rfs/hhn046	1	46	2008.0
+6	brown (1996.0)	Of Tournaments and Temptations: An Analysis of Managerial Incentives in the Mutual Fund Industry	https://doi.org/10.1111/j.1540-6261.1996.tb05203.x	2	42	1996.0
+7	cvitanić (1995.0)	On Portfolio Optimization under “Drawdown” Constraints	https://doi.org/10.1007/978-1-4757-2435-6_3	3	39	1995.0
+8	chevalier (1997.0)	Risk Taking by Mutual Funds as a Response to Incentives	https://doi.org/10.1086/516389	2	39	1997.0
+9	pelsser (2000.0)	Pricing double barrier options using Laplace transforms	https://doi.org/10.1007/s007800050005	4	39	2000.0
+10	kumar (2009.0)	Who Gambles in the Stock Market?	https://doi.org/10.1111/j.1540-6261.2009.01483.x	1	38	2009.0
+11	feng (2005.0)	Do Investor Sophistication and Trading Experience Eliminate Behavioral Biases in Financial Markets?	https://doi.org/10.1007/s10679-005-2262-0	1	32	2005.0
+12	magdon‐ismail (2004.0)	On the maximum drawdown of a Brownian motion	https://doi.org/10.1239/jap/1077134674	3	31	2004.0
+13	carpenter (2000.0)	Does Option Compensation Increase Managerial Risk Appetite?	https://doi.org/10.1111/0022-1082.00288	2	28	2000.0
+14	koski (1999.0)	How Are Derivatives Used? Evidence from the Mutual Fund Industry	https://doi.org/10.1111/0022-1082.00126	2	27	1999.0
+15	seru (2009.0)	Learning by Trading	https://doi.org/10.1093/rfs/hhp060	1	27	2009.0
+16	busse (2001.0)	Another Look at Mutual Fund Tournaments	https://doi.org/10.2307/2676197	2	27	2001.0
+17	goetzmann (2003.0)	High‐Water Marks and Hedge Fund Management Contracts	https://doi.org/10.1111/1540-6261.00581	2	27	2003.0
+18	fama (1973.0)	Risk, Return, and Equilibrium: Empirical Tests	https://doi.org/10.1086/260061	1	22	1973.0
+19	barber (2013.0)	The cross-section of speculator skill: Evidence from day trading	https://doi.org/10.1016/j.finmar.2013.05.006	1	22	2013.0
+20	élie (2008.0)	Optimal lifetime consumption and investment under a drawdown constraint	https://doi.org/10.1007/s00780-008-0066-8	3	22	2008.0
+21	panageas (2009.0)	High‐Water Marks: High Risk Appetites? Convex Compensation, Long Horizons, and Portfolio Choice	https://doi.org/10.1111/j.1540-6261.2008.01427.x	2	22	2009.0
+22	newey (1987.0)	A Simple, Positive Semi-Definite, Heteroskedasticity and Autocorrelation Consistent Covariance Matrix	https://doi.org/10.2307/1913610	1	21	1987.0
+23	barber (2013.0)	The Behavior of Individual Investors	https://doi.org/10.1016/b978-0-44-459406-8.00022-6	1	21	2013.0
+24	jordan (2003.0)	The Profitability of Day Traders	https://doi.org/10.2469/faj.v59.n6.2578	1	21	2003.0
+25	broadie (1997.0)	A Continuity Correction for Discrete Barrier Options	https://doi.org/10.1111/1467-9965.00035	4	20	1997.0
+26	alexander (2006.0)	Portfolio selection with a drawdown constraint	https://doi.org/10.1016/j.jbankfin.2005.12.006	3	19	2006.0
+27	kou (2002.0)	A Jump-Diffusion Model for Option Pricing	https://doi.org/10.1287/mnsc.48.8.1086.166	4	19	2002.0
+28	thorp (2008.0)	The kelly criterion in blackjack sports betting, and the stock market	https://doi.org/10.1016/b978-044453248-0.50015-0	3	19	2008.0
+29	long (1990.0)	Noise Trader Risk in Financial Markets	https://doi.org/10.1086/261703	1	18	1990.0
+30	kempf (2007.0)	Tournaments in Mutual-Fund Families	https://doi.org/10.1093/rfs/hhm057	2	18	2007.0
+31	kempf (2008.0)	Employment risk, compensation incentives, and managerial risk taking: Evidence from the mutual fund industry	https://doi.org/10.1016/j.jfineco.2008.05.001	2	18	2008.0
+32	mahmoud (2017.0)	Drawdown: From Practice to Theory and Back Again	https://doi.org/10.1007/s11579-016-0181-9	3	18	2017.0
+33	kaminski (2013.0)	When do stop-loss rules stop losses?	https://doi.org/10.1016/j.finmar.2013.07.001	1	18	2013.0
+34	statman (2006.0)	Investor Overconfidence and Trading Volume	https://doi.org/10.1093/rfs/hhj032	1	18	2006.0
+35	nicolosi (2008.0)	Do individual investors learn from their trading experience?	https://doi.org/10.1016/j.finmar.2008.07.001	1	17	2008.0
+36	harris (1998.0)	The trading profits of SOES bandits	https://doi.org/10.1016/s0304-405x(98)00031-2	1	17	1998.0
+37	reiner (1991.0)	Breaking down the barriers	https://openalex.org/W3217038484	4	17	1991.0
+38	elton (2003.0)	Incentive Fees and Mutual Funds	https://doi.org/10.1111/1540-6261.00545	2	17	2003.0
+39	barber (2002.0)	Online Investors: Do the Slow Die First?	https://doi.org/10.1093/rfs/15.2.455	1	17	2002.0
+40	maclean (2010.0)	Long-term capital growth: the good and bad properties of the Kelly and fractional Kelly capital growth criteria	https://doi.org/10.1080/14697688.2010.506108	3	17	2010.0
+41	dorn (2012.0)	Trading as Gambling	https://doi.org/10.1287/mnsc.2014.1979	1	17	2012.0
+42	starks (1987.0)	Performance Incentive Fees: An Agency Theoretic Approach	https://doi.org/10.2307/2330867	2	16	1987.0
+43	petersen (2008.0)	Estimating Standard Errors in Finance Panel Data Sets: Comparing Approaches	https://doi.org/10.1093/rfs/hhn053	1	16	2008.0
+44	locke (2005.0)	Professional trader discipline and trade disposition	https://doi.org/10.1016/j.jfineco.2004.01.004	1	16	2005.0
+45	rotando (1992.0)	The Kelly Criterion and the Stock Market	https://doi.org/10.1080/00029890.1992.11995955	3	16	1992.0
+46	milev (2009.0)	Numerical valuation of discrete double barrier options	https://doi.org/10.1016/j.cam.2009.10.029	4	16	2009.0
+47	hui (1997.0)	Time-dependent barrier option values	https://doi.org/10.1002/(sici)1096-9934(199709)17:6<667::aid-fut3>3.0.co;2-c	4	16	1997.0
+48	benartzi (1995.0)	Myopic Loss Aversion and the Equity Premium Puzzle	https://doi.org/10.2307/2118511	1	15	1995.0
+49	nofsinger (1999.0)	Herding and Feedback Trading by Institutional and Individual Investors	https://doi.org/10.1111/0022-1082.00188	1	15	1999.0
+50	hodder (2007.0)	Incentive Contracts and Hedge Fund Management	https://doi.org/10.1017/s0022109000003409	2	15	2007.0
+51	cherny (2013.0)	Portfolio optimisation under non-linear drawdown constraints in a semimartingale financial model	https://doi.org/10.1007/s00780-013-0209-4	3	15	2013.0
+52	gao (2014.0)	Do Individual Investors Treat Trading as a Fun and Exciting Gambling Activity? Evidence from Repeated Natural Experiments	https://doi.org/10.1093/rfs/hhu075	1	15	2014.0
+53	newey (1986.0)	A Simple, Positive Semi-Definite, Heteroskedasticity and AutocorrelationConsistent Covariance Matrix	https://doi.org/10.3386/t0055	1	14	1986.0
+54	coval (2005.0)	Do Behavioral Biases Affect Prices?	https://doi.org/10.1111/j.1540-6261.2005.00723.x	1	14	2005.0
+55	thaler (1990.0)	Gambling with the House Money and Trying to Break Even: The Effects of Prior Outcomes on Risky Choice	https://doi.org/10.1287/mnsc.36.6.643	1	14	1990.0
+56	brown (2001.0)	Careers and Survival: Competition and Risk in the Hedge Fund and CTA Industry	https://doi.org/10.1111/0022-1082.00392	2	14	2001.0
+57	basak (2007.0)	Optimal Asset Allocation and Risk Shifting in Money Management	https://doi.org/10.1093/rfs/hhm026	2	14	2007.0
+58	sepp (2004.0)	ANALYTICAL PRICING OF DOUBLE-BARRIER OPTIONS UNDER A DOUBLE-EXPONENTIAL JUMP DIFFUSION PROCESS: APPLICATIONS OF LAPLACE TRANSFORM	https://doi.org/10.1142/s0219024904002402	4	14	2004.0
+59	kou (2004.0)	Option Pricing Under a Double Exponential Jump Diffusion Model	https://doi.org/10.1287/mnsc.1030.0163	4	14	2004.0
+60	getmansky (2004.0)	An econometric model of serial correlation and illiquidity in hedge fund returns	https://doi.org/10.1016/j.jfineco.2004.04.001	2	14	2004.0
+61	maclean (1992.0)	Growth Versus Security in Dynamic Investment Analysis	https://doi.org/10.1287/mnsc.38.11.1562	3	14	1992.0
+62	taylor (1975.0)	A Stopped Brownian Motion Formula	https://doi.org/10.1214/aop/1176996395	3	14	1975.0
+63	barber (2001.0)	The Internet and the Investor	https://doi.org/10.1257/jep.15.1.41	1	14	2001.0
+64	thorp (2006.0)	Chapter 9 The Kelly Criterion in Blackjack Sports Betting, and the Stock Market	https://doi.org/10.1016/s1872-0978(06)01009-x	3	14	2006.0
+65	golbabai (2013.0)	A Highly Accurate Finite Element Method to Price Discrete Double Barrier Options	https://doi.org/10.1007/s10614-013-9388-5	4	14	2013.0
+66	buchen (2009.0)	A New Approach to Pricing Double-Barrier Options with Arbitrary Payoffs and Exponential Boundaries	https://doi.org/10.1080/13504860903075480	4	14	2009.0
+67	gruber (1996.0)	Another Puzzle: The Growth in Actively Managed Mutual Funds	https://doi.org/10.1111/j.1540-6261.1996.tb02707.x	1	14	1996.0
+68	ivković (2008.0)	Portfolio Concentration and the Performance of Individual Investors	https://doi.org/10.1017/s0022109000004233	1	13	2008.0
+69	sidenius (1998.0)	Double barrier options: valuation by path counting	https://doi.org/10.21314/jcf.1998.012	4	13	1998.0
+70	barberis (2008.0)	Stocks as Lotteries: The Implications of Probability Weighting for Security Prices	https://doi.org/10.1257/aer.98.5.2066	1	13	2008.0
+71	chen (2009.0)	Does Prior Performance Affect a Mutual Fund’s Choice of Risk? Theory and Further Empirical Evidence	https://doi.org/10.1017/s002210900999010x	2	13	2009.0
+72	cox (1979.0)	Option pricing: A simplified approach	https://doi.org/10.1016/0304-405x(79)90015-1	4	13	1979.0
+73	pospisil (2009.0)	Formulas for stopped diffusion processes with stopping times based on drawdowns and drawups	https://doi.org/10.1016/j.spa.2009.01.002	3	13	2009.0
+74	maclean (2011.0)	The Kelly Capital Growth Investment Criterion	https://doi.org/10.1142/7598	3	13	2011.0
+75	kuo (2013.0)	Overconfident individual day traders: Evidence from the Taiwan futures market	https://doi.org/10.1016/j.jbankfin.2013.04.036	1	13	2013.0
+76	bali (2010.0)	Maxing out: Stocks as lotteries and the cross-section of expected returns	https://doi.org/10.1016/j.jfineco.2010.08.014	1	12	2010.0
+77	fama (1992.0)	The Cross-Section of Expected Stock Returns	https://doi.org/10.1111/j.1540-6261.1992.tb04398.x	1	12	1992.0
+78	berk (2004.0)	Mutual Fund Flows and Performance in Rational Markets	https://doi.org/10.1086/424739	2	12	2004.0
+79	hui (1996.0)	One-touch double barrier binary option values	https://doi.org/10.1080/096031096334141	4	12	1996.0
+80	feng (2008.0)	PRICING DISCRETELY MONITORED BARRIER OPTIONS AND DEFAULTABLE BONDS IN LÉVY PROCESS MODELS: A FAST HILBERT TRANSFORM APPROACH	https://doi.org/10.1111/j.1467-9965.2008.00338.x	4	12	2008.0
+81	taylor (2003.0)	Risk-taking behavior in mutual fund tournaments	https://doi.org/10.1016/s0167-2681(02)00028-8	2	12	2003.0
+82	qiu (2003.0)	Termination Risk, Multiple Managers and Mutual Fund Tournaments	https://doi.org/10.1023/a:1024533132105	2	12	2003.0
+83	huang (2011.0)	Risk Shifting and Mutual Fund Performance	https://doi.org/10.1093/rfs/hhr001	2	12	2011.0
+84	sharpe (1966.0)	Mutual Fund Performance	https://doi.org/10.1086/294846	2	12	1966.0
+85	ross (1991.0)	Continuous-Time Finance.	https://doi.org/10.2307/2328875	3	12	1991.0
+86	boyarchenko (2009.0)	VALUATION OF CONTINUOUSLY MONITORED DOUBLE BARRIER OPTIONS AND RELATED SECURITIES	https://doi.org/10.1111/j.1467-9965.2010.00469.x	4	12	2009.0
+87	statman (2002.0)	Lottery Players/Stock Traders	https://doi.org/10.2469/faj.v58.n1.2506	1	11	2002.0
+88	hvidkjaer (2008.0)	Small Trades and the Cross-Section of Stock Returns	https://doi.org/10.1093/rfs/hhn049	1	11	2008.0
+89	chen (2007.0)	Trading Performance, Disposition Effect, Overconfidence, Representativeness Bias, and Experience of Emerging Market Investors	https://doi.org/10.1002/bdm.561	1	11	2007.0
+90	pospisil (2009.0)	Portfolio sensitivity to changes in the maximum and the maximum drawdown	https://doi.org/10.1080/14697680903008751	3	11	2009.0
+91	ross (2004.0)	Compensation, Incentives, and the Duality of Risk Aversion and Riskiness	https://doi.org/10.1111/j.1540-6261.2004.00631.x	2	11	2004.0
+92	jensen (1968.0)	THE PERFORMANCE OF MUTUAL FUNDS IN THE PERIOD 1945–1964	https://doi.org/10.1111/j.1540-6261.1968.tb00815.x	2	11	1968.0
+93	schwarz (2011.0)	Mutual Fund Tournaments: The Sorting Bias and New Evidence	https://doi.org/10.1093/rfs/hhr091	2	11	2011.0
+94	carr (2002.0)	The Fine Structure of Asset Returns: An Empirical Investigation	https://doi.org/10.1086/338705	4	11	2002.0
+95	goriaev (2004.0)	Yet another look at mutual fund tournaments	https://doi.org/10.1016/j.jempfin.2003.11.001	2	11	2004.0
+96	agarwal (2009.0)	Role of Managerial Incentives and Discretion in Hedge Fund Performance	https://doi.org/10.1111/j.1540-6261.2009.01499.x	2	11	2009.0
+97	chekhlov (2000.0)	Portfolio Optimization with Drawdown Constraints	https://doi.org/10.2139/ssrn.223323	3	11	2000.0
+98	kelly (1956.0)	A new interpretation of information rate	https://doi.org/10.1109/tit.1956.1056803	3	11	1956.0
+99	arthur (2016.0)	The conceptual and empirical relationship between gambling, investing, and speculation	https://doi.org/10.1556/2006.5.2016.084	1	11	2016.0
+100	habibullah (1991.0)	BREAKING DOWN THE BARRIERS	https://openalex.org/W37049345	4	11	1991.0
+101	aragon (2011.0)	Tournament Behavior in Hedge Funds: High-water Marks, Fund Liquidation, and Managerial Stake	https://doi.org/10.1093/rfs/hhr111	2	11	2011.0
+102	bauer (2008.0)	Option trading and individual investor performance	https://doi.org/10.1016/j.jbankfin.2008.11.005	1	11	2008.0
+103	zabarankin (2013.0)	Capital Asset Pricing Model (CAPM) with drawdown measure	https://doi.org/10.1016/j.ejor.2013.03.024	3	11	2013.0
+104	barber (2022.0)	Attention‐Induced Trading and Returns: Evidence from Robinhood Users	https://doi.org/10.1111/jofi.13183	1	11	2022.0
+105	schlarbaum (1978.0)	THE COMMON‐STOCK‐PORTFOLIO PERFORMANCE RECORD OF INDIVIDUAL INVESTORS: 1964–70	https://doi.org/10.1111/j.1540-6261.1978.tb04859.x	1	10	1978.0
+106	ferson (1996.0)	Measuring Fund Strategy and Performance in Changing Economic Conditions	https://doi.org/10.1111/j.1540-6261.1996.tb02690.x	2	10	1996.0
+107	amihud (2002.0)	Illiquidity and stock returns: cross-section and time-series effects	https://doi.org/10.1016/s1386-4181(01)00024-6	1	10	2002.0
+108	barberis (2009.0)	What Drives the Disposition Effect? An Analysis of a Long‐Standing Preference‐Based Explanation	https://doi.org/10.1111/j.1540-6261.2009.01448.x	1	10	2009.0
+109	barberis (2001.0)	Prospect Theory and Asset Prices	https://doi.org/10.1162/003355301556310	1	10	2001.0
+110	rich (2000.0)	The Mathematical Foundations of Barrier Option-Pricing Theory	https://openalex.org/W19259067	4	10	2000.0
+111	boyle (1998.0)	An explicit finite difference approach to the pricing of barrier options	https://doi.org/10.1080/135048698334718	4	10	1998.0
+112	grinblatt (1995.0)	Momentum Investment Strategies, Portfolio Performance, and Herding: A Study of Mutual Fund Behavior	https://openalex.org/W1513172979	1	10	1995.0
+113	lehoczky (1977.0)	Formulas for Stopped Diffusion Processes with Stopping Times Based on the Maximum	https://doi.org/10.1214/aop/1176995770	3	10	1977.0
+114	carr (2011.0)	MAXIMUM DRAWDOWN INSURANCE	https://doi.org/10.1142/s0219024911006826	3	10	2011.0
+115	hsieh (2017.0)	On Drawdown-Modulated Feedback Control in Stock Trading	https://doi.org/10.1016/j.ifacol.2017.08.167	3	10	2017.0
+116	black (1986.0)	Noise	https://doi.org/10.1111/j.1540-6261.1986.tb04513.x	1	10	1986.0
+117	cai (2009.0)	Pricing double-barrier options under a flexible jump diffusion model	https://doi.org/10.1016/j.orl.2009.02.006	4	10	2009.0
+118	davydov (2001.0)	Pricing and Hedging Path-Dependent Options Under the CEV Process	https://doi.org/10.1287/mnsc.47.7.949.9804	4	10	2001.0
+119	davydov (2003.0)	Pricing Options on Scalar Diffusions: An Eigenfunction Expansion Approach	https://doi.org/10.1287/opre.51.2.185.12782	4	10	2003.0
+120	glosten (1985.0)	Bid, ask and transaction prices in a specialist market with heterogeneously informed traders	https://doi.org/10.1016/0304-405x(85)90044-3	1	10	1985.0
+121	ferris (1988.0)	Predicting Contemporary Volume with Historic Volume at Differential Price Levels: Evidence Supporting the Disposition Effect	https://doi.org/10.1111/j.1540-6261.1988.tb04599.x	1	9	1988.0
+122	thorp (1975.0)	Portfolio Choice and the Kelly Criterion**This research was supported in part by the Air Force Office of Scientific Research under Grant AF-AFOSR 1870A. An expanded version of this paper will be submitted for publication elsewhere.	https://doi.org/10.1016/b978-0-12-780850-5.50051-4	3	9	1975.0
+123	barberis ()	A model of investor sentiment /	https://openalex.org/W3122578644	1	9	
+124	kou (2003.0)	First passage times of a jump diffusion process	https://doi.org/10.1017/s0001867800012350	4	9	2003.0
+125	carr (1995.0)	Two extensions to barrier option valuation	https://doi.org/10.1080/13504869500000010	4	9	1995.0
+126	ping (2011.0)	Fund Flows, Performance, Managerial Career Concerns, and Risk Taking	https://doi.org/10.1287/mnsc.1100.1305	2	9	2011.0
+127	boyarchenko (2002.0)	Non-Gaussian Merton-Black-Scholes Theory	https://doi.org/10.1142/9789812777485	4	9	2002.0
+128	schröder (2000.0)	On the valuation of double-barrier options: computational aspects	https://doi.org/10.21314/jcf.2000.050	4	9	2000.0
+129	shleifer (1995.0)	The Limits of Arbitrage	https://doi.org/10.1111/j.1540-6261.1997.tb03807.x	1	9	1995.0
+130	pospisil (2008.0)	PDE methods for maximum drawdown	https://doi.org/10.21314/jcf.2008.177	3	9	2008.0
+131	borodin (2002.0)	Handbook of Brownian Motion - Facts and Formulae	https://doi.org/10.1007/978-3-0348-8163-0	3	9	2002.0
+132	maclean (2003.0)	Capital growth with security	https://doi.org/10.1016/s0165-1889(03)00056-3	3	9	2003.0
+133	guillaume (2010.0)	Step Double Barrier Options	https://doi.org/10.3905/jod.2010.18.1.059	4	9	2010.0
+134	rogers (1997.0)	Valuing moving barrier options	https://doi.org/10.21314/cf.1997.003	4	9	1997.0
+135	campbell (2001.0)	Have Individual Stocks Become More Volatile? An Empirical Exploration of Idiosyncratic Risk	https://doi.org/10.1111/0022-1082.00318	1	9	2001.0
+136	zhang (2013.0)	Stochastic modeling and fair valuation of drawdown insurance	https://doi.org/10.1016/j.insmatheco.2013.10.006	3	9	2013.0
+137	zhang (2011.0)	Drawdowns and the Speed of Market Crash	https://doi.org/10.1007/s11009-011-9262-7	3	9	2011.0
+138	chen (2015.0)	Analytically pricing double barrier options based on a time-fractional Black–Scholes equation	https://doi.org/10.1016/j.camwa.2015.03.025	4	9	2015.0
+139	chevalier (1999.0)	Are Some Mutual Fund Managers Better Than Others? Cross‐Sectional Patterns in Behavior and Performance	https://doi.org/10.1111/0022-1082.00130	2	9	1999.0
+140	khorana (1996.0)	Top management turnover an empirical investigation of mutual fund managers	https://doi.org/10.1016/0304-405x(95)00852-6	2	9	1996.0
+141	eling (2007.0)	Does the choice of performance measure influence the evaluation of hedge funds?	https://doi.org/10.1016/j.jbankfin.2006.09.015	3	9	2007.0
+142	schuhmacher (2011.0)	Sufficient conditions for expected utility to imply drawdown-based performance rankings	https://doi.org/10.1016/j.jbankfin.2011.01.031	3	9	2011.0
+143	fama (1970.0)	Efficient Capital Markets: A Review of Theory and Empirical Work	https://doi.org/10.2307/2325486	1	9	1970.0
+144	haigh (2005.0)	Do Professional Traders Exhibit Myopic Loss Aversion? An Experimental Analysis	https://doi.org/10.1111/j.1540-6261.2005.00737.x	1	8	2005.0
+145	garvey (2005.0)	Entry, exit and trading profits: A look at the trading strategies of a proprietary trading team	https://doi.org/10.1016/j.jempfin.2004.10.002	1	8	2005.0
+146	boyer (2014.0)	Stock Options as Lotteries	https://doi.org/10.1111/jofi.12152	1	8	2014.0
+147	tversky (1974.0)	Judgment under Uncertainty: Heuristics and Biases	https://doi.org/10.1126/science.185.4157.1124	1	8	1974.0
+148	kacperczyk (2005.0)	On the Industry Concentration of Actively Managed Equity Mutual Funds	https://doi.org/10.1111/j.1540-6261.2005.00785.x	2	8	2005.0
+149	kacperczyk (2006.0)	Unobserved Actions of Mutual Funds	https://doi.org/10.1093/rfs/hhl041	2	8	2006.0
+150	huang (2007.0)	Participation Costs and the Sensitivity of Fund Flows to Past Performance	https://doi.org/10.1111/j.1540-6261.2007.01236.x	2	8	2007.0

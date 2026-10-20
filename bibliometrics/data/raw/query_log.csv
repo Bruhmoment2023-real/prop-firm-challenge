@@ -1,0 +1,74 @@
+﻿qid,db,sublit,query,total_in_db,retrieved,status,date
+Crossref_a_00,Crossref,a,day trading profitability,346369,200,ok,2026-10-13
+Crossref_a_01,Crossref,a,day traders performance skill,2590483,200,ok,2026-10-13
+Crossref_a_02,Crossref,a,retail investors trading performance losses,2465591,200,ok,2026-10-13
+Crossref_a_03,Crossref,a,individual investors trading performance common stock,3093771,200,ok,2026-10-13
+Crossref_a_04,Crossref,a,retail forex traders profitability,95699,200,ok,2026-10-13
+Crossref_a_05,Crossref,a,retail foreign exchange traders leverage,778134,200,ok,2026-10-13
+Crossref_a_06,Crossref,a,learning by trading individual investors,2936423,200,ok,2026-10-13
+Crossref_a_07,Crossref,a,do day traders learn about their ability,2745403,200,ok,2026-10-13
+Crossref_a_08,Crossref,a,retail traders derivatives losses,480048,200,ok,2026-10-13
+Crossref_a_09,Crossref,a,gambling stock market individual investors,881251,200,ok,2026-10-13
+Crossref_a_10,Crossref,a,contracts for difference retail investors,319994,200,ok,2026-10-13
+Crossref_a_11,Crossref,a,retail options trading losses,266360,200,ok,2026-10-13
+Crossref_a_12,Crossref,a,overconfidence trading volume individual investors,1986354,200,ok,2026-10-13
+Crossref_a_13,Crossref,a,retail traders cryptocurrency performance,2348579,200,ok,2026-10-13
+Semantic Scholar (bulk)_a_14,Semantic Scholar (bulk),a,"""day trading"" | ""day traders"" | ""day trader"" | ""retail traders"" | ""retail trader"" | ""retail trading""  [fieldsOfStudy=Economics,Business,Mathematics,Computer Science,Psychology]",8374,1000,ok,2026-10-13
+Semantic Scholar (bulk)_a_15,Semantic Scholar (bulk),a,"(""individual investors"" | ""retail investors"") + (performance | profitability | losses | skill | overconfidence | gambling)  [fieldsOfStudy=Economics,Business]",4001,1000,ok,2026-10-13
+arXiv_a_16,arXiv,a,"all:""day trading"" AND cat:q-fin.*",8,8,ok,2026-10-13
+arXiv_a_17,arXiv,a,"all:""retail traders"" AND cat:q-fin.*",10,10,ok,2026-10-13
+arXiv_a_18,arXiv,a,"all:""retail investors"" AND all:profitability",5,5,ok,2026-10-13
+Crossref_b_19,Crossref,b,gambler's ruin trading,67764,200,ok,2026-10-13
+Crossref_b_20,Crossref,b,risk of ruin trading strategy,2308755,200,ok,2026-10-13
+Crossref_b_21,Crossref,b,double barrier first passage time Brownian motion,3722489,200,ok,2026-10-13
+Crossref_b_22,Crossref,b,double barrier option pricing,736155,200,ok,2026-10-13
+Crossref_b_23,Crossref,b,maximum drawdown Brownian motion distribution,1316131,200,ok,2026-10-13
+Crossref_b_24,Crossref,b,drawdown constraint portfolio optimization,1114899,200,ok,2026-10-13
+Crossref_b_25,Crossref,b,trailing drawdown trading,69529,200,ok,2026-10-13
+Crossref_b_26,Crossref,b,stop-loss take-profit optimal trading,1048082,200,ok,2026-10-13
+Crossref_b_27,Crossref,b,probability of reaching a goal before ruin,466316,200,ok,2026-10-13
+Crossref_b_28,Crossref,b,Kelly criterion drawdown,200822,200,ok,2026-10-13
+Crossref_b_29,Crossref,b,first passage time trading strategy finance,3792458,200,ok,2026-10-13
+Crossref_b_30,Crossref,b,triple barrier method labeling,2301771,200,ok,2026-10-13
+Crossref_b_31,Crossref,b,optimal stopping trading exit barrier,678702,200,ok,2026-10-13
+Crossref_b_32,Crossref,b,bold play gambling reaching a goal,226146,200,ok,2026-10-13
+Crossref_b_33,Crossref,b,drawdown probability trading strategy,838511,200,ok,2026-10-13
+Crossref_b_34,Crossref,b,maximizing probability of reaching a goal portfolio,326668,200,ok,2026-10-13
+Crossref_b_35,Crossref,b,stop-loss rules performance,2855114,200,ok,2026-10-13
+Semantic Scholar (bulk)_b_36,Semantic Scholar (bulk),b,"(""gambler's ruin"" | ""risk of ruin"") + (trading | finance | investor | portfolio | betting | market)",119,119,ok,2026-10-13
+Semantic Scholar (bulk)_b_37,Semantic Scholar (bulk),b,"drawdown + (portfolio | trading | ""Brownian motion"" | investment)  [fieldsOfStudy=Economics,Business,Mathematics,Computer Science,Psychology]",1898,1000,ok,2026-10-13
+Semantic Scholar (bulk)_b_38,Semantic Scholar (bulk),b,"""double barrier"" + (option | Brownian | ""first passage"" | trading)",347,347,ok,2026-10-13
+Semantic Scholar (bulk)_b_39,Semantic Scholar (bulk),b,"(""first passage"" | ""hitting time"" | ""first exit"") + (trading | ""stock price"" | portfolio | ""trading strategy"" | investor)  [fieldsOfStudy=Economics,Business,Mathematics,Computer Science,Psychology]",256,256,ok,2026-10-13
+Semantic Scholar (bulk)_b_40,Semantic Scholar (bulk),b,"(""stop-loss"" | ""take-profit"" | ""stop loss"") + (trading | portfolio | strategy)  [fieldsOfStudy=Economics,Business,Mathematics,Computer Science,Psychology]",719,719,ok,2026-10-13
+Semantic Scholar (bulk)_b_41,Semantic Scholar (bulk),b,"""Kelly criterion"" | ""goal-reaching"" | ""bold play""  [fieldsOfStudy=Economics,Business,Mathematics,Computer Science,Psychology]",1124,1000,ok,2026-10-13
+arXiv_b_42,arXiv,b,all:drawdown AND cat:q-fin.*,245,200,ok,2026-10-13
+arXiv_b_43,arXiv,b,"all:""gambler's ruin"" AND (cat:q-fin.* OR cat:math.PR)",40,40,ok,2026-10-13
+arXiv_b_44,arXiv,b,"all:""double barrier"" AND cat:q-fin.*",23,23,ok,2026-10-13
+arXiv_b_45,arXiv,b,"all:""stop-loss"" AND cat:q-fin.*",35,35,ok,2026-10-13
+arXiv_b_46,arXiv,b,"all:""Kelly criterion"" AND cat:q-fin.*",40,40,ok,2026-10-13
+arXiv_b_47,arXiv,b,"all:""first passage"" AND cat:q-fin.TR",8,8,ok,2026-10-13
+Crossref_c_48,Crossref,c,proprietary trading firm traders,174454,200,ok,2026-10-13
+Crossref_c_49,Crossref,c,proprietary traders behavior risk taking,3004177,200,ok,2026-10-13
+Crossref_c_50,Crossref,c,funded trader program evaluation,2643161,200,ok,2026-10-13
+Crossref_c_51,Crossref,c,prop firm trading challenge,370145,200,ok,2026-10-13
+Crossref_c_52,Crossref,c,trading competition participants performance,2546824,200,ok,2026-10-13
+Crossref_c_53,Crossref,c,trading contest risk taking,1834610,200,ok,2026-10-13
+Crossref_c_54,Crossref,c,investment competition risk taking tournament,2117843,200,ok,2026-10-13
+Crossref_c_55,Crossref,c,tournament incentives risk taking fund managers,1935250,200,ok,2026-10-13
+Crossref_c_56,Crossref,c,mutual fund tournament risk taking,1903272,200,ok,2026-10-13
+Crossref_c_57,Crossref,c,high-water mark hedge fund risk taking,6539749,200,ok,2026-10-13
+Crossref_c_58,Crossref,c,convex incentives risk taking traders,1856729,200,ok,2026-10-13
+Crossref_c_59,Crossref,c,stock market simulation game students trading,2823650,200,ok,2026-10-13
+Crossref_c_60,Crossref,c,option-like compensation risk shifting portfolio managers,2483951,200,ok,2026-10-13
+Crossref_c_61,Crossref,c,limited liability traders risk taking experiment,2169969,200,ok,2026-10-13
+Crossref_c_62,Crossref,c,professional traders behavioral biases,800680,200,ok,2026-10-13
+Crossref_c_63,Crossref,c,social trading platform leaderboard,3444975,200,ok,2026-10-13
+Crossref_c_64,Crossref,c,rank-order tournaments risk taking contest,2325937,200,ok,2026-10-13
+Semantic Scholar (bulk)_c_65,Semantic Scholar (bulk),c,"""proprietary trading"" | ""proprietary traders"" | ""prop firm"" | ""prop trading"" | ""funded trader""",559,559,ok,2026-10-13
+Semantic Scholar (bulk)_c_66,Semantic Scholar (bulk),c,"""trading competition"" | ""trading contest"" | ""investment competition"" | ""investment contest"" | ""stock market game"" | ""trading tournament"" | ""investment game"" | ""trading competitions"" | ""trading contests""",2068,1000,ok,2026-10-13
+Semantic Scholar (bulk)_c_67,Semantic Scholar (bulk),c,"tournament + (""risk taking"" | ""risk-taking"") + (fund | traders | managers | investment)  [fieldsOfStudy=Economics,Business]",84,84,ok,2026-10-13
+Semantic Scholar (bulk)_c_68,Semantic Scholar (bulk),c,"""high-water mark"" | ""convex incentives"" | ""option-like compensation"" | ""incentive fees"" | ""risk shifting"" + (fund | trader | portfolio)  [fieldsOfStudy=Economics,Business,Mathematics]",552,552,ok,2026-10-13
+arXiv_c_69,arXiv,c,"all:""proprietary trading""",5,5,ok,2026-10-13
+arXiv_c_70,arXiv,c,"all:""prop firm"" OR all:""funded trader"" OR all:""prop trading""",0,0,ok,2026-10-13
+arXiv_c_71,arXiv,c,"all:""trading competition"" OR all:""trading contest""",9,9,ok,2026-10-13
+arXiv_c_72,arXiv,c,"all:""high-water mark"" AND cat:q-fin.*",7,7,ok,2026-10-13

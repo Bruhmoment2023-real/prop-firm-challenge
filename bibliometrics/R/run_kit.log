@@ -1,0 +1,30 @@
+scopus-drop: EMPTY - no Scopus/WoS export to merge; corpus is OpenAlex-only 
+Corpus: 910 documents
+[main_information] ok
+[biblioAnalysis_summary] ok
+[annual_production] ok
+[average_citations_per_year] ok
+[sources] ok
+[bradford] ok
+[source_dynamics] ok
+[authors] ok
+[lotka] ok
+[author_production_over_time] ok
+[affiliations] ok
+[countries] ok
+[most_cited_documents] ok
+[rpys] ok
+[keywords] ok
+[trend_topics] ok
+[cooccurrence_network] ok
+[thematic_map] ok
+[thematic_evolution] ok
+[cocitation_references] ok
+[cocitation_sources] ok
+[bibliographic_coupling] ok
+[historiograph] FAILED: arguments imply differing number of rows: 0, 1
+[collaboration_authors] ok
+[collaboration_institutions] ok
+[collaboration_countries] ok
+[three_field_plot] ok
+R analysis finished: 26 ok of 27 

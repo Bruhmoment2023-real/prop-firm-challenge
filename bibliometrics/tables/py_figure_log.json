@@ -1,0 +1,12 @@
+{
+ "prisma": "ok",
+ "year_sub": "ok",
+ "timeline": "ok",
+ "db": "ok",
+ "geography": "ok",
+ "heatmap": "ok",
+ "citation_network": "ok",
+ "main_path": "ok",
+ "cocitation": "ok",
+ "vosviewer_cli": "VOSviewer command line produced layouts for: py_cocitation_references, keyword_cooccurrence, coauthorship_authors. py_cocitation_references: VOSviewer command line timed out. keyword_cooccurrence: VOSviewer command line timed out. coauthorship_authors: VOSviewer command line timed out. "
+}

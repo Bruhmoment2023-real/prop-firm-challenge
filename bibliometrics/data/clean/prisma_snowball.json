@@ -1,0 +1,9 @@
+{
+ "central_papers": 25,
+ "backward_candidates": 664,
+ "forward_candidates": 6116,
+ "snowball_duplicates": 78,
+ "snowball_excluded_reasons": {},
+ "backward_included": 14,
+ "forward_included": 61
+}

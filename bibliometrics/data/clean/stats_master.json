@@ -1,0 +1,1 @@
+{"corpus": 896, "with_abstract": 679, "with_doi": 825, "with_refs": 681, "with_country": 697, "open_access": 549, "direct_citation_edges": 1981, "by_sublit": {"a": 224, "b": 511, "c": 161}, "by_origin": {"seed": 23, "search": 798, "snowball_backward": 14, "snowball_forward": 61}, "year_min": 1964, "year_max": 2026, "named_prior_work_in_corpus": 4, "named_prior_work_expected": 4}

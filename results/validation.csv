@@ -1,0 +1,32 @@
+test,exact,mc,se,z,approx,ok,n,mean_days,secs,note
+lattice fair a=0.1 b=0.1,0.5,0.49835,0.00158,-1.04,False,True,100000,100.4,7.3,
+lattice fair a=0.05 b=0.1,0.66667,0.66463,0.00149,-1.37,False,True,100000,50.1,0.6,
+lattice fair a=0.08 b=0.1,0.55556,0.55451,0.00157,-0.67,False,True,100000,80.5,0.8,
+lattice fair a=0.06 b=0.04,0.4,0.39582,0.00155,-2.7,False,True,100000,24.0,0.3,
+lattice fair a=0.1 b=0.06,0.375,0.37355,0.00153,-0.95,False,True,100000,60.3,0.7,
+lattice edge=0.1,0.8815,0.88073,0.00102,-0.75,False,True,100000,76.5,0.8,
+lattice edge=-0.1,0.1185,0.11822,0.00102,-0.27,False,True,100000,76.3,0.8,
+two-phase lattice 10%/5% loss 10%,0.33333,0.33215,0.00149,-0.79,False,True,100000,125.5,1.8,
+gauss fine steps a=.10 b=.10 (exact=BGK),0.5,0.50057,0.0025,0.23,False,True,40000,506.2,54.3,
+gauss fine steps a=.05 b=.10 (exact=BGK),0.66538,0.66575,0.00236,0.16,True,True,40000,256.1,26.3,
+gauss drift q=0.02,0.8808,0.88075,0.00162,-0.03,True,True,40000,194.4,10.8,
+gauss drift q=-0.02,0.1192,0.11585,0.00162,-2.07,True,True,40000,193.5,9.3,
+gauss deadline T=10d sigma=1.5%/d (series + BGK shift),0.0316,0.03187,0.00071,0.37,False,True,60000,9.9,1.7,unshifted continuous value 0.03501
+gauss deadline T=30d sigma=1.5%/d (series + BGK shift),0.21443,0.21472,0.00168,0.17,False,True,60000,25.0,4.2,unshifted continuous value 0.22328
+gauss deadline T=60d sigma=1.5%/d (series + BGK shift),0.37176,0.36923,0.00197,-1.28,False,True,60000,37.1,5.3,unshifted continuous value 0.37962
+trailing a=.06 d=.04,0.22313,0.22567,0.00208,1.22,True,True,40000,256.1,28.7,
+trailing+lock a=.06 d=.04,0.24525,0.24613,0.00215,0.41,True,True,40000,269.0,32.0,
+trailing a=.10 d=.06,0.18888,0.19195,0.00196,1.57,True,True,40000,596.3,64.5,
+trailing drift q=.02 a=.06 d=.04,0.81548,0.82355,0.00194,4.16,True,True,40000,239.1,22.1,
+daily-close gauss sd=0.01 a=.06 b=.04 (BGK approx),0.41044,0.41173,0.00156,0.83,True,True,100000,30.4,0.3,
+daily-close gauss sd=0.03 a=.06 b=.04 (BGK approx),0.4259,0.42797,0.00156,1.32,True,True,100000,5.2,0.1,
+daily-close gauss sd=0.1 a=.06 b=.04 (BGK approx),0.45381,0.46313,0.00157,5.92,True,True,100000,1.6,0.0,
+daily-close gauss sd=1.0 a=.06 b=.04 (BGK approx),0.4921,0.49624,0.00158,2.62,True,True,100000,1.0,0.0,
+rule-aware Bernoulli r=3% a=.10 b=.10,0.5,0.49805,0.00158,-1.23,False,True,100000,12.7,0.1,
+rule-aware Bernoulli 1:2 r=1.7% a=.08 b=.10,0.55556,0.55367,0.00157,-1.2,False,True,100000,15.1,0.1,
+"rule-aware Bernoulli two-phase 10%/5%, daily 5%, r=1%, 10 trades/day",0.33333,0.33249,0.00149,-0.57,False,True,100000,13.8,0.8,
+"rule-aware Bernoulli two-phase 10%/5%, daily 5%, r=3%, 3 trades/day",0.33333,0.32987,0.00149,-2.32,False,True,100000,6.9,0.1,
+"naive Bernoulli two-phase 10%/5%, daily 5%, r=3%, 3 trades/day (reported, no exact value)",0.33333,0.14619,0.00149,-125.54,True,True,100000,3.4,0.1,"illustration only: exact column is the rule-aware ceiling, not a prediction for naive sizing"
+funded: P(any payout),0.66667,0.66476,0.00149,-1.28,False,True,100000,,,
+funded: mean number of payouts,2.0,1.99769,0.00776,-0.3,False,True,100000,,,
+funded: mean paid (fraction of account),0.08,0.07991,0.00031,-0.3,False,True,100000,,,

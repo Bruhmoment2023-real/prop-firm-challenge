@@ -1,0 +1,111 @@
+firm,product,account_size,field,value_as_published,source_url,access_date,archived_file_in_data_raw_firm_pages,note
+FTMO,2-Step Challenge,"USD 100,000",fee,EUR 540,https://ftmo.com/en/,2026-10-13,ftmo_home.html,list price; a EUR 439 first-account deal was also shown
+FTMO,2-Step Challenge,"USD 100,000",profit_target_phase1,10%,https://ftmo.com/en/,2026-10-13,ftmo_home.html,
+FTMO,2-Step Challenge,"USD 100,000",profit_target_phase2,5%,https://ftmo.com/en/,2026-10-13,ftmo_home.html,
+FTMO,2-Step Challenge,"USD 100,000",max_daily_loss,5% of initial balance,https://ftmo.com/en/,2026-10-13,ftmo_home.html,
+FTMO,2-Step Challenge,"USD 100,000",max_loss,10% of initial balance,https://ftmo.com/en/,2026-10-13,ftmo_home.html,
+FTMO,2-Step Challenge,"USD 100,000",min_trading_days,4 per phase,https://ftmo.com/en/,2026-10-13,ftmo_home.html,
+FTMO,2-Step Challenge,"USD 100,000",time_limit,Unlimited,https://ftmo.com/en/,2026-10-13,ftmo_home.html,
+FTMO,2-Step Challenge,"USD 100,000",fee_refund,"100%, with the first Reward",https://ftmo.com/en/,2026-10-13,ftmo_home.html,
+FTMO,2-Step Challenge,"USD 100,000",profit_split,"80%, up to 90% with Scaling Plan",https://ftmo.com/en/,2026-10-13,ftmo_home.html,base 80% modelled
+FTMO,2-Step Challenge,"USD 100,000",published_average_reward,"USD 5,957",https://ftmo.com/en/,2026-10-13,ftmo_home.html,field average_reward in the page pricing data; definition not given
+FTMO,2-Step Challenge,"USD 100,000",max_loss_type,static,https://ftmo.com/en/trading-objectives/,2026-10-13,ftmo_objectives.html,
+FTMO,2-Step Challenge,"USD 100,000",daily_loss_basis,balance at 00:00 CE(S)T minus 5% of initial; equity monitored,https://ftmo.com/en/trading-objectives/,2026-10-13,ftmo_objectives.html,
+FTMO,2-Step Challenge,"USD 100,000",payout_frequency,NOT STATED on the pages read,https://ftmo.com/en/trading-objectives/,2026-10-13,ftmo_objectives.html,10 trading days assumed in the model
+FTMO,1-Step Challenge,"USD 100,000",fee,EUR 499,https://ftmo.com/en/,2026-10-13,ftmo_home.html,list price; EUR 399 deal also shown
+FTMO,1-Step Challenge,"USD 100,000",profit_target_phase1,10%,https://ftmo.com/en/,2026-10-13,ftmo_home.html,
+FTMO,1-Step Challenge,"USD 100,000",max_daily_loss,3% of initial balance,https://ftmo.com/en/,2026-10-13,ftmo_home.html,
+FTMO,1-Step Challenge,"USD 100,000",max_loss,10% of initial balance,https://ftmo.com/en/,2026-10-13,ftmo_home.html,
+FTMO,1-Step Challenge,"USD 100,000",time_limit,Unlimited,https://ftmo.com/en/,2026-10-13,ftmo_home.html,
+FTMO,1-Step Challenge,"USD 100,000",consistency_best_day,50% of total profit,https://ftmo.com/en/,2026-10-13,ftmo_home.html,
+FTMO,1-Step Challenge,"USD 100,000",profit_split,90%,https://ftmo.com/en/,2026-10-13,ftmo_home.html,
+FTMO,1-Step Challenge,"USD 100,000",fee_refund,NOT STATED for 1-Step,https://ftmo.com/en/,2026-10-13,ftmo_home.html,modelled as no refund
+FTMO,1-Step Challenge,"USD 100,000",max_loss_type,end-of-day trailing: highest balance at 00:00 of any preceding day (or initial) minus 10%,https://ftmo.com/en/trading-objectives/,2026-10-13,ftmo_objectives.html,
+FTMO,1-Step Challenge,"USD 100,000",rule_change_note,Consistency rule differs for orders on/after 12 Oct 2026 versus Legacy accounts,https://ftmo.com/en/trading-objectives/,2026-10-13,ftmo_objectives.html,the rules changed the day before access
+FundedNext,Stellar 2-Step,"USD 100,000",fee,USD 549.99,https://fundednext.com/stellar-model,2026-10-13,fundednext_stellar.html,
+FundedNext,Stellar 2-Step,"USD 100,000",profit_target_phase1,8%,https://fundednext.com/stellar-model,2026-10-13,fundednext_stellar.html,
+FundedNext,Stellar 2-Step,"USD 100,000",profit_target_phase2,5%,https://fundednext.com/stellar-model,2026-10-13,fundednext_stellar.html,
+FundedNext,Stellar 2-Step,"USD 100,000",max_daily_loss,5%,https://fundednext.com/stellar-model,2026-10-13,fundednext_stellar.html,
+FundedNext,Stellar 2-Step,"USD 100,000",max_loss,10%,https://fundednext.com/stellar-model,2026-10-13,fundednext_stellar.html,
+FundedNext,Stellar 2-Step,"USD 100,000",max_loss_type,Static,https://fundednext.com/stellar-model,2026-10-13,fundednext_stellar.html,
+FundedNext,Stellar 2-Step,"USD 100,000",min_trading_days,5,https://fundednext.com/stellar-model,2026-10-13,fundednext_stellar.html,
+FundedNext,Stellar 2-Step,"USD 100,000",time_limit,No time limit,https://fundednext.com/stellar-model,2026-10-13,fundednext_stellar.html,
+FundedNext,Stellar 2-Step,"USD 100,000",profit_split,80% (headline says up to 95%),https://fundednext.com/stellar-model,2026-10-13,fundednext_stellar.html,80% modelled
+FundedNext,Stellar 2-Step,"USD 100,000",fee_refund,Refundable with the first reward,https://fundednext.com/stellar-model,2026-10-13,fundednext_stellar.html,
+FundedNext,Stellar 2-Step,"USD 100,000",payout_frequency,"first after 21 days, then every 14 days",https://fundednext.com/stellar-model,2026-10-13,fundednext_stellar.html,
+FundedNext,Stellar 2-Step,"USD 100,000",daily_loss_basis,NOT STATED on the page read,https://fundednext.com/stellar-model,2026-10-13,fundednext_stellar.html,start-of-day balance assumed
+The5ers,High Stakes (2-step),"USD 2,500",fee,USD 19,https://the5ers.com/high-stakes/,2026-10-13,the5ers_highstakes.html,only the $2.5K price was in the static page; the $100K price was NOT RETRIEVED
+The5ers,High Stakes (2-step),"USD 2,500",profit_target_phase1,10%,https://the5ers.com/high-stakes/,2026-10-13,the5ers_highstakes.html,
+The5ers,High Stakes (2-step),"USD 2,500",profit_target_phase2,5%,https://the5ers.com/high-stakes/,2026-10-13,the5ers_highstakes.html,
+The5ers,High Stakes (2-step),"USD 2,500",max_daily_loss,5%,https://the5ers.com/high-stakes/,2026-10-13,the5ers_highstakes.html,
+The5ers,High Stakes (2-step),"USD 2,500",max_loss,10%,https://the5ers.com/high-stakes/,2026-10-13,the5ers_highstakes.html,
+The5ers,High Stakes (2-step),"USD 2,500",max_loss_type,NOT STATED on the page read,https://the5ers.com/high-stakes/,2026-10-13,the5ers_highstakes.html,static assumed
+The5ers,High Stakes (2-step),"USD 2,500",time_limit,Unlimited,https://the5ers.com/high-stakes/,2026-10-13,the5ers_highstakes.html,
+The5ers,High Stakes (2-step),"USD 2,500",min_profitable_days,3 per step (profitable day = at least 0.5% of initial balance),https://the5ers.com/high-stakes/,2026-10-13,the5ers_highstakes.html,
+The5ers,High Stakes (2-step),"USD 2,500",profit_split,80%-100% by scaling level,https://the5ers.com/high-stakes/,2026-10-13,the5ers_highstakes.html,
+The5ers,High Stakes (2-step),"USD 2,500",fee_refund,Refund listed; conditions not stated,https://the5ers.com/high-stakes/,2026-10-13,the5ers_highstakes.html,refund with first payout assumed
+The5ers,High Stakes (2-step),"USD 2,500",payout_frequency,NOT STATED on the page read,https://the5ers.com/high-stakes/,2026-10-13,the5ers_highstakes.html,10 trading days assumed
+Topstep,Trading Combine 50K (Standard path),"USD 50,000",fee,USD 49 per month,https://help.topstep.com/en/articles/14289835-topstep-pricing-and-payment-questions,2026-10-13,topstep_pricing.html,
+Topstep,Trading Combine 50K (Standard path),"USD 50,000",activation_fee,USD 149 once per Express Funded Account,https://help.topstep.com/en/articles/14289835-topstep-pricing-and-payment-questions,2026-10-13,topstep_pricing.html,
+Topstep,Trading Combine 50K (Standard path),"USD 50,000",fee_no_activation_path,USD 95 per month,https://help.topstep.com/en/articles/14289835-topstep-pricing-and-payment-questions,2026-10-13,topstep_pricing.html,
+Topstep,Trading Combine 50K (Standard path),"USD 50,000",back2funded_reactivation,USD 599 (50K),https://help.topstep.com/en/articles/14289835-topstep-pricing-and-payment-questions,2026-10-13,topstep_pricing.html,
+Topstep,Trading Combine 50K (Standard path),"USD 50,000",profit_target,"USD 3,000",https://help.topstep.com/en/articles/8284208-what-is-the-consistency-target,2026-10-13,topstep_consistency.html,
+Topstep,Trading Combine 50K (Standard path),"USD 50,000",consistency_best_day,"best day below 55% of profit target, else the target rises to best day / 0.55",https://help.topstep.com/en/articles/8284208-what-is-the-consistency-target,2026-10-13,topstep_consistency.html,"example on page: best day $2,200 gives target $4,000"
+Topstep,Trading Combine 50K (Standard path),"USD 50,000",max_loss,"USD 2,000",https://help.topstep.com/en/articles/8284204-what-is-the-maximum-loss-limit,2026-10-13,topstep_mll.html,
+Topstep,Trading Combine 50K (Standard path),"USD 50,000",max_loss_type,trailing on end-of-day balance; locks at the starting balance; monitored in real time on unrealized P&L,https://help.topstep.com/en/articles/8284204-what-is-the-maximum-loss-limit,2026-10-13,topstep_mll.html,
+Topstep,Trading Combine 50K (Standard path),"USD 50,000",funded_max_loss,"XFA balance starts at $0, MLL -$2,000 trailing, locks at $0; MLL set to $0 after first payout",https://help.topstep.com/en/articles/8284204-what-is-the-maximum-loss-limit,2026-10-13,topstep_mll.html,
+Topstep,Trading Combine 50K (Standard path),"USD 50,000",max_daily_loss,"USD 1,000, optional; a hit pauses trading until the next session",https://help.topstep.com/en/articles/10490293-daily-loss-limit-in-the-trading-combine-and-express-funded-account,2026-10-13,topstep_dll.html,not an account breach; modelled as off in the baseline
+Topstep,Trading Combine 50K (Standard path),"USD 50,000",min_trading_days,can pass in as few as two days,https://help.topstep.com/en/articles/8284197-trading-combine-parameters,2026-10-13,topstep_params.html,
+Topstep,Trading Combine 50K (Standard path),"USD 50,000",time_limit,No time limit (monthly rebill until pass or cancel),https://help.topstep.com/en/articles/8284121-trading-combine-subscriptions,2026-10-13,topstep_subs.html,
+Topstep,Trading Combine 50K (Standard path),"USD 50,000",profit_split,90/10,https://help.topstep.com/en/articles/8284215-express-funded-account-parameters,2026-10-13,topstep_xfa.html,
+Topstep,Trading Combine 50K (Standard path),"USD 50,000",payout_conditions,"5 winning days of $150+; request 50% of balance up to $5,000 (or 3 days traded with 40% consistency, up to $6,000)",https://help.topstep.com/en/articles/8284215-express-funded-account-parameters,2026-10-13,topstep_xfa.html,
+E8 Markets,E8 One,"USD 100,000",fee,USD 488,https://e8markets.com/,2026-10-13,e8_home.html,list price; USD 342 with a 30%-off code shown
+E8 Markets,E8 One,"USD 100,000",profit_target_phase1,"USD 9,000",https://e8markets.com/,2026-10-13,e8_home.html,
+E8 Markets,E8 One,"USD 100,000",max_loss,"USD 6,000 Dynamic Drawdown (Drawdown 6% Max)",https://e8markets.com/,2026-10-13,e8_home.html,trailing mechanics NOT STATED on the page read; intraday trailing without lock assumed
+E8 Markets,E8 One,"USD 100,000",max_daily_loss,"USD 4,000 Daily drawdown",https://e8markets.com/,2026-10-13,e8_home.html,
+E8 Markets,E8 One,"USD 100,000",min_trading_days,Pass in as little as 1 Day,https://e8markets.com/,2026-10-13,e8_home.html,
+E8 Markets,E8 One,"USD 100,000",profit_split,80%,https://e8markets.com/,2026-10-13,e8_home.html,
+E8 Markets,E8 One,"USD 100,000",funded_consistency,40%,https://e8markets.com/,2026-10-13,e8_home.html,
+E8 Markets,E8 One,"USD 100,000",fee_refund,NOT STATED,https://e8markets.com/,2026-10-13,e8_home.html,modelled as no refund
+Alpha Capital,Alpha Pro 10% (2-step),"USD 100,000",fee,USD 497 bi-weekly / USD 447 on-demand,https://alphacapitalgroup.uk/resources/alpha-capital-2026-plan-pricing-update,2026-10-13,alpha_pricing_update.html,
+Alpha Capital,Alpha Pro 10% (2-step),"USD 100,000",profit_target_phase1,10%,https://alphacapitalgroup.uk/resources/alpha-capital-2026-plan-pricing-update,2026-10-13,alpha_pricing_update.html,
+Alpha Capital,Alpha Pro 10% (2-step),"USD 100,000",profit_target_phase2,5%,https://alphacapitalgroup.uk/resources/alpha-capital-2026-plan-pricing-update,2026-10-13,alpha_pricing_update.html,
+Alpha Capital,Alpha Pro 10% (2-step),"USD 100,000",max_daily_loss,5%,https://alphacapitalgroup.uk/resources/alpha-capital-2026-plan-pricing-update,2026-10-13,alpha_pricing_update.html,
+Alpha Capital,Alpha Pro 10% (2-step),"USD 100,000",max_loss,10% static,https://alphacapitalgroup.uk/resources/alpha-capital-2026-plan-pricing-update,2026-10-13,alpha_pricing_update.html,
+Alpha Capital,Alpha Pro 10% (2-step),"USD 100,000",min_trading_days,3 per phase,https://alphacapitalgroup.uk/resources/alpha-capital-2026-plan-pricing-update,2026-10-13,alpha_pricing_update.html,
+Alpha Capital,Alpha Pro 10% (2-step),"USD 100,000",profit_split,"80% standard, optional 90% add-on",https://alphacapitalgroup.uk/resources/alpha-capital-2026-plan-pricing-update,2026-10-13,alpha_pricing_update.html,
+Alpha Capital,Alpha Pro 10% (2-step),"USD 100,000",daily_loss_basis,balance-based on Pro 10%,https://alphacapitalgroup.uk/product/alpha-pro,2026-10-13,alpha_pro.html,
+Alpha Capital,Alpha Pro 10% (2-step),"USD 100,000",time_limit,no maximum trading-day cap,https://alphacapitalgroup.uk/product/alpha-pro,2026-10-13,alpha_pro.html,
+Alpha Capital,Alpha Pro 10% (2-step),"USD 100,000",payout_conditions,bi-weekly: $100 minimum and 5 trading days for first request; on-demand: 40% best-day rule and 2% minimum profit,https://alphacapitalgroup.uk/product/alpha-pro,2026-10-13,alpha_pro.html,
+Alpha Capital,Alpha Pro 10% (2-step),"USD 100,000",fee_refund,NOT STATED,https://alphacapitalgroup.uk/product/alpha-pro,2026-10-13,alpha_pro.html,modelled as no refund
+Alpha Capital,Alpha One 10% (1-step),"USD 100,000",fee,USD 477,https://alphacapitalgroup.uk/resources/alpha-capital-2026-plan-pricing-update,2026-10-13,alpha_pricing_update.html,
+Alpha Capital,Alpha One 10% (1-step),"USD 100,000",profit_target_phase1,10%,https://alphacapitalgroup.uk/resources/alpha-capital-2026-plan-pricing-update,2026-10-13,alpha_pricing_update.html,
+Alpha Capital,Alpha One 10% (1-step),"USD 100,000",max_daily_loss,4%,https://alphacapitalgroup.uk/resources/alpha-capital-2026-plan-pricing-update,2026-10-13,alpha_pricing_update.html,
+Alpha Capital,Alpha One 10% (1-step),"USD 100,000",max_loss,6% trailing max loss based on high-water mark,https://alphacapitalgroup.uk/resources/alpha-capital-2026-plan-pricing-update,2026-10-13,alpha_pricing_update.html,
+Alpha Capital,Alpha One 10% (1-step),"USD 100,000",profit_split,"80% standard, optional 90% add-on",https://alphacapitalgroup.uk/resources/alpha-capital-2026-plan-pricing-update,2026-10-13,alpha_pricing_update.html,
+Alpha Capital,Alpha One 10% (1-step),"USD 100,000",min_trading_days,at least 1 trading day,https://alphacapitalgroup.uk/product/alpha-one,2026-10-13,alpha_one.html,
+Alpha Capital,Alpha One 10% (1-step),"USD 100,000",payout_conditions,on-demand; 40% Best Day Rule and 2% minimum profit,https://alphacapitalgroup.uk/product/alpha-one,2026-10-13,alpha_one.html,
+Alpha Capital,Alpha One 10% (1-step),"USD 100,000",max_loss_type,trailing max loss based on the high-water mark,https://alphacapitalgroup.uk/product/alpha-one,2026-10-13,alpha_one.html,"intraday trailing, no lock assumed"
+FunderPro,Classic 2-Phase,"USD 100,000",fee,USD 539,https://funderpro.com/,2026-10-13,funderpro_home.html,page says: Price (will be processed with 1st reward) - read here as refunded with the first reward; ambiguous
+FunderPro,Classic 2-Phase,"USD 100,000",profit_target_phase1,10%,https://funderpro.com/,2026-10-13,funderpro_home.html,
+FunderPro,Classic 2-Phase,"USD 100,000",profit_target_phase2,5%,https://funderpro.com/,2026-10-13,funderpro_home.html,
+FunderPro,Classic 2-Phase,"USD 100,000",max_daily_loss,"5% (balance based, set at start of day 5 pm EST)",https://funderpro.com/,2026-10-13,funderpro_home.html,
+FunderPro,Classic 2-Phase,"USD 100,000",max_loss,10%,https://funderpro.com/,2026-10-13,funderpro_home.html,
+FunderPro,Classic 2-Phase,"USD 100,000",max_loss_type,No Trailing Drawdown,https://funderpro.com/,2026-10-13,funderpro_home.html,
+FunderPro,Classic 2-Phase,"USD 100,000",min_trading_days,4,https://funderpro.com/,2026-10-13,funderpro_home.html,
+FunderPro,Classic 2-Phase,"USD 100,000",time_limit,Unlimited,https://funderpro.com/,2026-10-13,funderpro_home.html,
+FunderPro,Classic 2-Phase,"USD 100,000",profit_split,Up to 90%,https://funderpro.com/,2026-10-13,funderpro_home.html,base NOT STATED; 80% assumed
+BrightFunded,Classic 2-Step,"USD 100,000",fee,EUR 477,https://brightfunded.com/,2026-10-13,brightfunded_home.html,list; EUR 357.75 with a -25% promotion shown
+BrightFunded,Classic 2-Step,"USD 100,000",profit_target_phase1,8%,https://brightfunded.com/,2026-10-13,brightfunded_home.html,
+BrightFunded,Classic 2-Step,"USD 100,000",profit_target_phase2,5%,https://brightfunded.com/,2026-10-13,brightfunded_home.html,
+BrightFunded,Classic 2-Step,"USD 100,000",max_daily_loss,4%,https://brightfunded.com/,2026-10-13,brightfunded_home.html,
+BrightFunded,Classic 2-Step,"USD 100,000",max_loss,8%,https://brightfunded.com/,2026-10-13,brightfunded_home.html,
+BrightFunded,Classic 2-Step,"USD 100,000",max_loss_type,NOT STATED on the page read,https://brightfunded.com/,2026-10-13,brightfunded_home.html,static assumed
+BrightFunded,Classic 2-Step,"USD 100,000",min_trading_days,5,https://brightfunded.com/,2026-10-13,brightfunded_home.html,
+BrightFunded,Classic 2-Step,"USD 100,000",time_limit,Unlimited,https://brightfunded.com/,2026-10-13,brightfunded_home.html,
+BrightFunded,Classic 2-Step,"USD 100,000",profit_split,Up to 90%,https://brightfunded.com/,2026-10-13,brightfunded_home.html,base NOT STATED; 80% assumed
+BrightFunded,Classic 2-Step,"USD 100,000",evaluation_profit_reward,"15% of evaluation profit = USD 1,950",https://brightfunded.com/,2026-10-13,brightfunded_home.html,included in the model as a one-off on the first payout
+BrightFunded,Classic 2-Step,"USD 100,000",fee_refund,offered as a paid add-on only,https://brightfunded.com/,2026-10-13,brightfunded_home.html,modelled as no refund
+BrightFunded,Classic 2-Step,"USD 100,000",published_average_reward,"USD 2,422",https://brightfunded.com/,2026-10-13,brightfunded_home.html,Avg. reward shown next to the 100K plan; definition not given
+Apex Trader Funding,-,-,ALL,NOT RETRIEVED,https://apextraderfunding.com/,2026-10-13,,page refused automated access (HTTP 403) on repeated attempts; not modelled
+FundingPips,-,-,ALL,NOT RETRIEVED,https://fundingpips.com/,2026-10-13,,page refused automated access (HTTP 429) on repeated attempts; not modelled

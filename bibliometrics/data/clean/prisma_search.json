@@ -1,0 +1,20 @@
+{
+ "date": "2026-10-13",
+ "records_identified": 17670,
+ "by_db": {
+  "crossref": 9600,
+  "s2": 7636,
+  "arxiv": 390,
+  "seed": 5,
+  "seed_title": 39
+ },
+ "duplicates_removed_identifiers": 2276,
+ "unique_records": 15394,
+ "removed_title_prescreen": 13907,
+ "sent_to_openalex": 1487,
+ "duplicates_removed_openalex": 59,
+ "excluded_reasons": {
+  "unresolved in OpenAlex (not in corpus)": 68
+ },
+ "included_after_search_screen": 1073
+}

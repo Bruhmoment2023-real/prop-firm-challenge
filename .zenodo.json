@@ -1,0 +1,21 @@
+{
+  "title": "Is passing a prop-firm challenge evidence of skill? Zero-edge pass rates and the diagnostic value of a pass under ten published rule sets",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Solano Paul, Sean",
+      "affiliation": "Independent researcher"
+    }
+  ],
+  "license": "MIT",
+  "description": "Code, rule tables, simulation results and literature map for a study of retail proprietary-trading evaluations (challenges). A Monte Carlo simulator, validated against 30 closed-form results, is run on the published rules of ten products from eight firms (read 13 October 2026) to measure how often a trader with zero expected profit passes, what a purchase is worth to such a trader, and how much a pass reveals about skill (likelihood ratios and positive predictive value).",
+  "keywords": [
+    "proprietary trading",
+    "evaluation challenges",
+    "gambler's ruin",
+    "optional stopping",
+    "likelihood ratio",
+    "screening tests",
+    "retail trading"
+  ]
+}

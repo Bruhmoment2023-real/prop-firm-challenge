@@ -1,0 +1,10 @@
+### --only A --part 1of2
+finished in 738 s, 20000 paths per cell
+### --only A --part 2of2
+finished in 426 s, 20000 paths per cell
+### --only B
+finished in 321 s, 20000 paths per cell
+### --only C
+finished in 421 s, 20000 paths per cell
+### --only DE
+finished in 149 s, 20000 paths per cell

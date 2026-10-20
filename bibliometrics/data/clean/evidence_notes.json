@@ -1,0 +1,582 @@
+[
+ {
+  "oa_id": "W7213370519",
+  "study_type": "working paper (SSRN), theory + simulation",
+  "country": "US futures prop firms",
+  "data": "firm rule sets; published cohort pass rate 0.168 (as cited in the abstract)",
+  "method": "stage-by-stage incentive model, simulation",
+  "finding": "Passing is a poor standalone signal of skill: position sizing alone gives a zero-skill pass probability near 0.40 against a measured cohort rate of 0.168, and a real edge and aggressive sizing move the pass probability by nearly the same amount.",
+  "relation": "Closest prior work: same headline claim and zero-skill control; the paper must go beyond it (likelihood ratio, base rates, optimal-test benchmark).",
+  "read_status": "abstract read"
+ },
+ {
+  "oa_id": "W7202269910",
+  "study_type": "working paper (SSRN), closed-form theory",
+  "country": "13 products of one account size",
+  "data": "official contract terms of 13 products",
+  "method": "chain of first-passage problems with six contract parameters; checked against simulation",
+  "finding": "Success probability is derived in closed form (error below 1% against simulation); across 13 products with the same advertised target and buffer it varies by 62%, entirely from parameters published but not shown beside the price.",
+  "relation": "Overlaps the mathematics of the trailing barrier; read in full before claiming any closed form.",
+  "read_status": "abstract read"
+ },
+ {
+  "oa_id": "W7172549950",
+  "study_type": "working paper (SSRN), pricing model",
+  "country": "stylised two-step challenge",
+  "data": "none (model); illustrative population",
+  "method": "arithmetic Brownian motion, Monte Carlo first-passage pricing with profit sweeps and fee refund",
+  "finding": "A zero-edge trader passes the frictionless benchmark with probability 0.50 but the baseline contract with probability 0.30; contract value concentrates on a narrow risk-sizing ridge near 2 per cent daily volatility; model-implied average value of a USD 500 challenge is USD 221.",
+  "relation": "Time limit as the main zero-edge penalty; two-step CFD contract. Check against firms with no time limit.",
+  "read_status": "abstract read"
+ },
+ {
+  "oa_id": "W7172508446",
+  "study_type": "working paper (SSRN), hand-collected rule dataset + valuation",
+  "country": "21 firms, 31 contracts",
+  "data": "rule sets and fees displayed 25-26 July 2026 with dated screenshots",
+  "method": "common benchmark population of skill and volatility, 300-day evaluation cap, one-year funded horizon",
+  "finding": "At displayed list prices 29 of 31 contracts have negative benchmark expected value (before several restrictive terms are included, so estimates are upper bounds).",
+  "relation": "Cross-firm rule table and expected value; benchmark for Sean's ten rule sets.",
+  "read_status": "abstract read"
+ },
+ {
+  "oa_id": "W7221095952",
+  "study_type": "working paper (SSRN), coded dataset",
+  "country": "40 firms",
+  "data": "public rule pages observed 5 May 2026, eleven dimensions",
+  "method": "systematic coding of rules",
+  "finding": "A 5% daily and 10% maximum loss limit, an 80% base profit split, no time limit and MetaTrader connectivity each appear at a majority of firms; automated strategies are permitted in some form at 39 firms.",
+  "relation": "Supports 'time limits are gone' and the rule-table inputs; no probability modelling.",
+  "read_status": "abstract read"
+ },
+ {
+  "oa_id": "W7214609362",
+  "study_type": "working paper (SSRN), mechanism-design framing",
+  "country": "industry-wide",
+  "data": "none (model)",
+  "method": "mechanism design under asymmetric information; simple firm-profit-per-participant model",
+  "finding": "Separates trading-funded from fee-funded revenue models and argues the dominant contemporary form is fee-funded, with consequences for the alignment of firm and participant incentives.",
+  "relation": "Framing for why firms tolerate low pass rates; no simulation.",
+  "read_status": "abstract read"
+ },
+ {
+  "oa_id": "W7214126987",
+  "study_type": "working paper (SSRN), simulation",
+  "country": "US index futures (Topstep $50,000 model)",
+  "data": "about 10 years of 1-minute Nasdaq futures",
+  "method": "10,000 randomised long/short paths; fixed-size strategy with symmetric 100-tick barriers",
+  "finding": "Gross performance is about break-even (49.98% win rate), yet mean payouts of $9,368.50 exceed mean account costs of $7,878.30 (net $1,490.19 per account); 39.70% of full-sample simulations lose money.",
+  "relation": "Zero edge can have positive expected value under the contract: the converse of the 'passers are skilled' reading.",
+  "read_status": "abstract read"
+ },
+ {
+  "oa_id": "W7220906257",
+  "study_type": "working paper (SSRN), closed-form theory",
+  "country": "hedged evaluation accounts, static drawdown",
+  "data": "none stated",
+  "method": "closed-form analysis (from the title)",
+  "finding": "No abstract in OpenAlex, Crossref or Semantic Scholar; not summarised.",
+  "relation": "Hedged evaluation accounts with a static drawdown (title); read before citing.",
+  "read_status": "metadata only (no abstract available)"
+ },
+ {
+  "oa_id": "W7154941387",
+  "study_type": "working paper (SSRN), vendor-linked observational study",
+  "country": "1,000 prop traders of one vendor",
+  "data": "24-month exclusive observation, 490 manual and 510 AI-assisted traders",
+  "method": "observational comparison, non-randomised",
+  "finding": "AI-assisted traders show lower drawdowns (4.3% vs 7.8%), fewer emotionally driven exits (37.2% vs 61.7%) and a lower rule-breach rate (12.2% vs 18.4%); the author proposes a proprietary bias index.",
+  "relation": "Low weight: vendor-linked, non-randomised; shows what behavioural data a firm holds.",
+  "read_status": "abstract read"
+ },
+ {
+  "oa_id": "W7212033909",
+  "study_type": "journal article, qualitative sociology",
+  "country": "Thailand",
+  "data": "retail traders on forex prop-firm platforms",
+  "method": "sociology of finance (interpretive)",
+  "finding": "Retail traders aim to become professional by passing the evaluation, but only a few succeed; the firms' main income is evaluation fees from the many who fail, secondary income is trading data from the few who succeed.",
+  "relation": "Only peer-reviewed item on prop-firm challenges found; no model.",
+  "read_status": "abstract read"
+ },
+ {
+  "oa_id": "W4416309300",
+  "study_type": "working paper (SSRN), mixed methods",
+  "country": "one prop-firm programme (coupon campaign)",
+  "data": "internal enrolment and performance records, sentiment analysis",
+  "method": "benchmark comparison",
+  "finding": "A 20% discount coupon is associated with higher enrolment and completion rates, modestly higher early-stage risk exposure and better medium-term retention.",
+  "relation": "Price sensitivity of challenge buyers; single firm.",
+  "read_status": "abstract read"
+ },
+ {
+  "oa_id": "W7170163211",
+  "study_type": "working paper (arXiv), multiple-testing study",
+  "country": "US equities",
+  "data": "NASDAQ-100/SPY daily, Russell 3000 (as described in the note)",
+  "method": "three predeclared gates, stationary bootstrap, Benjamini-Yekutieli, equivalence tests",
+  "finding": "Four of six candidate retail signal families (oscillator, volume, calendar, candlestick) are refuted on statistical and/or economic materiality, trend and a momentum benchmark are inconclusive, none is supported.",
+  "relation": "Methodological model (three-way verdict); also the nearest relative for paper 02.",
+  "read_status": "abstract read"
+ },
+ {
+  "oa_id": "W2125585375",
+  "study_type": "journal article, empirical",
+  "country": "US",
+  "data": "334 growth-oriented mutual funds, 1976-1991",
+  "method": "volatility change between mid-year winners and losers",
+  "finding": "Mid-year losers raise fund volatility in the later part of the assessment year more than winners, and the effect strengthens as industry growth and investor awareness rise.",
+  "relation": "Tournament risk-shifting: the incentive logic behind a pass/fail threshold.",
+  "read_status": "abstract read"
+ },
+ {
+  "oa_id": "W2133907450",
+  "study_type": "journal article, theory",
+  "country": "n/a",
+  "data": "none (model)",
+  "method": "dynamic investment problem of a manager paid with a call option",
+  "finding": "Under the optimal policy the option ends deep in or deep out of the money, but option compensation does not strictly lead to greater risk seeking; more options can reduce volatility.",
+  "relation": "Capped downside plus profit share is an option; challenge fees cap the trader's loss.",
+  "read_status": "abstract read"
+ },
+ {
+  "oa_id": "W2033772453",
+  "study_type": "journal article, empirical",
+  "country": "US",
+  "data": "growth and growth-and-income funds 1982-92",
+  "method": "semiparametric flow-performance estimation",
+  "finding": "The shape of the flow-performance relationship creates incentives for managers to raise or lower fund risk depending on year-to-date standing.",
+  "relation": "Convex payoffs and risk-taking incentives.",
+  "read_status": "abstract read"
+ },
+ {
+  "oa_id": "W3122418752",
+  "study_type": "journal article, empirical (replication-type)",
+  "country": "US",
+  "data": "mutual funds, daily returns",
+  "method": "daily versus monthly volatility estimates",
+  "finding": "With daily returns the monthly-data pattern of year-to-date underperformers raising risk disappears, suggesting earlier results were an artefact of inefficient monthly volatility estimates.",
+  "relation": "Caution on tournament results; data-frequency artefact.",
+  "read_status": "abstract read"
+ },
+ {
+  "oa_id": "W3121909572",
+  "study_type": "journal article, theory",
+  "country": "n/a",
+  "data": "none (model)",
+  "method": "valuation of performance fees with high-water marks; closed-form cost of the mark",
+  "finding": "Hedge-fund performance fees are valuable to managers and a claim on a significant share of investor wealth; high-water marks limit their value; a closed-form cost is derived under certain conditions.",
+  "relation": "High-water-mark path dependence resembles the trailing drawdown.",
+  "read_status": "abstract read"
+ },
+ {
+  "oa_id": "W1998402685",
+  "study_type": "journal article, empirical",
+  "country": "hedge funds",
+  "data": "hedge-fund manager incentive contracts",
+  "method": "regression of risk shifting on contract terms",
+  "finding": "Risk shifting after poor performance is weaker when pay is tied to the high-water mark, when liquidation risk is low and when the manager has a large personal stake.",
+  "relation": "How contract terms change risk-taking.",
+  "read_status": "abstract read"
+ },
+ {
+  "oa_id": "W3123642420",
+  "study_type": "journal article, theory",
+  "country": "n/a",
+  "data": "none",
+  "method": "analysis of gaming of performance measures",
+  "finding": "If a principal judges an agent with a performance measure, the agent has an incentive to game it (abstract truncated in the record).",
+  "relation": "A pass rate is a measure that can be gamed by reshaping the return distribution.",
+  "read_status": "abstract read"
+ },
+ {
+  "oa_id": "W3122890729",
+  "study_type": "journal article, empirical",
+  "country": "US",
+  "data": "66,465 households at a large discount broker, 1991-96",
+  "method": "account-level returns by turnover",
+  "finding": "Households that trade most earn 11.4% a year against 17.9% for the market; the average household earns 16.4% and turns over 75% of its portfolio; overconfidence can explain the heavy trading and poor performance.",
+  "relation": "Base rate: active retail trading lowers wealth.",
+  "read_status": "abstract read"
+ },
+ {
+  "oa_id": "W3123386791",
+  "study_type": "journal article, empirical",
+  "country": "Taiwan",
+  "data": "complete trading history of all investors",
+  "method": "aggregate portfolio performance",
+  "finding": "The aggregate portfolio of individual investors suffers an annual performance penalty of 3.8 percentage points (2.2% of GDP); virtually all losses come from aggressive orders; institutions gain 1.5 points.",
+  "relation": "Base rate: retail traders lose in aggregate.",
+  "read_status": "abstract read"
+ },
+ {
+  "oa_id": "W2113604236",
+  "study_type": "journal article, empirical",
+  "country": "US",
+  "data": "sample of day traders",
+  "method": "two profitability methodologies",
+  "finding": "About twice as many day traders lose money as make money; roughly 20 percent are more than marginally profitable; profitability relates to Nasdaq Composite movements.",
+  "relation": "Share of day traders with positive results.",
+  "read_status": "abstract read"
+ },
+ {
+  "oa_id": "W3123078299",
+  "study_type": "journal article, empirical",
+  "country": "Taiwan futures",
+  "data": "3,470 individual day traders",
+  "method": "natural experiment from a margin-reduction day-trading policy",
+  "finding": "Day traders incur an average significant loss of NT$61,500 after transaction costs (NT$26,700 before costs) over the sample period.",
+  "relation": "Day-trader losses with a clean identification of day traders.",
+  "read_status": "abstract read"
+ },
+ {
+  "oa_id": "W3125339824",
+  "study_type": "journal article, empirical",
+  "country": "Taiwan",
+  "data": "day-trading records (from the title)",
+  "method": "not stated in the record",
+  "finding": "No abstract in OpenAlex, Crossref or Semantic Scholar; not summarised.",
+  "relation": "Source for the share of day traders with persistent skill; read before quoting.",
+  "read_status": "metadata only (no abstract available)"
+ },
+ {
+  "oa_id": "W3125905545",
+  "study_type": "journal article, clinical study",
+  "country": "US",
+  "data": "day-traders (from the title)",
+  "method": "not stated in the record",
+  "finding": "No abstract available; not summarised.",
+  "relation": "Emotion and trading performance among day traders; read before citing.",
+  "read_status": "metadata only (no abstract available)"
+ },
+ {
+  "oa_id": "W3121282282",
+  "study_type": "journal article, empirical",
+  "country": "unknown",
+  "data": "not stated",
+  "method": "not stated",
+  "finding": "No abstract available; not summarised.",
+  "relation": "Learning from trading experience; read before citing.",
+  "read_status": "metadata only (no abstract available)"
+ },
+ {
+  "oa_id": "W2127665088",
+  "study_type": "journal article, empirical",
+  "country": "US",
+  "data": "individual investors 1964-70 (from the title)",
+  "method": "not stated",
+  "finding": "No abstract available; not summarised.",
+  "relation": "Early performance record of individual investors.",
+  "read_status": "metadata only (no abstract available)"
+ },
+ {
+  "oa_id": "W2712733770",
+  "study_type": "handbook chapter, review",
+  "country": "global",
+  "data": "not stated",
+  "method": "review",
+  "finding": "No abstract available; not summarised.",
+  "relation": "Review of retail investor behaviour by two leading authors.",
+  "read_status": "metadata only (no abstract available)"
+ },
+ {
+  "oa_id": "W1858758572",
+  "study_type": "journal article, empirical",
+  "country": "UK",
+  "data": "trading records of UK individual investors, 2006-2009",
+  "method": "account-level analysis of stop-loss use",
+  "finding": "Stop losses used as part of investment decisions are an effective tool against the disposition effect; stop-loss users have less experience.",
+  "relation": "Stop-losses and retail behaviour.",
+  "read_status": "abstract read"
+ },
+ {
+  "oa_id": "W2603143682",
+  "study_type": "journal article, empirical",
+  "country": "UK",
+  "data": "over three years of trading data on 7,200 investors",
+  "method": "multivariable regression",
+  "finding": "Frequent trading is positively associated with being male, younger, using stop losses and using multiple trading channels.",
+  "relation": "Who overtrades.",
+  "read_status": "abstract read"
+ },
+ {
+  "oa_id": "W3123986875",
+  "study_type": "journal article, empirical",
+  "country": "Taiwan",
+  "data": "lottery jackpots and individual-investor trading",
+  "method": "event-style analysis around large jackpots",
+  "finding": "When jackpots exceed NT$500 million, trading volume falls 5.2% to 9.1% in stocks preferred by individuals, consistent with trading as a substitute for gambling.",
+  "relation": "Trading as gambling; relevant to challenge buyers.",
+  "read_status": "abstract read"
+ },
+ {
+  "oa_id": "W4410353577",
+  "study_type": "journal article, cross-sectional survey",
+  "country": "Spain",
+  "data": "1,429 adults; 28.6% engaged in non-professional trading",
+  "method": "weighted latent class analysis",
+  "finding": "Three subgroups of retail investors are found, the largest being crypto-traders (52.4%); the paper compares involvement, impulsivity, cognitive biases and problem gambling across them.",
+  "relation": "Gambling overlap in retail traders.",
+  "read_status": "abstract read"
+ },
+ {
+  "oa_id": "W2565774457",
+  "study_type": "journal article, survey (from the title)",
+  "country": "Australia",
+  "data": "day traders (South Australia)",
+  "method": "not stated",
+  "finding": "No abstract available; not summarised.",
+  "relation": "Day traders compared with gamblers.",
+  "read_status": "metadata only (no abstract available)"
+ },
+ {
+  "oa_id": "W2949665310",
+  "study_type": "case study",
+  "country": "Malaysia",
+  "data": "one proprietary day trader at Bursa Malaysia",
+  "method": "single-case study",
+  "finding": "Contrasting with the literature on failed traders who trade actively and speculatively, the successful proprietary trader studied is described as highly attentive (abstract truncated in the record).",
+  "relation": "A single success case, not evidence on base rates.",
+  "read_status": "abstract read"
+ },
+ {
+  "oa_id": "W59574001",
+  "study_type": "working paper (SSRN), empirical",
+  "country": "Taiwan futures",
+  "data": "trade-by-trade records of retail, foreign institutional and proprietary traders",
+  "method": "new discipline measures, profitability regressions",
+  "finding": "Constructs trade-level measures of trading discipline and examines whether more disciplined traders are more profitable (abstract truncated).",
+  "relation": "Discipline and profit; includes proprietary traders.",
+  "read_status": "abstract read"
+ },
+ {
+  "oa_id": "W2790252415",
+  "study_type": "journal article, empirical",
+  "country": "unknown",
+  "data": "day-trading strategy data",
+  "method": "comparison of leverage rules (Kelly, optimal fraction)",
+  "finding": "Leverage can increase profit in a popular day-trading strategy; the article relates it to the Kelly criterion and the optimal fraction criterion.",
+  "relation": "Sizing and leverage: the lever that drives pass probability.",
+  "read_status": "abstract read"
+ },
+ {
+  "oa_id": "W3138835085",
+  "study_type": "journal article, empirical",
+  "country": "Bitcoin futures",
+  "data": "one-minute candlesticks",
+  "method": "out-of-sample test of take-profit and stop-loss exits",
+  "finding": "Taking profit after three consecutive bullish (bearish) one-minute candlesticks yields a notable positive average profit per trade, robust out of sample in an upward trend.",
+  "relation": "Take-profit/stop-loss exits in a retail setting; check for data-snooping.",
+  "read_status": "abstract read"
+ },
+ {
+  "oa_id": "W4317506856",
+  "study_type": "journal article, empirical",
+  "country": "US ETFs",
+  "data": "four market and nine sector ETFs, 2001-2021",
+  "method": "trailing stop-loss rules with fixed and volatility-based thresholds",
+  "finding": "Thresholds of 1.0 to 1.5 standard deviations give significantly higher excess returns; most trailing stop-loss strategies post positive excess returns after costs and risk.",
+  "relation": "Trailing stops as a rule; Sean's trailing drawdown is the mirror image.",
+  "read_status": "abstract read"
+ },
+ {
+  "oa_id": "W2029633324",
+  "study_type": "journal article, theory",
+  "country": "n/a",
+  "data": "none",
+  "method": "Laplace-transform solution of two-sided first passage for a Markov process",
+  "finding": "Solves the first passage problem for a continuous Markov process leaving an interval; from the distribution of the exit time it deduces the distribution of the maximum and the range.",
+  "relation": "Classical double-barrier exit law underlying the challenge pass/fail.",
+  "read_status": "abstract read"
+ },
+ {
+  "oa_id": "W1973164504",
+  "study_type": "journal article, theory",
+  "country": "n/a",
+  "data": "none",
+  "method": "drawdowns and rallies of Brownian motion",
+  "finding": "Determines the probability that a drawdown of a units precedes a rally of b units and applies it to stock-market crashes and rallies in the geometric Brownian motion model.",
+  "relation": "Closest published statement of the trailing-drawdown challenge.",
+  "read_status": "abstract read"
+ },
+ {
+  "oa_id": "W2119657026",
+  "study_type": "journal article, theory",
+  "country": "n/a",
+  "data": "none",
+  "method": "distribution of the maximum drawdown of Brownian motion with drift",
+  "finding": "Gives an infinite-series representation of the distribution of the maximum drawdown and its expectation; the limiting behaviour is logarithmic (positive drift), square root (zero drift) or linear.",
+  "relation": "Survival in the funded stage.",
+  "read_status": "abstract read"
+ },
+ {
+  "oa_id": "W2104089070",
+  "study_type": "journal article, theory",
+  "country": "n/a",
+  "data": "none",
+  "method": "stopped diffusions with drawdown/drawup stopping times",
+  "finding": "No abstract available; not summarised.",
+  "relation": "General-diffusion version of drawdown stopping results.",
+  "read_status": "metadata only (no abstract available)"
+ },
+ {
+  "oa_id": "W1600138544",
+  "study_type": "journal article, theory",
+  "country": "n/a",
+  "data": "none",
+  "method": "drawdowns and rallies with a finite horizon",
+  "finding": "No abstract available; not summarised.",
+  "relation": "Same question as Hadjiliadis-Vecer with a deadline.",
+  "read_status": "metadata only (no abstract available)"
+ },
+ {
+  "oa_id": "W2046913100",
+  "study_type": "journal article, theory",
+  "country": "n/a",
+  "data": "none",
+  "method": "optimal investment under a drawdown constraint",
+  "finding": "For constant relative risk aversion, the optimal policy invests in risky assets in proportion to the surplus between wealth and a fraction alpha of its running maximum.",
+  "relation": "Investing under a drawdown constraint (the skilled trader's side).",
+  "read_status": "abstract read"
+ },
+ {
+  "oa_id": "W2111302854",
+  "study_type": "journal article, theory",
+  "country": "n/a",
+  "data": "none",
+  "method": "growth-optimal portfolio under non-linear drawdown constraints (semimartingale model)",
+  "finding": "Solves the long-term growth problem under a drawdown constraint by showing it equals an unconstrained problem with a modified utility.",
+  "relation": "Extends Grossman-Zhou.",
+  "read_status": "abstract read"
+ },
+ {
+  "oa_id": "W3123675609",
+  "study_type": "journal article, methodology",
+  "country": "n/a",
+  "data": "single and multi-scenario paths",
+  "method": "Conditional Drawdown risk measure",
+  "finding": "Introduces conditional drawdown (CDD), the mean of the worst (1-alpha) drawdowns, with Maximal and Average Drawdown as limits and efficient optimisation techniques.",
+  "relation": "Drawdown as a risk measure.",
+  "read_status": "abstract read"
+ },
+ {
+  "oa_id": "W2155847265",
+  "study_type": "journal article, theory",
+  "country": "n/a",
+  "data": "none",
+  "method": "sensitivities to running maximum and maximum drawdown",
+  "finding": "Defines new Greeks for sensitivities to the running maximum and maximum drawdown, relevant to hedge-fund net asset value and performance fees.",
+  "relation": "High-water-mark contracts as derivatives.",
+  "read_status": "abstract read"
+ },
+ {
+  "oa_id": "W3125885723",
+  "study_type": "journal article, theory",
+  "country": "n/a",
+  "data": "none",
+  "method": "stop-outs under serial correlation",
+  "finding": "On average the recovery from a maximum quantile loss spans three times the period of accumulating it (the triple penance rule); the framework is generalised to first-order autocorrelation.",
+  "relation": "Stop-out thresholds for managers.",
+  "read_status": "abstract read"
+ },
+ {
+  "oa_id": "W2168954579",
+  "study_type": "journal article, theory",
+  "country": "n/a",
+  "data": "none",
+  "method": "continuity correction for discrete barrier options",
+  "finding": "Discrete barrier options can be priced with remarkable accuracy using continuous-barrier formulas after a simple shift of the barrier.",
+  "relation": "Why end-of-day-only breach checks raise zero-edge pass rates.",
+  "read_status": "abstract read"
+ },
+ {
+  "oa_id": "W3124756721",
+  "study_type": "journal article, theory",
+  "country": "n/a",
+  "data": "none",
+  "method": "maximise probability of reaching a wealth goal by a deadline",
+  "finding": "Finds the policy that maximises the probability of reaching a given wealth level by a fixed terminal time with n risky assets and a riskless one (generalising Kulldorff and Heath).",
+  "relation": "Bold play as the way to hit a profit target.",
+  "read_status": "abstract read"
+ },
+ {
+  "oa_id": "W2943161183",
+  "study_type": "journal article, theory and simulation",
+  "country": "n/a",
+  "data": "none",
+  "method": "four stop-loss implementations with overnight gaps and flash-crash drops",
+  "finding": "Analyses the performance of four popular stop-loss implementations for asset prices modelled with overnight gaps and momentary price drops (abstract truncated).",
+  "relation": "Stop-loss efficacy under gaps; relevant to breach at the stop.",
+  "read_status": "abstract read"
+ },
+ {
+  "oa_id": "W2171169470",
+  "study_type": "journal article, theory",
+  "country": "n/a",
+  "data": "none",
+  "method": "minimising the probability of ruin for a firm with random risk process",
+  "finding": "Solves for investment strategies that minimise the risk of ruin when bankruptcy risk cannot be eliminated.",
+  "relation": "Ruin-minimising investment.",
+  "read_status": "abstract read"
+ },
+ {
+  "oa_id": "W2105364396",
+  "study_type": "journal article, theory",
+  "country": "n/a",
+  "data": "none",
+  "method": "Bayesian Kelly strategy",
+  "finding": "For log utility with an unobserved drift, the optimal bet is a fraction of wealth linear in the posterior mean increment (a generalised Kelly strategy).",
+  "relation": "Sizing under uncertainty about edge.",
+  "read_status": "abstract read"
+ },
+ {
+  "oa_id": "W2472233234",
+  "study_type": "journal article, theory",
+  "country": "n/a",
+  "data": "none",
+  "method": "double barrier options by path counting",
+  "finding": "Gives analytic valuation formulas for options with two barriers (including rebates) using only defining properties of Brownian paths.",
+  "relation": "Double-barrier exit mathematics in the option-pricing literature.",
+  "read_status": "abstract read"
+ },
+ {
+  "oa_id": "W2023970747",
+  "study_type": "journal article, theory",
+  "country": "n/a",
+  "data": "none",
+  "method": "double barrier options via Laplace transforms",
+  "finding": "No abstract available; not summarised.",
+  "relation": "Double-barrier option pricing.",
+  "read_status": "metadata only (no abstract available)"
+ },
+ {
+  "oa_id": "W2163276114",
+  "study_type": "handbook chapter, review",
+  "country": "n/a",
+  "data": "none",
+  "method": "Kelly criterion in blackjack, sports betting and the stock market",
+  "finding": "No abstract available; not summarised.",
+  "relation": "Standard Kelly reference.",
+  "read_status": "metadata only (no abstract available)"
+ },
+ {
+  "oa_id": "W3124187603",
+  "study_type": "journal article, theory",
+  "country": "n/a",
+  "data": "none",
+  "method": "stop-loss rules",
+  "finding": "No abstract available; not summarised.",
+  "relation": "Title asks when stop-loss rules stop losses; read before citing.",
+  "read_status": "metadata only (no abstract available)"
+ },
+ {
+  "oa_id": "W1484091935",
+  "study_type": "book chapter, theory",
+  "country": "n/a",
+  "data": "none",
+  "method": "portfolio optimisation under drawdown constraints",
+  "finding": "No abstract available; not summarised.",
+  "relation": "Early drawdown-constraint result.",
+  "read_status": "metadata only (no abstract available)"
+ }
+]

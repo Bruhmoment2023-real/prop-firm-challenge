@@ -1,0 +1,360 @@
+{
+ "paper_id": "01-prop-firm-challenge",
+ "paper_title": "Zero-skill traders passing retail prop-firm trading challenges: first-passage and drawdown mathematics, retail trader performance, prop-firm incentives",
+ "year_min": 1950,
+ "year_max": 2026,
+ "sublits": {
+  "a": {
+   "label": "Retail trader performance and day trading",
+   "include": [
+    "(?:(?<![a-z]-)(?<!ex )(?<!first )(?<!dividend )(?<!announcement )(?<!sunday )\\bday[- ]trad(er|ing))|(?:trading is hazardous)|(?:retail (fx|forex|foreign exchange|cfd|currency|derivatives?|options?) (trad|invest|client|broker))|(?:(individual|retail|household|amateur) (investors?|traders?|trading)'?.{0,80}(profit|perform|los[es]|lose|skill|learn|leverag|gambl|overconfiden|overtrad))|(?:(profit|performance|loss|losses|skill|learning|leverage|gambling|overconfidence).{0,60}(individual|retail|household|amateur) (investors?|traders?))|(?:learning by trading)|(?:speculator skill)|(?:contracts? for differences?)|(?:behaviou?r of individual investors)|(?:individual investors?)|(?:retail investors?)|(?:retail (traders?|trading))|(?:overconfiden)|(?:gambl)|(?:lotter)|(?:leverage)|(?:binary options?)|(?:trading (performance|profit|loss|skill|experience))|(?:disposition effect)|(?:sensation[- ]seeking)|(?:excessive trading|overtrad)|(?:robinhood)|(?:(social|copy)[- ]trading)|(?:learn(ing)? (from|by|about) (trading|experience|their ability))|(?:lose money|losses)|(?:amateur|novice|inexperienced)",
+    "\\b(stock|equit|financ|trader|trading|investor|invest|market|portfolio|asset|currenc|exchange rate|foreign exchange|forex|futures|option|hedge fund|mutual fund|fund manager|return|price|bitcoin|crypto|wealth|gambl|betting)\\w*"
+   ],
+   "strong": [
+    "(?<![a-z]-)(?<!ex )(?<!first )(?<!dividend )(?<!announcement )(?<!sunday )\\bday[- ]trad(er|ing)",
+    "trading is hazardous",
+    "retail (fx|forex|foreign exchange|cfd|currency|derivatives?|options?) (trad|invest|client|broker)",
+    "(individual|retail|household|amateur) (investors?|traders?|trading)'?.{0,80}(profit|perform|los[es]|lose|skill|learn|leverag|gambl|overconfiden|overtrad)",
+    "(profit|performance|loss|losses|skill|learning|leverage|gambling|overconfidence).{0,60}(individual|retail|household|amateur) (investors?|traders?)",
+    "learning by trading",
+    "speculator skill",
+    "contracts? for differences?",
+    "behaviou?r of individual investors"
+   ],
+   "weak": [
+    "individual investors?",
+    "retail investors?",
+    "retail (traders?|trading)",
+    "overconfiden",
+    "gambl",
+    "lotter",
+    "leverage",
+    "binary options?",
+    "trading (performance|profit|loss|skill|experience)",
+    "disposition effect",
+    "sensation[- ]seeking",
+    "excessive trading|overtrad",
+    "robinhood",
+    "(social|copy)[- ]trading",
+    "learn(ing)? (from|by|about) (trading|experience|their ability)",
+    "lose money|losses",
+    "amateur|novice|inexperienced"
+   ],
+   "context": "\\b(stock|equit|financ|trader|trading|investor|invest|market|portfolio|asset|currenc|exchange rate|foreign exchange|forex|futures|option|hedge fund|mutual fund|fund manager|return|price|bitcoin|crypto|wealth|gambl|betting)\\w*",
+   "exclude": [
+    "\\b(electricity|energy|power|emission|carbon) (market|trading)",
+    "retail (store|sector|industry|chain|price|sales|bank)|retailing|retailers?\\b",
+    "\\bgst\\b|shopkeep|street vend|wholesale|sunday trading|merchant"
+   ],
+   "exclude_soft": [
+    "reinforcement learning|deep learning|neural network|\\blstm\\b|transformer|machine learning|deep q",
+    "\\besg\\b",
+    "\\bipo\\b",
+    "earnings announcement",
+    "disclosure"
+   ],
+   "exclude_title": [
+    "(determinants?|factors?) (of|influencing|affecting|on)\\b.*(investment|investor|decision)",
+    "investment (decisions?|intentions?|behaviou?r)(?!.*(performance|profit|loss))",
+    "herd",
+    "\\besg\\b|socially responsible|sharia|conscience|corporate social|environmental",
+    "financial literacy",
+    "personality|big[- ]five|religio",
+    "intention",
+    "perception",
+    "\\bipo\\b",
+    "mutual funds?",
+    "robo-?advis",
+    "tax[- ](motivated|loss)",
+    "reinforcement learning|deep learning|neural network|\\blstm\\b|transformer|machine learning|deep q"
+   ],
+   "crossref": [
+    "day trading profitability",
+    "day traders performance skill",
+    "retail investors trading performance losses",
+    "individual investors trading performance common stock",
+    "retail forex traders profitability",
+    "retail foreign exchange traders leverage",
+    "learning by trading individual investors",
+    "do day traders learn about their ability",
+    "retail traders derivatives losses",
+    "gambling stock market individual investors",
+    "contracts for difference retail investors",
+    "retail options trading losses",
+    "overconfidence trading volume individual investors",
+    "retail traders cryptocurrency performance"
+   ],
+   "s2": [
+    "\"day trading\" | \"day traders\" | \"day trader\" | \"retail traders\" | \"retail trader\" | \"retail trading\"",
+    "(\"individual investors\" | \"retail investors\") + (performance | profitability | losses | skill | overconfidence | gambling)"
+   ],
+   "arxiv": [
+    "all:\"day trading\" AND cat:q-fin.*",
+    "all:\"retail traders\" AND cat:q-fin.*",
+    "all:\"retail investors\" AND all:profitability"
+   ],
+   "eric": [],
+   "openalex": []
+  },
+  "b": {
+   "label": "First-passage, barrier, ruin and drawdown mathematics",
+   "include": [
+    "(?:gambler'?s'? ruin)|(?:risk of ruin)|(?:probabilit(y|ies) of ruin|ruin probabilit)|(?:double[- ]barrier)|(?:two[- ]sided (exit|barrier))|(?:two barriers)|(?:draw[- ]?downs?)|(?:triple[- ]barrier)|(?:take[- ]profit)|(?:bold play)|(?:how to gamble if you must)|(?:goal[- ]reaching|reach(ing)? (a |the )?(goal|target)s? (by|before))|(?:kelly (criterion|betting|strateg|portfolio|gambl))|(?:stop[- ]loss)|(?:first[- ]passage)|(?:hitting times?)|(?:first[- ]exit|exit times?)|(?:barrier options?)|(?:brownian motion)|(?:random walk)|(?:absorbing (barrier|boundar))|(?:optimal stopping)|(?:survival)|(?:\\bruin\\b)|(?:barriers?)|(?:profit target)|(?:stopping (rule|time))|(?:path[- ]dependent)|(?:exit (rule|strateg))",
+    "\\b(stock|equit|financ|trader|trading|investor|invest|market|portfolio|asset|currenc|exchange rate|foreign exchange|forex|futures|option|hedge fund|mutual fund|fund manager|return|price|bitcoin|crypto|wealth|gambl|betting)\\w*"
+   ],
+   "strong": [
+    "gambler'?s'? ruin",
+    "risk of ruin",
+    "probabilit(y|ies) of ruin|ruin probabilit",
+    "double[- ]barrier",
+    "two[- ]sided (exit|barrier)",
+    "two barriers",
+    "draw[- ]?downs?",
+    "triple[- ]barrier",
+    "take[- ]profit",
+    "bold play",
+    "how to gamble if you must",
+    "goal[- ]reaching|reach(ing)? (a |the )?(goal|target)s? (by|before)",
+    "kelly (criterion|betting|strateg|portfolio|gambl)",
+    "stop[- ]loss"
+   ],
+   "weak": [
+    "first[- ]passage",
+    "hitting times?",
+    "first[- ]exit|exit times?",
+    "barrier options?",
+    "brownian motion",
+    "random walk",
+    "absorbing (barrier|boundar)",
+    "optimal stopping",
+    "survival",
+    "\\bruin\\b",
+    "barriers?",
+    "profit target",
+    "stopping (rule|time)",
+    "path[- ]dependent",
+    "exit (rule|strateg)"
+   ],
+   "context": "\\b(stock|equit|financ|trader|trading|investor|invest|market|portfolio|asset|currenc|exchange rate|foreign exchange|forex|futures|option|hedge fund|mutual fund|fund manager|return|price|bitcoin|crypto|wealth|gambl|betting)\\w*",
+   "exclude": [
+    "insur",
+    "reinsur",
+    "actuar",
+    "\\bclaims?\\b",
+    "cram[e\u00e9]r|lundberg",
+    "surplus process",
+    "dividend (problem|payment|strateg|barrier|optimi)",
+    "\\b(neuron|cell|protein|molecul|epidemi|patient|clinical|polymer|groundwater|military|troop)\\w*",
+    "credit risk|default (risk|probabilit|time)|structural model",
+    "stop[- ]loss (reinsurance|premium|order(ing)?s? of|transform|contract)",
+    "consumption draw|drawdown constraints? on consumption",
+    "robot|servoing|kinodynamic|resonant|tunnel(l)?ing|geofoam|waterway|reservoir|retirement|pension|income drawdown|longevity|annuit|credit line"
+   ],
+   "exclude_soft": [
+    "reinforcement learning|deep learning|neural network|\\blstm\\b|transformer|machine learning|deep q"
+   ],
+   "exclude_title": [
+    "reinforcement learning|deep learning|neural network|\\blstm\\b|transformer|machine learning|deep q",
+    "\\blstm\\b|deep |reinforcement|xgboost|genetic algorithm|fuzzy|ensemble learning|quantum"
+   ],
+   "crossref": [
+    "gambler's ruin trading",
+    "risk of ruin trading strategy",
+    "double barrier first passage time Brownian motion",
+    "double barrier option pricing",
+    "maximum drawdown Brownian motion distribution",
+    "drawdown constraint portfolio optimization",
+    "trailing drawdown trading",
+    "stop-loss take-profit optimal trading",
+    "probability of reaching a goal before ruin",
+    "Kelly criterion drawdown",
+    "first passage time trading strategy finance",
+    "triple barrier method labeling",
+    "optimal stopping trading exit barrier",
+    "bold play gambling reaching a goal",
+    "drawdown probability trading strategy",
+    "maximizing probability of reaching a goal portfolio",
+    "stop-loss rules performance"
+   ],
+   "s2": [
+    "(\"gambler's ruin\" | \"risk of ruin\") + (trading | finance | investor | portfolio | betting | market)",
+    "drawdown + (portfolio | trading | \"Brownian motion\" | investment)",
+    "\"double barrier\" + (option | Brownian | \"first passage\" | trading)",
+    "(\"first passage\" | \"hitting time\" | \"first exit\") + (trading | \"stock price\" | portfolio | \"trading strategy\" | investor)",
+    "(\"stop-loss\" | \"take-profit\" | \"stop loss\") + (trading | portfolio | strategy)",
+    "\"Kelly criterion\" | \"goal-reaching\" | \"bold play\""
+   ],
+   "arxiv": [
+    "all:drawdown AND cat:q-fin.*",
+    "all:\"gambler's ruin\" AND (cat:q-fin.* OR cat:math.PR)",
+    "all:\"double barrier\" AND cat:q-fin.*",
+    "all:\"stop-loss\" AND cat:q-fin.*",
+    "all:\"Kelly criterion\" AND cat:q-fin.*",
+    "all:\"first passage\" AND cat:q-fin.TR"
+   ],
+   "eric": [],
+   "openalex": []
+  },
+  "c": {
+   "label": "Prop firms, funded-trader programmes, contests and tournament incentives",
+   "include": [
+    "(?:proprietary[- ]trad)|(?:\\bprop(rietary)?[- ](firm|shop|desk|trading|trader)s?)|(?:funded[- ](trader|account))|(?:trading (contest|competition|tournament|championship|game|challenge)s?)|(?:(stock[- ]market|stock|investing|portfolio) (simulation )?(contest|competition|game|tournament)s?)|(?:investment (contest|competition|challenge|tournament)s?)|(?:tournament (incentive|behavio|risk))|(?:tournaments? and temptations?)|(?:rank[- ]order tournaments?)|(?:high[- ]water ?marks?)|(?:convex (incentive|compensation|payoff|reward)s?)|(?:option[- ]like (compensation|incentive|payoff|feature|contract)s?)|(?:incentive fees?)|(?:performance fees?)|(?:risk[- ]shifting)|(?:professional traders?)|(?:leaderboards?)|(?:(mutual|hedge) fund tournaments?)|(?:limited liability)|(?:risk[- ]taking)|(?:relative performance)|(?:tournaments?)|(?:delegated portfolio)|(?:contests?)|(?:rankings?)|(?:compensation)|(?:investment games?)|(?:floor traders?|market makers?)|(?:career concerns)|(?:fund flows?)",
+    "\\b(traders?|trading|hedge funds?|mutual funds?|fund managers?|portfolio managers?|money managers?|investors?|stock market|asset managers?|investment (contest|competition|game)s?|speculat\\w+)\\b"
+   ],
+   "strong": [
+    "proprietary[- ]trad",
+    "\\bprop(rietary)?[- ](firm|shop|desk|trading|trader)s?",
+    "funded[- ](trader|account)",
+    "trading (contest|competition|tournament|championship|game|challenge)s?",
+    "(stock[- ]market|stock|investing|portfolio) (simulation )?(contest|competition|game|tournament)s?",
+    "investment (contest|competition|challenge|tournament)s?",
+    "tournament (incentive|behavio|risk)",
+    "tournaments? and temptations?",
+    "rank[- ]order tournaments?",
+    "high[- ]water ?marks?",
+    "convex (incentive|compensation|payoff|reward)s?",
+    "option[- ]like (compensation|incentive|payoff|feature|contract)s?",
+    "incentive fees?",
+    "performance fees?",
+    "risk[- ]shifting",
+    "professional traders?",
+    "leaderboards?",
+    "(mutual|hedge) fund tournaments?"
+   ],
+   "weak": [
+    "limited liability",
+    "risk[- ]taking",
+    "relative performance",
+    "tournaments?",
+    "delegated portfolio",
+    "contests?",
+    "rankings?",
+    "compensation",
+    "investment games?",
+    "floor traders?|market makers?",
+    "career concerns",
+    "fund flows?"
+   ],
+   "context": "\\b(traders?|trading|hedge funds?|mutual funds?|fund managers?|portfolio managers?|money managers?|investors?|stock market|asset managers?|investment (contest|competition|game)s?|speculat\\w+)\\b",
+   "exclude": [
+    "volcker",
+    "sports?\\b|football|soccer|tennis|golf|athlet|poker|chess",
+    "\\b(electricity|energy|power|emission|carbon) (market|trading)",
+    "\\bceos?\\b|executive compensation|corporate tournament",
+    "\\bbanks?\\b|banking",
+    "merger|antitrust|\\btax\\b|\\bvat\\b|insur|farm|cournot|pension"
+   ],
+   "exclude_soft": [
+    "reinforcement learning|deep learning|neural network|\\blstm\\b|transformer|machine learning|deep q"
+   ],
+   "exclude_title": [],
+   "crossref": [
+    "proprietary trading firm traders",
+    "proprietary traders behavior risk taking",
+    "funded trader program evaluation",
+    "prop firm trading challenge",
+    "trading competition participants performance",
+    "trading contest risk taking",
+    "investment competition risk taking tournament",
+    "tournament incentives risk taking fund managers",
+    "mutual fund tournament risk taking",
+    "high-water mark hedge fund risk taking",
+    "convex incentives risk taking traders",
+    "stock market simulation game students trading",
+    "option-like compensation risk shifting portfolio managers",
+    "limited liability traders risk taking experiment",
+    "professional traders behavioral biases",
+    "social trading platform leaderboard",
+    "rank-order tournaments risk taking contest"
+   ],
+   "s2": [
+    "\"proprietary trading\" | \"proprietary traders\" | \"prop firm\" | \"prop trading\" | \"funded trader\"",
+    "\"trading competition\" | \"trading contest\" | \"investment competition\" | \"investment contest\" | \"stock market game\" | \"trading tournament\" | \"investment game\" | \"trading competitions\" | \"trading contests\"",
+    "tournament + (\"risk taking\" | \"risk-taking\") + (fund | traders | managers | investment)",
+    "\"high-water mark\" | \"convex incentives\" | \"option-like compensation\" | \"incentive fees\" | \"risk shifting\" + (fund | trader | portfolio)"
+   ],
+   "arxiv": [
+    "all:\"proprietary trading\"",
+    "all:\"prop firm\" OR all:\"funded trader\" OR all:\"prop trading\"",
+    "all:\"trading competition\" OR all:\"trading contest\"",
+    "all:\"high-water mark\" AND cat:q-fin.*"
+   ],
+   "eric": [],
+   "openalex": []
+  }
+ },
+ "exclude": "",
+ "n_per_query": {
+  "crossref": 200
+ },
+ "snowball_n_central": 25,
+ "seed_titles": [
+  "Trading Is Hazardous to Your Wealth: The Common Stock Investment Performance of Individual Investors",
+  "Do Day Traders Rationally Learn About Their Ability?",
+  "The cross-section of speculator skill: Evidence from day trading",
+  "Day trading for a living?",
+  "Reaching goals by a deadline: digital options and continuous-time active portfolio management",
+  "Of Tournaments and Temptations: An Analysis of Managerial Incentives in the Mutual Fund Industry",
+  "Risk Taking by Mutual Funds as a Response to Incentives",
+  "Does Option Compensation Increase Managerial Risk Appetite?",
+  "High-Water Marks and Hedge Fund Management Contracts",
+  "Do Behavioral Biases Affect Prices?",
+  "On the maximum drawdown of a Brownian motion",
+  "Optimal Investment Strategies for Controlling Drawdowns",
+  "Peer Pressure: Social Interaction and the Disposition Effect",
+  "Should Retail Investors' Leverage Be Limited?",
+  "Rank-Order Tournaments as Optimum Labor Contracts",
+  "Are Professional Traders Too Slow to Realize Their Losses?",
+  "Professional trader discipline and trade disposition",
+  "Survival and Growth with a Liability: Optimal Portfolio Strategies in Continuous Time",
+  "When Do Stop-Loss Rules Stop Losses?",
+  "The Behavior of Individual Investors"
+ ],
+ "seed_dois": [
+  "10.1016/B978-0-44-459406-8.00022-6",
+  "10.1016/j.finmar.2013.05.006",
+  "10.2139/ssrn.3423101",
+  "10.2469/faj.v59.n6.2578"
+ ],
+ "seed_arxiv": [
+  "2607.20093"
+ ],
+ "manual_exclude": {},
+ "core_terms": {
+  "prop(rietary)?[- ](firm|trad)|funded[- ]trader|trading (challenge|contest|competition)": 3,
+  "day[- ]trad|retail (trader|investor|forex|fx)|individual investors?": 2,
+  "drawdown|gambler|ruin|double[- ]barrier|first[- ]passage|hitting time|stop[- ]loss|kelly": 2,
+  "tournament|high[- ]water|incentive|risk[- ]shifting|option compensation": 1
+ },
+ "n_evidence_candidates": 70,
+ "heatmap": {
+  "title": "Methods against markets and data: what kind of evidence the trader-performance, barrier-mathematics and incentive literatures rest on (coded from title + abstract)",
+  "row_title": "Method or evidence type named in title/abstract",
+  "col_title": "Market or data named in title/abstract",
+  "caution": "Mention is not design: a paper that names 'stocks' once in its motivation counts the same as one that tests only stocks, and only title and abstract are read (about 24% of records have no abstract). Cells are not exclusive.",
+  "rows": {
+   "Brokerage / transaction-account data": "\\b(brokerage|broker (data|accounts?)|account[- ]level|transaction (data|records)|trade[- ]level|household (accounts?|data)|administrative data|clearinghouse)\\b",
+   "Performance / skill measurement": "\\b(performance|profitab\\w+|skill|alpha|sharpe|losses|lose)\\b",
+   "Behavioural biases": "\\b(overconfiden\\w*|disposition effect|gambl\\w+|lotter\\w+|sensation[- ]seeking|behaviou?ral|biases?|herd\\w*)\\b",
+   "Experiments / games / contests": "\\b(experiments?|experimental|laboratory|trading (contest|competition|game)s?|investment (contest|competition|game)s?|tournaments?|contests?|simulation game)\\b",
+   "Closed form / first passage / ruin": "\\b(first[- ]passage|hitting times?|gambler|ruin|closed[- ]form|barrier|double[- ]barrier|absorbing|optimal stopping|brownian)\\b",
+   "Drawdown / stop-loss / goal reaching": "\\b(draw[- ]?downs?|stop[- ]loss|take[- ]profit|goal[- ]reaching|kelly|bold play)\\b",
+   "Monte Carlo / simulation": "\\b(monte carlo|simulat\\w+|bootstrap)\\b",
+   "Incentives / compensation / tournaments": "\\b(incentives?|compensation|high[- ]water|fees?|risk[- ]shifting|risk[- ]taking|convex|option[- ]like|limited liability)\\b",
+   "Prop firms / funded traders": "\\b(prop(rietary)?[- ](firm|trad\\w+)|funded (trader|account)s?|evaluation (phase|challenge)|trading challenge)\\b"
+  },
+  "cols": {
+   "Stocks / equities": "\\b(stocks?|equit\\w+|share prices?|common stock)\\b",
+   "Foreign exchange / CFD": "\\b(foreign exchange|forex|\\bfx\\b|currenc\\w+|contracts? for differences?|\\bcfds?\\b)\\b",
+   "Futures": "\\b(futures)\\b",
+   "Options / derivatives": "\\b(options?|derivatives?|warrants?|binary)\\b",
+   "Cryptocurrency": "\\b(bitcoin|crypto\\w*)\\b",
+   "Mutual / hedge funds": "\\b(mutual funds?|hedge funds?|fund managers?|portfolio managers?|money managers?)\\b",
+   "Retail / individual investors": "\\b(retail|individual investors?|household|day[- ]trad\\w+|amateur)\\b",
+   "Brownian / continuous-time models": "\\b(brownian|diffusion|continuous[- ]time|random walk|martingale|stochastic)\\b"
+  }
+ },
+ "readme_limits": [
+  "Paper 01 was built in two passes: an earlier agent ran discovery, screening, snowballing and the first R tables (python/pipeline.py, python/config.py); this pass re-used that corpus unchanged (python/adapt_to_kit.py), added any paper named in 01-prior-work.md that was missing, and ran the shared kit for the remaining analyses and figures. The older R figures are the files named R02_ ... R22_; the newer ones are R_xx / py_xx."
+ ]
+}
