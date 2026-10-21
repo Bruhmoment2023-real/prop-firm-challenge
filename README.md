@@ -1,5 +1,7 @@
 # Is passing a prop-firm challenge evidence of skill? Zero-edge pass rates and the diagnostic value of a pass under ten published rule sets
 
+Archived on Zenodo: https://doi.org/10.5281/zenodo.23537728 (this DOI always points to the latest version).
+
 **Sean Solano Paul**, Independent researcher, Bengaluru, India. Funding: none. Competing interests: none.
 
 ## Summary
