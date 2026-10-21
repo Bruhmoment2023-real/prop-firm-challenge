@@ -103,9 +103,10 @@ def fig_zero_edge(a, t1):
 
 
 def fig_heatmaps(a):
-    fig, axes = plt.subplots(2, 4, figsize=(13, 5.6))
-    for row, pol in enumerate(("naive", "rule_aware")):
-        for col, k in enumerate(("FTMO_2S", "FTMO_1S", "TOPSTEP_50K", "E8_ONE")):
+    # sized for print at the paper's text width (6.5 in): rule sets down, sizing policies across; all text >= 8 pt
+    fig, axes = plt.subplots(4, 2, figsize=(6.5, 7.4))
+    for col, pol in enumerate(("naive", "rule_aware")):
+        for row, k in enumerate(("FTMO_2S", "FTMO_1S", "TOPSTEP_50K", "E8_ONE")):
             g = a[(a.rule_set == k) & (a.policy == pol) & (a.dist == "gauss")]
             p = g.pivot_table(index="trades_per_day", columns="risk", values="p_pass")
             u = g.pivot_table(index="trades_per_day", columns="risk", values="p_unresolved")
@@ -119,15 +120,16 @@ def fig_heatmaps(a):
             for i in range(p.shape[0]):
                 for j in range(p.shape[1]):
                     txt = f"{p.values[i, j]:.2f}" + ("*" if u.values[i, j] > 0.02 else "")
-                    ax.text(j, i, txt, ha="center", va="center", color="w", fontsize=7)
-            ax.set_title(f"{k} ({pol})", fontsize=8)
-            if row == 1:
-                ax.set_xlabel("per-trade s.d. (% of account)")
+                    ax.text(j, i, txt, ha="center", va="center", color="w", fontsize=8)
+            ax.set_title(f"{k} ({pol})", fontsize=9)
+            ax.tick_params(labelsize=8.5)
+            if row == 3:
+                ax.set_xlabel("per-trade s.d. (% of account)", fontsize=9)
             if col == 0:
-                ax.set_ylabel("trades per day")
-    fig.suptitle("Zero-edge pass probability, Gaussian trades (* = more than 2% of paths unresolved after 750 days per phase)")
+                ax.set_ylabel("trades per day", fontsize=9)
+    fig.suptitle("Zero-edge pass probability, Gaussian trades\n(* = more than 2% of paths unresolved after 750 days per phase)", fontsize=10)
     fig.tight_layout()
-    fig.savefig(OUT / "fig3_heatmaps.png")
+    fig.savefig(OUT / "fig3_heatmaps.png", dpi=300)
     plt.close(fig)
 
 
