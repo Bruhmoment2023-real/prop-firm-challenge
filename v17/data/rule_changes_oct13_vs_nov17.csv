@@ -1,0 +1,17 @@
+product,field,oct_13,nov_17
+FTMO_2S -> FTMO_2S,targets,0.10|0.05,0.1|0.05
+FTMO_2S -> FTMO_2S,split,0.8,0.9
+FTMO_2S -> FTMO_2S,fee_usd,604.8,593.62
+FTMO_1S -> FTMO_1S,targets,0.10,0.1
+5ERS_HS -> T5_HS,targets,0.10|0.05,0.1|0.05
+5ERS_HS -> T5_HS,max_loss,0.1,0.08
+5ERS_HS -> T5_HS,daily_loss,0.05,0.04
+5ERS_HS -> T5_HS,fee_usd,19.0,405.0
+5ERS_HS -> T5_HS,account_usd,2500,100000
+TOPSTEP_50K -> TS_50K,min_days,2,0
+E8_ONE -> E8_ONE,consistency,0.0,0.4
+FUNDERPRO_CL -> FP_CL,targets,0.10|0.05,0.1|0.05
+BRIGHT_CL2 -> BF_2S,min_days,5,0
+BRIGHT_CL2 -> BF_2S,min_profit_days,0,3
+BRIGHT_CL2 -> BF_2S,split,0.8,0.9
+BRIGHT_CL2 -> BF_2S,fee_usd,534.24,524.37
