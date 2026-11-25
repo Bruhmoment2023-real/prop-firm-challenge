@@ -1,5 +1,5 @@
 {
-  "title": "Is passing a prop-firm challenge evidence of skill? Zero-edge pass rates and the diagnostic value of a pass under ten published rule sets",
+  "title": "Passing the prop-firm challenge: rules, calibrated return processes, skill inference and the economics of evaluation fees",
   "upload_type": "software",
   "creators": [
     {
@@ -9,14 +9,16 @@
     }
   ],
   "license": "MIT",
-  "description": "Code, rule tables, simulation results and literature map for a study of retail proprietary-trading evaluations (challenges). A Monte Carlo simulator, validated against 30 closed-form results, is run on the published rules of ten products from eight firms (read 13 October 2026) to measure how often a trader with zero expected profit passes, what a purchase is worth to such a trader, and how much a pass reveals about skill (likelihood ratios and positive predictive value).",
+  "description": "<p>Code, rule dataset, simulation results, figures and analysis plan for a study of retail proprietary-trading evaluations (prop-firm challenges). Version 2 (November 2026) covers the public rules of 17 products at 12 firms, read 13 October to 17 November 2026, and extends the October study of ten products at eight firms (still in the repository root). The accompanying manuscript is under peer review.</p><p>Headline results: a trader with zero skill passed with a median probability of 20.4% across 409 resolved settings (range 2.0% to 33.2%), calibrated return processes (GARCH, filtered historical simulation, block bootstrap) and intraday monitoring; a pass has a likelihood ratio of about 2 to 3.4 for a trader with a 56% hit rate against zero skill, and less when buyers may retry; the target-to-loss ratio, any deadline and a trailing floor drive failure; under generous payout assumptions firm revenue per buyer was positive for 5 of 16 products when 1% of buyers are skilled and for 15 of 16 when buyers pay wide spreads.</p><p>Everything is in the folder v17/ (README.md there has the file map and run order). The archived text of the firm pages and the Yahoo Finance market data are not redistributed (firm text and Yahoo terms); every rule value in v17/data/rule_dataset_v3_long.csv carries its source URL, access date and Wayback link, and v17/code/fetch_market_daily.py downloads the price data again.</p><p>Licences: code under the MIT licence (LICENSE); results, derived tables and figures under CC BY 4.0 (LICENSE-DATA.md). Third-party source data keep their own terms.</p>",
   "keywords": [
     "proprietary trading",
     "evaluation challenges",
-    "gambler's ruin",
-    "optional stopping",
-    "likelihood ratio",
+    "retail trading",
+    "tournaments and contests",
     "screening tests",
-    "retail trading"
-  ]
+    "gambler's ruin",
+    "likelihood ratio",
+    "GARCH"
+  ],
+  "related_identifiers": []
 }

@@ -31,7 +31,7 @@ Data-driven map of the literature around: *Zero-skill traders passing retail pro
 $py = 'D:\Research-Publishing\_tools\biblio-venv\Scripts\python.exe'
 $b  = 'D:\Research-Publishing\01-prop-firm-challenge\bibliometrics'
 & $py "$b\python\pipeline.py" $b search enrich snowball refs master   # network; every response is cached in D:\Research-Publishing\_tools\biblio-cache
-$env:R_LIBS_USER = 'D:\Research-Publishing\_tools\R-lib;C:\Users\seans\AppData\Local\R\win-library\4.5'   # this shell only
+$env:R_LIBS_USER = 'D:\Research-Publishing\_tools\R-lib;%LOCALAPPDATA%\R\win-library\4.5'   # this shell only
 & 'C:\Program Files\R\R-4.5.3\bin\Rscript.exe' "$b\R\bibliometrix_analysis.R" $b                # tables + R figures + VOSviewer files
 & $py "$b\python\figures.py" $b        # Python figures, VOSviewer layouts, captions.md
 & $py "$b\python\pdfs.py" $b download  # open-access PDFs of the core papers

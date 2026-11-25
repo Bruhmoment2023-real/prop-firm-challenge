@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this repository, please cite it as below."
-title: "Is passing a prop-firm challenge evidence of skill? Zero-edge pass rates and the diagnostic value of a pass under ten published rule sets"
+title: "Passing the prop-firm challenge: rules, calibrated return processes, skill inference and the economics of evaluation fees"
 doi: 10.5281/zenodo.23537728
 type: software
 authors:
@@ -9,9 +9,9 @@ authors:
     orcid: "https://orcid.org/0009-0002-8465-4468"
     affiliation: "Independent researcher"
 license: MIT
-version: "2.0"
-date-released: "2026-11-18"
-abstract: "Code, rule tables, simulation results and literature map for a study of retail proprietary-trading evaluations (challenges). A Monte Carlo simulator, validated against 30 closed-form results, is run on the published rules of ten products from eight firms (read 13 October 2026) to measure how often a trader with zero expected profit passes, what a purchase is worth to such a trader, and how much a pass reveals about skill (likelihood ratios and positive predictive value)."
+version: "2.1"
+date-released: "2026-11-26"
+abstract: "Code, rule dataset, simulation results, figures and analysis plan for a study of retail proprietary-trading evaluations (challenges). Version 2 covers the public rules of 17 products at 12 firms (read 13 October to 17 November 2026): how often a trader with zero skill passes (median 20.4% across 409 resolved settings), which rules drive failure, how much a pass reveals about skill (likelihood ratio about 2 to 3.4 at a 56% hit rate), and what the rules imply for firm revenue. The October study of ten products at eight firms is kept in the repository root. Archived firm-page text and market data are not redistributed."
 keywords:
   - "proprietary trading"
   - "evaluation challenges"
@@ -19,5 +19,6 @@ keywords:
   - "optional stopping"
   - "likelihood ratio"
   - "screening tests"
+  - "GARCH"
   - "retail trading"
 repository-code: "https://github.com/Bruhmoment2023-real/prop-firm-challenge"

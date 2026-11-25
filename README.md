@@ -1,6 +1,66 @@
-# Is passing a prop-firm challenge evidence of skill? Zero-edge pass rates and the diagnostic value of a pass under ten published rule sets
+# Passing the prop-firm challenge: rules, calibrated return processes, skill inference and the economics of evaluation fees
 
-Archived on Zenodo: https://doi.org/10.5281/zenodo.23537728 (this DOI always points to the latest version).
+Archived on Zenodo: https://doi.org/10.5281/zenodo.23537728 (this DOI always points to the latest version). Version 2.0 is https://doi.org/10.5281/zenodo.24332377.
+
+**Sean Solano Paul**, Independent researcher, Bengaluru, India. ORCID: https://orcid.org/0009-0002-8465-4468. Funding: none. Competing interests: none.
+
+## Version 2 (November 2026)
+
+The November paper extends the October study from ten products at eight firms to 17 products at 12 firms, with the public rules read between 13 October and 17 November 2026. It is under peer review. This repository holds its code, rule dataset, result tables, figures and analysis plan in `v17/`.
+
+### What the paper does
+
+Retail proprietary trading firms sell evaluations ("challenges") that a trader passes by reaching a profit target before a loss limit, and they sell a pass as a sign of ability. The paper asks how often a trader with no skill passes, which rules drive failure, how much a pass says about skill, and what the rules imply for the firm's revenue. It uses a dated rule dataset, a daily-position simulator, return processes calibrated to five markets (GARCH, filtered historical simulation and block bootstrap among them) and intraday monitoring.
+
+### Headline results
+
+- **Dataset:** 17 products at 12 firms, 106 sourced rule values, rules read 13 October to 17 November 2026. Two firms refused automated access and were not worked around.
+- **Zero-skill pass rate:** median 20.4% across 409 resolved settings (range 2.0% to 33.2%). On a static two-step product the rulebook alone fixes the rate at one third, and the simulated rates sit below that ceiling.
+- **Calibration:** the GARCH process passed an out-of-sample calibration test that Gaussian processes failed.
+- **What drives failure:** the target-to-loss ratio, any deadline and a trailing floor. The daily loss limit matters mainly for one-step products.
+- **Skill inference:** a pass has a likelihood ratio of about 2 to 3.4 for a trader with a 56% hit rate against zero skill (1.8 to 3.4 across 16 products, median 2.6), and less when buyers may retry.
+- **Economics:** under generous payout assumptions, firm revenue per buyer was positive for 5 of 16 products when 1% of buyers are skilled and for 15 of 16 when buyers pay wide spreads.
+- **Limits:** these are simulations of an idealised trader, with rules read on stated dates and the paper's own funded-stage assumptions.
+
+### Where everything is
+
+All of it is in [`v17/`](v17/); [`v17/README.md`](v17/README.md) has the full file map and run order. In short: `v17/data/` (rule dataset, modelled rules, rule changes between the two reads), `v17/code/` (simulator, calibration, validation, grid, rule drivers, economics, figures, data-collection scripts), `v17/results/` (every result table), `v17/figures/`, `v17/PLAN.md` (analysis plan with its one amendment) and `v17/Online_Resource_1_appendix.pdf`.
+
+### How to rerun
+
+Python 3.12 or newer. Install `requirements.txt` plus `arch` and `psutil`, then run from the repository root:
+
+```
+python v17/code/fetch_market_daily.py              # price files (not shipped)
+python v17/code/calibrate.py
+python v17/code/validate_v3.py
+python v17/code/run_grid.py ES NQ EURUSD GOLD BTC
+python v17/code/run_grid.py headline
+python v17/code/summarise_e1.py
+python v17/code/rule_drivers.py a                  # then: b, analyse
+python v17/code/economics.py
+python v17/code/sens_ambiguous.py
+python v17/code/make_figures.py
+```
+
+Details and caveats are in `v17/README.md`.
+
+### What is not redistributed, and why
+
+- **Archived firm-page text and HTML are not included.** The rule pages are the firms' own text, so this repository does not republish them. The rule values were transcribed by the author and are in `v17/data/rule_dataset_v3_long.csv`. Every row there carries the source URL, the access date, the archived file name and a Wayback Machine link (`wayback_url`, `wayback_timestamp`) to the nearest public snapshot. The Wayback copy is the closest public record, not necessarily the page exactly as read.
+- **Market data is not included.** The daily price files come from Yahoo Finance and are not redistributed under its terms. `v17/code/fetch_market_daily.py` downloads them again; the calibration window ends on 14 November 2026, so the fit can be reproduced.
+
+### Licences
+
+Code: MIT (`LICENSE`). Results, derived tables and figures: CC BY 4.0 (`LICENSE-DATA.md`). Third-party source data keep their own terms.
+
+---
+
+## Version 1 (October 2026)
+
+The description below is of the October paper and the root `code/`, `data/` and `results/` folders. It is unchanged except for this heading and the title line that follows.
+
+**October paper:** Is passing a prop-firm challenge evidence of skill? Zero-edge pass rates and the diagnostic value of a pass under ten published rule sets
 
 **Sean Solano Paul**, Independent researcher, Bengaluru, India. Funding: none. Competing interests: none.
 
