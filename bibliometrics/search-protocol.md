@@ -3,7 +3,7 @@
 - Paper question: Zero-skill traders passing retail prop-firm trading challenges: first-passage and drawdown mathematics, retail trader performance, prop-firm incentives
 - Date of search and data pull: **2026-10-13**
 - Years covered: 1950-2026; language: English (OpenAlex language field `en` or missing)
-- Built by an AI agent (Claude) with the scripts in `python\` and `R\`; all numbers below are read from the run logs.
+- Built with the scripts in `python\` and `R\`; all numbers below are read from the run logs.
 
 ## 1. Databases
 

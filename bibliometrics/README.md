@@ -5,7 +5,7 @@ Data-driven map of the literature around: *Zero-skill traders passing retail pro
 - **Corpus size:** 910 records (First-passage, barrier, ruin and drawdown mathematics: 520; Retail trader performance and day trading: 224; Prop firms, funded-trader programmes, contests and tournament incentives: 166)
 - **Date of pull:** 2026-10-13
 - **Sources:** discovery in Crossref, Semantic Scholar and arXiv; metadata from OpenAlex; forward citations from Semantic Scholar. No Scopus/WoS data (EMPTY - no Scopus/WoS export to merge; corpus is OpenAlex-only).
-- **Made by:** an AI agent (Claude). It contains data, figures, tables and bullet-point analysis only - no manuscript prose.
+- **Contents:** data, figures, tables and bullet-point analysis only - no manuscript prose.
 
 ## What is here
 
